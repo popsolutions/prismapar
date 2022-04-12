@@ -1,5 +1,5 @@
 .linha-tempo {
-	background-image: url(../imgs/bg_historico.jpg);
+	/*background-image: url(../imgs/1200-534-max.jpg);*/
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding-top: 60px;
