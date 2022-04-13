@@ -1,0 +1,308 @@
+.section-Img-Name {
+    font-size: 24px;
+}
+
+.navbar .navbar-nav .nav-link {
+    font-size: 1.2rem;
+}
+
+.jumbotron div font:nth-child(1) {
+    font-size: 50px;
+}
+
+.jumbotron div font:nth-child(2) {
+    font-size: 30px;
+}
+
+.datas div .content_3 p {
+    text-align: justify;
+}
+
+.iframe-height {
+    height: 486px
+}
+
+.collapse.in {
+    display: block;
+}
+
+.iframe-clients iframe {
+    height: 35vh;
+}
+
+/* Numbers Animation */
+
+
+@media (max-width: 1280px) {
+    .Main-heading-globe {
+        font-size: 40px !important;
+    }
+
+    .Main-para-globe {
+        font-size: 17px !important;
+    }
+
+    .img_data {
+        width: 28vw !important;
+    }
+
+    #chartdiv {
+        width: 102%;
+        height: 54vh;
+        margin-left: 0%;
+    }
+
+    .card h1 {
+        margin-top: 288px !important;
+        font-size: 22px !important;
+    }
+
+    .slick-prev, .slick-next {
+        top: 47%;
+        z-index: 10;
+    }
+}
+
+@media (max-width: 1024px) {
+    #chartdiv {
+        width: 110%;
+        height: 54vh;
+    }
+
+    .Main-heading-globe {
+        font-size: 31px !important;
+    }
+
+    .Main-para-globe {
+        font-size: 13px !important;
+    }
+
+    .img_data {
+        width: 25vw !important;
+    }
+
+    .slick-prev, .slick-next {
+        top: 32%;
+        z-index: 10;
+    }
+
+    .card h1 {
+        margin-top: 207px !important;
+        font-size: 22px !important;
+    }
+}
+
+@media (max-width: 912px) {
+    .iframe-height {
+        height: 66vh;
+    }
+
+    #chartdiv {
+        width: 115%;
+        height: 56vh;
+        margin-left: -14%;
+    }
+
+    .Main-heading-globe {
+        font-size: 71px !important;
+    }
+
+    .Main-para-globe {
+        font-size: 26px !important;
+    }
+
+    .img_data {
+        width: 40vw !important;
+    }
+
+    .slick-slide div .card-cliente img {
+        display: block;
+        width: 9vw;
+    }
+
+    .col-detalle {
+        padding-right: 29px;
+        padding-left: 29px;
+    }
+
+    .col-nome hr {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .contato-modal {
+        padding-left: 45px;
+        padding-right: 45px;
+    }
+
+    .logo-linkedin {
+        width: 15vw;
+    }
+
+    .foto img {
+        margin-top: -44px;
+        z-index: -1;
+        height: 85vh;
+        width: 93%;
+    }
+}
+
+@media (max-width: 820px) {
+    .Main-heading-globe {
+        font-size: 77px !important;
+    }
+
+    .Main-para-globe {
+        font-size: 30px !important;
+    }
+
+    .iframe-height {
+        height: 76vh;
+    }
+}
+
+@media (max-width: 768px) {
+    .iframe-height {
+        height: 88vh;
+    }
+}
+
+@media (max-width: 540px) {
+    .Main-heading-globe {
+        font-size: 50px !important;
+    }
+
+    .Main-para-globe {
+        font-size: 25px !important;
+    }
+
+    #chartdiv {
+        width: 116%;
+        height: 56vh;
+        margin-left: -14%;
+    }
+
+    .iframe-clients iframe {
+        height: 57vh;
+    }
+
+    .modal-dialog {
+        position: relative;
+        width: auto;
+        margin: 10px;
+        margin-left: 13%;
+        width: 75% !important;
+    }
+
+    .on-mobile {
+        opacity: 1 !important;
+        height: 60vh !important;
+    }
+}
+
+@media (max-width: 425px) {
+    .Main-heading-globe {
+        font-size: 32px !important;
+    }
+
+    .Main-para-globe {
+        font-size: 15px !important;
+    }
+
+    #chartdiv {
+        width: 121%;
+        height: 71vh;
+        margin-left: -18%;
+    }
+
+    .modal-dialog {
+        position: relative;
+        width: auto;
+        margin: 10px;
+        margin-left: 3%;
+        width: 75% !important;
+    }
+
+    .col-detalle {
+        padding-right: 29px;
+        padding-left: 0px;
+    }
+
+    .foto {
+        display: none;
+    }
+
+    .modal-conteudo {
+        width: 374px;
+        height: 497px !important;
+        margin-bottom: 97px;
+        border-radius: 13px;
+    }
+
+    .iframe-clients iframe {
+        height: 39vh;
+    }
+
+    .on-mobile {
+        opacity: 1 !important;
+        height: 54vh !important;
+    }
+}
+
+@media (max-width: 414px) {
+    #chartdiv {
+        width: 122%;
+        height: 70vh;
+        margin-left: -19%;
+    }
+
+    .img_data {
+        width: 53vw !important;
+    }
+}
+
+@media (max-width: 412px) {
+    .Main-heading-globe {
+        font-size: 35px !important;
+    }
+}
+
+@media (max-width: 375px) {
+    .Main-heading-globe {
+        font-size: 32px !important;
+    }
+
+    #chartdiv {
+        width: 124%;
+        height: 72vh;
+        margin-left: -21%;
+    }
+
+    .modal-dialog {
+        position: relative;
+        width: auto;
+        margin: 10px;
+        margin-left: 0%;
+        width: 75% !important;
+    }
+
+    .modal-conteudo {
+        width: 374px !important;
+        height: 497px !important;
+        margin-bottom: 97px;
+        border-radius: 13px;
+    }
+
+    .iframe-clients iframe {
+        height: 40vh;
+    }
+
+    .slick-list {
+        position: relative;
+        display: block;
+        overflow: hidden;
+        margin: 0;
+        height: 82vh;
+        padding: 0;
+    }
+}

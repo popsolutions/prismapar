@@ -1,0 +1,284 @@
+body {
+    background-color: #083463;
+}
+
+@media (max-width: 500px) {
+    .modal-conteudo {
+        width: 400px;
+        height: 650px;
+        margin-bottom: 97px;
+        border-radius: 13px;
+    }
+
+    .logo-linkedin {
+        width: 63px;
+    }
+
+    .text-wrap {
+        margin: 20px;
+        text-align: justify;
+        font-size: 14px;
+        margin-left: 40px;
+    }
+
+    .foto {
+        visibility: hidden;
+    }
+
+    .contato-modal {
+        margin: 1px;
+    }
+
+    .col-nome h1 {
+        font-weight: bold;
+        text-align: center;
+        font-size: 34px;
+    }
+}
+
+a {
+    color: #fff;
+}
+
+.slick-prev:before,
+.slick-next:before {
+    font-size: 45px;
+}
+
+
+.slick-prev,
+.slick-next {
+    top: 43%;
+    z-index: 10;
+}
+
+.slick-prev {
+    left: 5px;
+}
+
+.slick-next {
+    right: 30px;
+}
+
+
+.card {
+    width: 100%;
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+}
+
+.card img {
+    width: 100%;
+    margin: 0px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.card h1 {
+    transform: rotate(-90deg);
+    color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #fff;
+    position: absolute;
+    font-size: 22px;
+    line-height: 48px;
+    left: -122px;
+    text-align: left;
+    margin-top: 245px;
+    width: 348px;
+    display: block;
+    transition: all ease-out 1000ms;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+
+.card p {
+    font-size: 14px;
+    width: 165px;
+    color: #fff;
+    position: absolute;
+    line-height: 24px;
+    white-space: pre-wrap;
+    text-align: left;
+    transition: all ease-out 1000ms, transform 2s;
+    bottom: 48px;
+    right: 100px;
+}
+
+
+.descricao {
+    visibility: visible;
+    animation: 6s linear 0s normal none infinite change;
+    margin-top: 0;
+    margin-bottom: 55px;
+
+}
+
+button.close {
+    border-radius: 100%;
+    z-index: 9000;
+    color: #7bafde;
+    position: relative;
+    border: 1px solid #7bafde;
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+button.close span {
+    padding: 5px;
+}
+
+.modal-dialog {
+    width: 56%;
+}
+
+.texto {
+    padding: 0;
+}
+
+.col-detalle {
+    padding-right: 20px;
+}
+
+.col-nome h1 {
+    font-weight: bold;
+}
+
+.foto img {
+    margin-top: -44px;
+    z-index: -1;
+    height: auto;
+    width: 95%;
+}
+
+.col-nome {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.col-cargo {
+    text-align: center;
+    font-size: 16px;
+}
+
+.col-detalle {
+
+    text-align: justify;
+    font-size: 14px;
+
+}
+
+.foto {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.close {
+    opacity: 0.5 !important;
+    margin: 5px;
+    text-shadow: none;
+}
+
+
+@media (min-width: 992px) {
+    .descricao {
+        visibility: hidden;
+        animation: 6s linear 0s normal none infinite change;
+        margin-top: 0;
+        margin-bottom: 97px;
+
+    }
+
+    .card:hover .descricao {
+        visibility: visible;
+        bottom: 20px;
+        position: absolute;
+
+    }
+
+
+    @keyframes change {
+
+        0%,
+        100% {
+            transform: translateY(0);
+        }
+
+        * {
+            padding: 0;
+            margin: 0;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+
+        .modal-dialog {
+            max-width: 730px;
+        }
+
+        .wrap-modal-slider {
+            padding: 0 30px;
+            opacity: 0;
+            transition: all 0.3s;
+        }
+
+        .wrap-modal-slider.open {
+            opacity: 1;
+        }
+
+
+    }
+
+    .col-nome {
+        font-size: 22px;
+        text-align: left;
+        margin-top: 20px;
+        margin-left: 38px;
+    }
+
+    .col-cargo {
+        font-size: 16px;
+        text-align: left;
+        margin-left: 38px;
+    }
+
+    .col-detalle {
+        margin-top: 50px;
+        font-size: 12px;
+        margin-left: 38px;
+        margin-bottom: 20px text-align: justify;
+    }
+
+    .card img {
+        width: 100%;
+        height: auto;
+    }
+
+    .foto {
+        text-align: left;
+        margin-bottom: 0px;
+        padding: 0;
+    }
+
+    .card h1 {
+        margin-top: 253px;
+        font-size: 22px;
+    }
+
+    .card p {
+        right: -15px;
+        bottom: -40px;
+    }
+
+    .contato-modal {
+        margin-left: 37px;
+
+    }
+
+    .logo-linkedin {
+        width: 63px;
+    }
+}
