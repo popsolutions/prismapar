@@ -1,44 +1,700 @@
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  background-color: #404040;
-  overflow: hidden;
-  margin: 0;
-  color: #F6F6F6 !important;
+    overflow-x: hidden;
+    margin: auto;
 }
 
-#chartdiv {
-  width: 100%;
-  max-height: 490px;
-  height: 100vh;
+/* Header CSS Starts */
+
+.cntry-logo {}
+
+.cntry-logo ul {
+    list-style-type: none;
 }
 
-.texto{
-    padding-bottom: 88px;
-    padding-top: 72px;
-    padding-left: 30px;
+.cntry-logo ul li {
+    border-radius: 50%;
+    overflow: hidden;
 }
 
-.img_data{width: 240px}
-.align-center{text-align: center;}
-.texto{text-align: left;}
+.cntry-logo ul li img {
+    width: 2vw;
+    height: 5vh;
+}
 
-@media screen and (max-width: 600px) {
-  .texto{
+.nav-link {
+    font-size: 17px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgba(0, 0, 0, .5) !important;
+}
+
+/* Header CSS Ends */
+
+/* Main Bannar CSS Starts */
+.bottom-left {
+    padding-top: 36%;
+    padding-bottom: 2%;
+    font-size: 17px;
+}
+
+/* Main Bannar CSS Ends */
+
+/* Timeline CSS For Desktop Start */
+
+.linhadiagonal {
+    width: 80vw;
+    margin-top: 14%;
+    margin-bottom: 6%;
+}
+
+.content_1 {
+    margin: auto;
+    position: absolute;
+    color: #0e3b6e;
+    margin-top: 74%;
+    margin-left: 10%;
+}
+
+.content_2 {
+    margin: auto;
+    position: absolute;
+    color: #0e3b6e;
+    margin-top: 62%;
+    margin-left: 17%;
+}
+
+.content_3 {
+    margin: auto;
+    position: absolute;
+    color: #0e3b6e;
+    margin-top: 36%;
+    margin-left: 19%;
+}
+
+.content_4 {
+    margin: auto;
+    position: absolute;
+    color: #0e3b6e;
+    margin-top: 21%;
+    margin-left: 19%;
+}
+
+.content_5 {
+    margin: auto;
+    position: absolute;
+    color: #0e3b6e;
+    margin-top: 7%;
+    margin-left: 19%;
+}
+
+.content_6 {
+    margin: auto;
+    position: absolute;
+    color: #0e3b6e;
+    margin-top: -20%;
+    margin-left: 19%;
+}
+
+.line-bandeira {
+    border-top: 1px solid #0e3b6e;
+    height: 3px !important;
+    width: 90%;
+    margin-left: -1%;
+    margin-right: auto;
+}
+
+.datas div div p {
+    font-weight: 500;
+}
+
+.bandeira-2012 img, .bandeira-2015 img, .bandeira-2002 img, .bandeira-2018 img, .bandeira-2019 img, .bandeira-2020 img {
+    width: 3vw;
+}
+
+.Flag_1 {
+    font-weight: bolder;
+    position: absolute;
+    color: #0e3b6e;
+    margin-left: 5%;
+    margin-top: -10%;
+}
+
+.Flag_2 {
+    font-weight: bolder;
+    color: #0e3b6e;
+    position: absolute;
+    margin-top: -24%;
+    margin-left: 26%;
+}
+
+.Flag_3 {
+    font-weight: bolder;
+    color: #0e3b6e;
+    position: absolute;
+    margin-top: -41%;
+    margin-left: 34%;
+}
+
+.Flag_4 {
+    font-weight: bolder;
+    color: #0e3b6e;
+    position: absolute;
+    margin-top: -56%;
+    margin-left: 45%;
+}
+
+.Flag_5 {
+    font-weight: bolder;
+    color: #0e3b6e;
+    position: absolute;
+    margin-top: -74%;
+    margin-left: 57%;
+}
+
+.Flag_6 {
+    font-weight: bolder;
+    color: #0e3b6e;
+    position: absolute;
+    margin-top: -88%;
+    margin-left: 69%;
+}
+
+.Year_1 {
+    font-weight: bolder;
+    color: #0e3b6e;
+    margin-left: 5%;
+}
+
+.Year_2 {
+    font-weight: bolder;
+    color: #0e3b6e;
+    margin-left: 26%;
+}
+
+.Year_3 {
+    font-weight: bolder;
+    color: #0e3b6e;
+    margin-left: 34%;
+}
+
+.Year_4 {
+    font-weight: bolder;
+    color: #0e3b6e;
+    margin-left: 45%;
+}
+
+.Year_5 {
+    font-weight: bolder;
+    color: #0e3b6e;
+    margin-left: 57%;
+}
+
+.Year_6 {
+    font-weight: bolder;
+    color: #0e3b6e;
+    margin-left: 69%;
+}
+
+.Flgs-btm-ln {
+    border-color: #0e3b6e !important;
+    border: 1px solid;
+}
+
+.datas {
+    display: flex;
+    align-items: flex-end;
+    align-content: flex-end;
+}
+
+.logo_time {
+    width: 144px;
+}
+
+/* Timeline for Desktop Ends */
+
+/* Timeline for Mobile Start */
+
+.cd-horizontal-timeline ol, .cd-horizontal-timeline ul {
+    list-style: none;
+}
+
+.cd-timeline-navigation a:hover, .cd-timeline-navigation a:focus {
+    border-color: #313740;
+
+}
+
+.cd-horizontal-timeline a, .cd-horizontal-timeline a:hover, .cd-horizontal-timeline a:focus {
+    color: #313740;
+}
+
+.cd-horizontal-timeline blockquote, .cd-horizontal-timeline q {
+    quotes: none;
+}
+
+.cd-horizontal-timeline blockquote:before, .cd-horizontal-timeline blockquote:after,
+.cd-horizontal-timeline q:before, .cd-horizontal-timeline q:after {
+    content: '';
+    content: none;
+}
+
+.cd-horizontal-timeline table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.cd-horizontal-timeline {
+    opacity: 0;
+    margin: 2em auto;
+    -webkit-transition: opacity 0.2s;
+    -moz-transition: opacity 0.2s;
+    transition: opacity 0.2s;
+}
+
+.cd-horizontal-timeline::before {
+    /* never visible - this is used in jQuery to check the current MQ */
+    content: 'mobile';
+    display: none;
+}
+
+.cd-horizontal-timeline.loaded {
+    /* show the timeline after events position has been set (using JavaScript) */
+    opacity: 1;
+}
+
+.cd-horizontal-timeline .timeline {
+    position: relative;
+    height: 100px;
+    width: 90%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.cd-horizontal-timeline .events-wrapper {
+    position: relative;
+    height: 100%;
+    margin: 0 40px;
+    overflow: hidden;
+}
+
+.cd-horizontal-timeline .events-wrapper::after, .cd-horizontal-timeline .events-wrapper::before {
+    /* these are used to create a shadow effect at the sides of the timeline */
+    content: '';
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    height: 100%;
+    width: 20px;
+}
+
+.cd-horizontal-timeline .events-wrapper::before {
+    left: 0;
+
+}
+
+.cd-horizontal-timeline .events-wrapper::after {
+    right: 0;
+
+}
+
+.cd-horizontal-timeline .events {
+    /* this is the grey line/timeline */
+    position: absolute;
+    z-index: 1;
+    left: 0;
+    top: 50px;
+    height: 2px;
+    /* width will be set using JavaScript */
+    background: #dfdfdf;
+    -webkit-transition: -webkit-transform 0.4s;
+    -moz-transition: -moz-transform 0.4s;
+    transition: transform 0.4s;
+}
+
+.cd-horizontal-timeline .filling-line {
+    /* this is used to create the green line filling the timeline */
+    position: absolute;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #313740;
+    -webkit-transform: scaleX(0);
+    -moz-transform: scaleX(0);
+    -ms-transform: scaleX(0);
+    -o-transform: scaleX(0);
+    transform: scaleX(0);
+    -webkit-transform-origin: left center;
+    -moz-transform-origin: left center;
+    -ms-transform-origin: left center;
+    -o-transform-origin: left center;
+    transform-origin: left center;
+    -webkit-transition: -webkit-transform 0.3s;
+    -moz-transition: -moz-transform 0.3s;
+    transition: transform 0.3s;
+}
+
+.cd-horizontal-timeline .events a {
+    position: absolute;
+    bottom: 0;
+    z-index: 2;
     text-align: center;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    padding-left: 0px;
+    font-size: 1rem;
+    padding-bottom: 15px;
 
-  }
+    /* fix bug on Safari - text flickering while timeline translates */
+    -webkit-transform: translateZ(0);
+    -moz-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    -o-transform: translateZ(0);
+    transform: translateZ(0);
+}
 
-  #chartdiv{
-    height: auto;
-  }
+.cd-horizontal-timeline .events a::after {
+    /* this is used to create the event spot */
+    content: '';
+    position: absolute;
+    left: 50%;
+    right: auto;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
+    bottom: -5px;
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    border: 2px solid #dfdfdf;
+    background-color: #f8f8f8;
+    -webkit-transition: background-color 0.3s, border-color 0.3s;
+    -moz-transition: background-color 0.3s, border-color 0.3s;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+.no-touch .cd-horizontal-timeline .events a:hover::after {
+    background-color: #313740;
+    border-color: #313740;
+}
+
+.cd-horizontal-timeline .events a.selected {
+    pointer-events: none;
+}
+
+.cd-horizontal-timeline .events a.selected::after {
+    background-color: #313740;
+    border-color: #313740;
+}
+
+.cd-horizontal-timeline .events a.older-event::after {
+    border-color: #313740;
+}
+
+@media only screen and (min-width: 1100px) {
+    .cd-horizontal-timeline::before {
+        /* never visible - this is used in jQuery to check the current MQ */
+        content: 'desktop';
+    }
+}
+
+.cd-timeline-navigation a {
+    /* these are the left/right arrows to navigate the timeline */
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    bottom: auto;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    height: 34px;
+    width: 34px;
+    border-radius: 50%;
+    border: 2px solid #dfdfdf;
+    /* replace text with an icon */
+    overflow: hidden;
+    color: transparent;
+    text-indent: 100%;
+    white-space: nowrap;
+    -webkit-transition: border-color 0.3s;
+    -moz-transition: border-color 0.3s;
+    transition: border-color 0.3s;
+}
+
+.cd-timeline-navigation a::after {
+    /* arrow icon */
+    content: '';
+    position: absolute;
+    height: 16px;
+    width: 16px;
+    left: 50%;
+    top: 50%;
+    bottom: auto;
+    right: auto;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -o-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: url(../img/cd-arrow.svg) no-repeat 0 0;
+}
+
+.cd-timeline-navigation a.prev {
+    left: 0;
+    -webkit-transform: translateY(-50%) rotate(180deg);
+    -moz-transform: translateY(-50%) rotate(180deg);
+    -ms-transform: translateY(-50%) rotate(180deg);
+    -o-transform: translateY(-50%) rotate(180deg);
+    transform: translateY(-50%) rotate(180deg);
+}
+
+.cd-timeline-navigation a.next {
+    right: 0;
+}
+
+.no-touch .cd-timeline-navigation a:hover {
+    border-color: #7b9d6f;
+}
+
+.cd-timeline-navigation a.inactive {
+    cursor: not-allowed;
+}
+
+.cd-timeline-navigation a.inactive::after {
+    background-position: 0 -16px;
+}
+
+.no-touch .cd-timeline-navigation a.inactive:hover {
+    border-color: #dfdfdf;
+}
+
+.cd-horizontal-timeline .events-content {
+    position: relative;
+    width: 100%;
+    margin: 2em 0;
+    overflow: hidden;
+    -webkit-transition: height 0.4s;
+    -moz-transition: height 0.4s;
+    transition: height 0.4s;
+}
+
+.cd-horizontal-timeline .events-content li {
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    left: 0;
+    top: 0;
+    -webkit-transform: translateX(-100%);
+    -moz-transform: translateX(-100%);
+    -ms-transform: translateX(-100%);
+    -o-transform: translateX(-100%);
+    transform: translateX(-100%);
+    padding: 0 5%;
+    opacity: 0;
+    -webkit-animation-duration: 0.4s;
+    -moz-animation-duration: 0.4s;
+    animation-duration: 0.4s;
+    -webkit-animation-timing-function: ease-in-out;
+    -moz-animation-timing-function: ease-in-out;
+    animation-timing-function: ease-in-out;
+}
+
+.cd-horizontal-timeline .events-content li.selected {
+    /* visible event content */
+    position: relative;
+    z-index: 2;
+    opacity: 1;
+    -webkit-transform: translateX(0);
+    -moz-transform: translateX(0);
+    -ms-transform: translateX(0);
+    -o-transform: translateX(0);
+    transform: translateX(0);
+}
+
+.cd-horizontal-timeline .events-content li.enter-right, .cd-horizontal-timeline .events-content li.leave-right {
+    -webkit-animation-name: cd-enter-right;
+    -moz-animation-name: cd-enter-right;
+    animation-name: cd-enter-right;
+}
+
+.cd-horizontal-timeline .events-content li.enter-left, .cd-horizontal-timeline .events-content li.leave-left {
+    -webkit-animation-name: cd-enter-left;
+    -moz-animation-name: cd-enter-left;
+    animation-name: cd-enter-left;
+}
+
+.cd-horizontal-timeline .events-content li.leave-right, .cd-horizontal-timeline .events-content li.leave-left {
+    -webkit-animation-direction: reverse;
+    -moz-animation-direction: reverse;
+    animation-direction: reverse;
+}
+
+.cd-horizontal-timeline .events-content li>* {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.cd-horizontal-timeline .events-content h4 {
+    font-weight: 700;
+    margin-bottom: 0px;
+    line-height: 20px;
+    margin-bottom: 15px;
+}
+
+.cd-horizontal-timeline .events-content h4 small {
+    font-weight: 400;
+    line-height: normal;
+    font-size: 15px;
+}
+
+.cd-horizontal-timeline .events-content em {
+    display: block;
+    font-style: italic;
+    margin: 10px auto;
+}
+
+.cd-horizontal-timeline .events-content em::before {
+    content: '- ';
+}
+
+.cd-horizontal-timeline .events-content p {
+    font-size: 16px;
+    margin-top: 15px;
 
 }
-@media screen and (max-width: 1199px) {
-  .texto{text-align: center;}
+
+@media only screen and (min-width: 768px) {
+
+    .cd-horizontal-timeline .events-content em {
+        font-size: 1rem;
+    }
 }
-@media screen and (max-width: 1399px) {
-  .texto{ padding-left: 30px;}
+
+@media only screen and (max-width: 767px) {
+
+    .cd-horizontal-timeline.loaded {
+        margin: 0;
+    }
+
+    .cd-horizontal-timeline .timeline {
+        width: 100%;
+    }
+
+    .cd-horizontal-timeline ol, .cd-horizontal-timeline ul {
+        padding: 0;
+        margin: 0;
+    }
+
+    .cd-horizontal-timeline .events-content h4 {
+        font-size: 16px;
+    }
+
+    .cd-horizontal-timeline .events-content {
+        margin: 0;
+    }
+
 }
+
+@-webkit-keyframes cd-enter-right {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateX(100%);
+    }
+
+    100% {
+        opacity: 1;
+        -webkit-transform: translateX(0%);
+    }
+}
+
+@-moz-keyframes cd-enter-right {
+    0% {
+        opacity: 0;
+        -moz-transform: translateX(100%);
+    }
+
+    100% {
+        opacity: 1;
+        -moz-transform: translateX(0%);
+    }
+}
+
+@keyframes cd-enter-right {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateX(100%);
+        -moz-transform: translateX(100%);
+        -ms-transform: translateX(100%);
+        -o-transform: translateX(100%);
+        transform: translateX(100%);
+    }
+
+    100% {
+        opacity: 1;
+        -webkit-transform: translateX(0%);
+        -moz-transform: translateX(0%);
+        -ms-transform: translateX(0%);
+        -o-transform: translateX(0%);
+        transform: translateX(0%);
+    }
+}
+
+@-webkit-keyframes cd-enter-left {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateX(-100%);
+    }
+
+    100% {
+        opacity: 1;
+        -webkit-transform: translateX(0%);
+    }
+}
+
+@-moz-keyframes cd-enter-left {
+    0% {
+        opacity: 0;
+        -moz-transform: translateX(-100%);
+    }
+
+    100% {
+        opacity: 1;
+        -moz-transform: translateX(0%);
+    }
+}
+
+@keyframes cd-enter-left {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateX(-100%);
+        -moz-transform: translateX(-100%);
+        -ms-transform: translateX(-100%);
+        -o-transform: translateX(-100%);
+        transform: translateX(-100%);
+    }
+
+    100% {
+        opacity: 1;
+        -webkit-transform: translateX(0%);
+        -moz-transform: translateX(0%);
+        -ms-transform: translateX(0%);
+        -o-transform: translateX(0%);
+        transform: translateX(0%);
+    }
+}
+
+.timeline:before {
+    content: " ";
+    display: none;
+    bottom: 0;
+    left: 0%;
+    width: 0px;
+    margin-left: -1.5px;
+    background-color: #eeeeee;
+}
+
+/* Timeline for Mobile Ends */
