@@ -104,3 +104,22 @@
         margin-top: -128%;
     }
 }
+
+@media (max-width: 540px) {
+    .logo_time {
+        width: 18vw;
+    }
+
+    .cd-horizontal-timeline .events-content li {
+        padding: 0 1% !important;
+    }
+
+    .bandeira-2012 img, .bandeira-2015 img, .bandeira-2002 img, .bandeira-2018 img, .bandeira-2019 img, .bandeira-2020 img {
+        width: 10vw;
+    }
+
+    .cd-timeline-navigation a {
+        border: 2px solid #003068;
+        color: #003068;
+    }
+}
