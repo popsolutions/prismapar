@@ -216,7 +216,10 @@ body {
 /* Timeline for Desktop Ends */
 
 /* Timeline for Mobile Start */
-
+.card {
+    background-color: transparent !important;
+    border: none !important;
+}
 .cd-horizontal-timeline ol, .cd-horizontal-timeline ul {
     list-style: none;
 }
