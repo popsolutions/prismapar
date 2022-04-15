@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap');
+
 body {
     overflow-x: hidden;
     margin: auto;
+    font-family: 'Montserrat', 'Odoo Unicode Support Noto', sans-serif;
 }
 
 /* Header CSS Starts */
@@ -11,42 +15,62 @@ body {
     list-style-type: none;
 }
 
-.cntry-logo ul li {
-    border-radius: 50%;
-    overflow: hidden;
-}
-
 .cntry-logo ul li img {
-    width: 2vw;
-    height: 5vh;
+    width: 5.5vw;
+    margin-left: 15%;
+    margin-bottom: -15%;
 }
 
 .nav-link {
-    font-size: 17px;
+    font-size: 13px;
     font-weight: 700;
     text-transform: uppercase;
+    font-family: "Source Sans Pro", "Odoo Unicode Support Noto", sans-serif;
+    padding-right: 0 !important;
+    padding-left: 0 !important;
 }
 
 .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
-    color: rgba(0, 0, 0, .5) !important;
+    color: #0e3b6e !important;
+    border-bottom: 3px solid #0e3b6e;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #0e3b6e;
+    border-bottom: 3px solid #0e3b6e;
 }
 
 /* Header CSS Ends */
 
 /* Main Bannar CSS Starts */
 .bottom-left {
-    padding-top: 36%;
+    padding-top: 53%;
     padding-bottom: 2%;
     font-size: 17px;
 }
 
 /* Main Bannar CSS Ends */
 
+/* Logo Starts */
+.log-img-bnr {
+    width: 7vw;
+}
+
+.timline-heading {
+    font-size: 3.5rem;
+}
+
+.tim-cntnt-h {
+    font-size: 0.98rem;
+    font-weight: 700;
+}
+
+/* Logo Ends */
 /* Timeline CSS For Desktop Start */
 
 .linhadiagonal {
-    width: 80vw;
-    margin-top: 14%;
+    width: 64.5vw;
+    margin-top: 11%;
     margin-bottom: 6%;
 }
 
@@ -54,7 +78,7 @@ body {
     margin: auto;
     position: absolute;
     color: #0e3b6e;
-    margin-top: 74%;
+    margin-top: 34%;
     margin-left: 10%;
 }
 
@@ -62,7 +86,7 @@ body {
     margin: auto;
     position: absolute;
     color: #0e3b6e;
-    margin-top: 62%;
+    margin-top: 46%;
     margin-left: 17%;
 }
 
@@ -70,7 +94,7 @@ body {
     margin: auto;
     position: absolute;
     color: #0e3b6e;
-    margin-top: 36%;
+    margin-top: 29%;
     margin-left: 19%;
 }
 
@@ -78,7 +102,7 @@ body {
     margin: auto;
     position: absolute;
     color: #0e3b6e;
-    margin-top: 21%;
+    margin-top: 12%;
     margin-left: 19%;
 }
 
@@ -86,7 +110,7 @@ body {
     margin: auto;
     position: absolute;
     color: #0e3b6e;
-    margin-top: 7%;
+    margin-top: -5%;
     margin-left: 19%;
 }
 
@@ -94,20 +118,18 @@ body {
     margin: auto;
     position: absolute;
     color: #0e3b6e;
-    margin-top: -20%;
+    margin-top: -21%;
     margin-left: 19%;
 }
 
 .line-bandeira {
-    border-top: 1px solid #0e3b6e;
-    height: 3px !important;
-    width: 90%;
-    margin-left: -1%;
-    margin-right: auto;
+    border-top: 2px solid #0e3b6e;
 }
 
 .datas div div p {
     font-weight: 500;
+    line-height: 1.2;
+    font-size: 14px;
 }
 
 .bandeira-2012 img, .bandeira-2015 img, .bandeira-2002 img, .bandeira-2018 img, .bandeira-2019 img, .bandeira-2020 img {
@@ -118,15 +140,15 @@ body {
     font-weight: bolder;
     position: absolute;
     color: #0e3b6e;
-    margin-left: 5%;
-    margin-top: -10%;
+    margin-left: 10%;
+    margin-top: -11%;
 }
 
 .Flag_2 {
     font-weight: bolder;
     color: #0e3b6e;
     position: absolute;
-    margin-top: -24%;
+    margin-top: -29%;
     margin-left: 26%;
 }
 
@@ -134,7 +156,7 @@ body {
     font-weight: bolder;
     color: #0e3b6e;
     position: absolute;
-    margin-top: -41%;
+    margin-top: -51.2%;
     margin-left: 34%;
 }
 
@@ -142,7 +164,7 @@ body {
     font-weight: bolder;
     color: #0e3b6e;
     position: absolute;
-    margin-top: -56%;
+    margin-top: -69.2%;
     margin-left: 45%;
 }
 
@@ -150,7 +172,7 @@ body {
     font-weight: bolder;
     color: #0e3b6e;
     position: absolute;
-    margin-top: -74%;
+    margin-top: -92.2%;
     margin-left: 57%;
 }
 
@@ -158,14 +180,14 @@ body {
     font-weight: bolder;
     color: #0e3b6e;
     position: absolute;
-    margin-top: -88%;
-    margin-left: 69%;
+    margin-top: -109%;
+    margin-left: 62%;
 }
 
 .Year_1 {
     font-weight: bolder;
     color: #0e3b6e;
-    margin-left: 5%;
+    margin-left: 10%;
 }
 
 .Year_2 {
@@ -195,7 +217,37 @@ body {
 .Year_6 {
     font-weight: bolder;
     color: #0e3b6e;
-    margin-left: 69%;
+    margin-left: 65%;
+}
+
+.Year_1 .bandeira-2002 {
+    font-weight: 800;
+    font-size: 18px;
+}
+
+.Year_2 .bandeira-2012 {
+    font-weight: 800;
+    font-size: 18px;
+}
+
+.Year_3 .bandeira-2015 {
+    font-weight: 800;
+    font-size: 18px;
+}
+
+.Year_4 .bandeira-2018 {
+    font-weight: 800;
+    font-size: 18px;
+}
+
+.Year_5 .bandeira-2019 {
+    font-weight: 800;
+    font-size: 18px;
+}
+
+.Year_6 .bandeira-2020 {
+    font-weight: 800;
+    font-size: 18px;
 }
 
 .Flgs-btm-ln {
@@ -210,7 +262,7 @@ body {
 }
 
 .logo_time {
-    width: 144px;
+    width: 73px;
 }
 
 /* Timeline for Desktop Ends */
@@ -220,6 +272,7 @@ body {
     background-color: transparent !important;
     border: none !important;
 }
+
 .cd-horizontal-timeline ol, .cd-horizontal-timeline ul {
     list-style: none;
 }
@@ -701,3 +754,20 @@ body {
 }
 
 /* Timeline for Mobile Ends */
+
+/* Equipe Start */
+.eqipe-sec {
+    background-color: #0e3b6e;
+}
+
+.eqipe-sec div h1 {
+    font-size: 5rem;
+    font-weight: 700;
+}
+
+.eqipe-sec div div p {
+    font-size: 23px;
+    font-weight: 400;
+}
+
+/* Equipe End */
