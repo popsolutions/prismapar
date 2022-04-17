@@ -1,0 +1,42 @@
+#chartdiv {
+  width: 100%;
+  height: 78vh;
+  overflow: visible;
+}
+
+.texto h1 span font {
+  font-size: 5rem;
+}
+
+.img_data {
+  width: 240px;
+}
+.align-center {
+  text-align: center;
+}
+.texto {
+  text-align: left;
+}
+
+@media screen and (max-width: 600px) {
+  .texto {
+    text-align: center;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    padding-left: 0px;
+  }
+
+  #chartdiv {
+    height: auto;
+  }
+}
+@media screen and (max-width: 1199px) {
+  .texto {
+    text-align: center;
+  }
+}
+@media screen and (max-width: 1399px) {
+  .texto {
+    padding-left: 30px;
+  }
+}
