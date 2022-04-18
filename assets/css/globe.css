@@ -1,6 +1,8 @@
 #chartdiv {
-  width: 100%;
-  height: 78vh;
+  width: 68vw;
+  height: 105vh;
+  margin-top: -13.5%;
+  position: absolute;
   overflow: visible;
 }
 
@@ -11,9 +13,11 @@
 .img_data {
   width: 240px;
 }
+
 .align-center {
   text-align: center;
 }
+
 .texto {
   text-align: left;
 }
@@ -30,11 +34,13 @@
     height: auto;
   }
 }
+
 @media screen and (max-width: 1199px) {
   .texto {
     text-align: center;
   }
 }
+
 @media screen and (max-width: 1399px) {
   .texto {
     padding-left: 30px;
