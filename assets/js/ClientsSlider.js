@@ -8,14 +8,14 @@ $(document).ready(function () {
       autoplayTimeout: 5000,
       nav: false,
       dots: false,
-      items: 6,
+      items: 7,
       margin: 2,
       responsive: {
         0: { items: 1 },
         412: { items: 2 },
-        768: { items: 3 },
+        768: { items: 4 },
         991: { items: 4 },
-        1199: { items: 6 },
+        1199: { items: 7 },
       },
     });
 
