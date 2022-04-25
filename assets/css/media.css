@@ -83,9 +83,10 @@
     font-weight: 700;
   }
 
-  .gtco-testimonials .owl-carousel .owl-stage-outer .owl-stage .owl-item img {
-    width: 34vw !important;
-    margin-top: 7%;
+  .gtco-testimonials .owl-carousel .owl-stage-outer .owl-stage .owl-item .cases-car-img {
+    width: 33vw !important;
+    height: 67vh;
+    margin-top: 12%;
   }
 
   .Cases-sec h2 {
@@ -159,9 +160,10 @@
     font-weight: 700;
   }
 
-  .gtco-testimonials .owl-carousel .owl-stage-outer .owl-stage .owl-item img {
-    width: 34vw !important;
-    margin-top: 0%;
+  .gtco-testimonials .owl-carousel .owl-stage-outer .owl-stage .owl-item .cases-car-img {
+    width: 35vw !important;
+    height: 56vh;
+    margin-top: 14%;
   }
 
   .Cases-sec h2 {
@@ -213,7 +215,7 @@
 
   .owl-carousel .owl-item img {
     display: block;
-    width: 12vw !important;
+    width: 10.5vw !important;
   }
 
   #chartdiv {
@@ -299,7 +301,7 @@
 
   .owl-carousel .owl-item img {
     display: block;
-    width: 20vw !important;
+    width: 10.6vw !important;
   }
 
   .clients-carousel h1 {
@@ -337,7 +339,14 @@
   }
 
   .gtco-testimonials .owl-carousel .owl-stage-outer {
-    height: 110vh;
+    height: 160vh;
+  }
+
+  .gtco-testimonials .owl-carousel .owl-stage-outer .owl-stage .owl-item .cases-car-img {
+    width: 35vw !important;
+    height: 56vh;
+    margin-top: 14%;
+    margin-left: 27%;
   }
 
   .bbb_viewed_slider_container .owl-carousel .owl-item img {
@@ -456,13 +465,23 @@
     margin-left: 12%;
   }
 
-  .cases-car-img {
-    height: 44vh;
-    margin-left: 0%;
-  }
-
   .gtco-testimonials .owl-carousel .owl-stage-outer {
     height: 90vh;
+  }
+
+  .gtco-testimonials .owl-carousel .owl-stage-outer .owl-stage .owl-item .cases-car-img {
+    width: 57vw !important;
+    height: 38vh;
+    margin-top: 14%;
+    margin-left: 19%;
+  }
+
+  .gtco-testimonials .owl-nav {
+    display: block !important;
+    margin-left: auto;
+    margin-right: -78%;
+    margin-top: 0 !important;
+    /* text-align: right !important; */
   }
 
   p.num-tag {
@@ -474,7 +493,7 @@
 
   .owl-carousel .owl-item img {
     display: block;
-    width: 22vw !important;
+    width: 16vw !important;
   }
 
   .texto {
@@ -509,7 +528,7 @@
 
   .owl-carousel .owl-item img {
     display: block;
-    width: 24vw !important;
+    width: 18vw !important;
   }
 
   .gtco-testimonials .owl-carousel .owl-stage-outer {
@@ -580,11 +599,16 @@
 
   .owl-carousel .owl-item img {
     display: block;
-    width: 26vw !important;
+    width: 18vw !important;
   }
 
   .Globe-section {
     height: 90.4vh;
+  }
+
+  .brands_prev {
+    left: -22px;
+    z-index: 99999;
   }
 }
 
@@ -632,7 +656,7 @@
 
   .owl-carousel .owl-item img {
     display: block;
-    width: 37vw !important;
+    width: 40vw !important;
   }
 
   .brands_slider_container {
@@ -717,13 +741,20 @@
   }
 
   .gtco-testimonials .owl-carousel .owl-stage-outer {
-    height: 153vh;
+    height: 90vh;
   }
 
   .gtco-testimonials .owl-carousel .owl-stage-outer .owl-stage .owl-item img {
     width: 71vw !important;
     margin-top: 3%;
     margin-left: 8%;
+  }
+
+  .gtco-testimonials .owl-carousel .owl-stage-outer .owl-stage .owl-item .cases-car-img {
+    width: 57vw !important;
+    height: 22.431vh;
+    margin-top: 14%;
+    margin-left: 15%;
   }
 
   p.num-tag {
@@ -751,11 +782,15 @@
 @media (max-width: 415px) {
   .owl-carousel .owl-item img {
     display: block;
-    width: 82vw !important;
+    width: 38vw !important;
   }
 
   .Globe-section {
     height: 91.7vh;
+  }
+
+  .gtco-testimonials .owl-carousel .owl-stage-outer {
+    height: 102vh;
   }
 }
 
@@ -778,6 +813,12 @@
   .Globe-section {
     height: 94.3vh;
   }
+
+  .owl-carousel .owl-item img {
+    display: block;
+    width: 42vw !important;
+    margin-left: 49%;
+  }
 }
 
 @media (max-width: 391px) {
@@ -792,6 +833,12 @@
 
   .Globe-section {
     height: 95vh;
+  }
+
+  .owl-carousel .owl-item img {
+    display: block;
+    width: 42vw !important;
+    margin-left: 49%;
   }
 }
 
@@ -853,7 +900,8 @@
 
   .owl-carousel .owl-item img {
     display: block;
-    width: 82vw !important;
+    width: 55vw !important;
+    margin-left: 25%;
   }
 
   .texto h1 span font {
@@ -870,7 +918,11 @@
   }
 
   .Globe-section {
-    height: 77.5vh;
+    height: 97.5vh;
+  }
+
+  .navbar-brand img {
+    width: 26vw;
   }
 }
 
@@ -881,7 +933,7 @@
 
   .owl-carousel .owl-item img {
     display: block;
-    width: 83vw !important;
+    width: 55vw !important;
   }
 
   .brands {
