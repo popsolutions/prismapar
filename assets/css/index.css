@@ -9,8 +9,7 @@ body {
 
 /* Header CSS Starts */
 
-.cntry-logo {
-}
+.cntry-logo {}
 
 .cntry-logo ul {
   list-style-type: none;
@@ -31,10 +30,10 @@ body {
   padding-left: 0 !important;
 }
 
-.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .active>.nav-link,
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .nav-link.show,
-.navbar-light .navbar-nav .show > .nav-link {
+.navbar-light .navbar-nav .show>.nav-link {
   color: #0e3b6e !important;
   border-bottom: 3px solid #0e3b6e;
 }
@@ -45,13 +44,32 @@ body {
   border-bottom: 3px solid #0e3b6e;
 }
 
+.navbar-brand img {
+  width: 11vw;
+}
+
 /* Header CSS Ends */
 
 /* Main Bannar CSS Starts */
 .bottom-left {
-  padding-top: 53%;
   padding-bottom: 2%;
-  font-size: 17px;
+  font-size: 15px;
+}
+
+.bottom-left1 {
+  padding-top: 33%;
+  padding-bottom: 2%;
+  font-size: 15px;
+}
+
+.main-tag-bnr-h {
+  font-weight: 700;
+  font-size: 3rem;
+}
+
+.main-tag-bnr-p {
+  font-size: 1.9rem;
+  font-weight: 100;
 }
 
 /* Main Bannar CSS Ends */
@@ -83,24 +101,24 @@ body {
   margin: auto;
   position: absolute;
   color: #0e3b6e;
-  margin-top: 34%;
-  margin-left: 10%;
+  margin-top: 22%;
+  margin-left: 5%;
 }
 
 .content_2 {
   margin: auto;
   position: absolute;
   color: #0e3b6e;
-  margin-top: 46%;
-  margin-left: 17%;
+  margin-top: 9%;
+  margin-left: 11%;
 }
 
 .content_3 {
   margin: auto;
   position: absolute;
   color: #0e3b6e;
-  margin-top: 29%;
-  margin-left: 19%;
+  margin-top: -14%;
+  margin-left: 12%;
 }
 
 .content_4 {
@@ -607,7 +625,7 @@ body {
   animation-direction: reverse;
 }
 
-.cd-horizontal-timeline .events-content li > * {
+.cd-horizontal-timeline .events-content li>* {
   max-width: 800px;
   margin: 0 auto;
 }
@@ -768,11 +786,16 @@ body {
   background-color: #eeeeee;
 }
 
+.timeline-dtl-name {
+  color: #0e3b6e;
+  font-size: 1.5rem;
+}
+
 /* Timeline for Mobile Ends */
 
 /* Equipe Start */
 .eqipe-sec {
-  background-color: #0e3b6e;
+  background-color: #002f67;
 }
 
 .eqipe-sec div h1 {
@@ -961,10 +984,59 @@ body {
   width: 13vw !important;
 }
 
-.equipe_img_nme {
+.equipe_img_nme1 {
   position: absolute;
-  bottom: 9%;
-  left: 2%;
+  bottom: 23%;
+  left: -37%;
+  transform: rotate(-90deg);
+}
+
+.equipe_img_nme2 {
+  position: absolute;
+  bottom: 30%;
+  left: -49%;
+  transform: rotate(-90deg);
+}
+
+.equipe_img_nme3 {
+  position: absolute;
+  bottom: 29%;
+  left: -43%;
+  transform: rotate(-90deg);
+}
+
+.equipe_img_nme4 {
+  position: absolute;
+  bottom: 29%;
+  left: -44%;
+  transform: rotate(-90deg);
+}
+
+.equipe_img_nme5 {
+  position: absolute;
+  bottom: 25%;
+  left: -37%;
+  transform: rotate(-90deg);
+}
+
+.equipe_img_nme6 {
+  position: absolute;
+  bottom: 23%;
+  left: -37%;
+  transform: rotate(-90deg);
+}
+
+.equipe_img_nme7 {
+  position: absolute;
+  bottom: 23%;
+  left: -40%;
+  transform: rotate(-90deg);
+}
+
+.equipe_img_nme8 {
+  position: absolute;
+  bottom: 22%;
+  left: -40%;
   transform: rotate(-90deg);
 }
 
@@ -984,16 +1056,23 @@ body {
 
 .modal-content {
   border-radius: 1.3rem !important;
-  background-color: #0e3b6e !important;
+  background-color: #4371a5 !important;
+  height: 83vh;
 }
 
 .modal-body div p {
-  font-size: 16px !important;
+  font-size: 15px !important;
 }
 
 .modal-body div .lnkdn-img {
-  width: 15vh !important;
+  width: 8vh !important;
 }
+
+.pop-up-img img {
+  width: 17vw;
+  height: 69vh;
+}
+
 /* Equipe End */
 
 /* O Que Fazems Starts */
@@ -1011,6 +1090,7 @@ body {
 .txt-blu {
   color: #0e3b6e;
 }
+
 /* O Que Fazems Ends */
 
 /* Cases Start */
@@ -1039,9 +1119,11 @@ body {
   position: relative;
   margin-top: 30px;
 }
+
 .gtco-testimonials .owl-stage-outer {
   padding: 30px 0;
 }
+
 .gtco-testimonials .owl-nav {
   display: none;
   margin-top: 24px;
@@ -1049,10 +1131,12 @@ body {
   margin-left: auto;
   margin-right: -78%;
 }
+
 .gtco-testimonials .owl-dots {
   text-align: center;
   display: none;
 }
+
 .gtco-testimonials .owl-dots span {
   position: relative;
   height: 10px;
@@ -1063,9 +1147,11 @@ body {
   border: 2px solid #01b0f8;
   margin: 0 5px;
 }
+
 .gtco-testimonials .owl-dots .active {
   box-shadow: none;
 }
+
 .gtco-testimonials .owl-dots .active span {
   background: #01b0f8;
   box-shadow: none;
@@ -1078,18 +1164,14 @@ body {
   width: 35vw !important;
 }
 
-.gtco-testimonials
-  .owl-carousel
-  .owl-stage-outer
-  .owl-stage
-  .owl-item
-  .camil-logo {
+.gtco-testimonials .owl-carousel .owl-stage-outer .owl-stage .owl-item .camil-logo {
   width: 20vw !important;
 }
 
 .gtco-testimonials .owl-carousel .owl-stage-outer {
   height: 100vh;
 }
+
 /* Cases End */
 
 /* Numbers Starts */
@@ -1120,12 +1202,14 @@ p.num-tag {
   color: #838181;
   margin-top: 28%;
 }
+
 p.num-label {
   font-size: 26px;
   font-weight: 700;
   color: #838181;
   margin-top: -15%;
 }
+
 /* Numbers Ends */
 
 /* Clients Carousel Start */
@@ -1135,15 +1219,13 @@ p.num-label {
   padding-bottom: 90px;
 }
 
-.brands_slider_container {
-}
+.brands_slider_container {}
 
 .brands_slider {
   /* height: 100%; */
 }
 
-.brands_item {
-}
+.brands_item {}
 
 .brands_item img {
   max-width: 100%;
@@ -1194,12 +1276,14 @@ p.num-label {
   font-size: 5rem;
   font-weight: 700;
 }
+
 /* Clients Carousel End */
 
 /* Footer Start */
 .footer div ul li a {
   font-size: 18px;
 }
+
 .footer div p {
   font-size: 18px;
   font-weight: 500;
@@ -1208,9 +1292,11 @@ p.num-label {
 .footer div div a {
   font-size: 18px;
 }
+
 .footer div div a i {
   font-size: 27px;
 }
+
 /* Footer End */
 
 /* CopyRight start*/
@@ -1219,4 +1305,5 @@ p.num-label {
   font-weight: 700;
   color: #4e4d4d;
 }
+
 /* CopyRight end*/
