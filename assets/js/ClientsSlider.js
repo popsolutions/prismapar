@@ -9,12 +9,11 @@ $(document).ready(function () {
       nav: false,
       dots: false,
       items: 7,
-      margin: 2,
       responsive: {
-        0: { items: 1 },
-        412: { items: 2 },
+        0: { items: 2 },
+        412: { items: 3 },
         768: { items: 4 },
-        991: { items: 4 },
+        991: { items: 5 },
         1199: { items: 7 },
       },
     });
@@ -22,12 +21,11 @@ $(document).ready(function () {
     if ($("brandsSlider").width() < 768) {
       brandsSlider.owlCarousel({
         loop: true,
-        autoplay: true,
+        autoplay: false,
         autoplayTimeout: 5000,
         nav: false,
         dots: false,
         items: 2,
-        margin: 2,
       });
     }
 

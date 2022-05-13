@@ -180,8 +180,8 @@ polygonSeries.events.on("inited", function () {
       var nombre = datos[1];
       var foto = datos[2];
       let base_url = window.location.href.split('index.html')[0]
-      console.log(base_url);
-      polygon.tooltipHTML = '<div style="min-height:90px; min-width:200px; padding:10px;background-color:#379774"><table><tr><td><table><tr><td style="border-bottom:1px solid #fff;padding-bottom:10px;color:white">' + pais + '</td></tr><tr><td style="color:white">' + nombre + '</td></tr></table></td><td><img width="80" src="' + base_url + 'assets/images/' + foto + '.png" alt="Logo"></td></tr></table></div>';
+      //console.log(base_url);
+      polygon.tooltipHTML = '<div class="item-glovo-desktop" style="min-height:90px; min-width:200px; padding:10px;background-color:#379774"><table><tr><td><table><tr><td style="border-bottom:1px solid #fff;padding-bottom:10px;color:white">' + pais + '</td></tr><tr><td style="color:white">' + nombre + '</td></tr></table></td><td><img width="80" src="' + base_url + 'fotos/' + foto + '.png" alt="Logo"></td></tr></table></div><div class="item-glovo-mobile" style="min-height:130px; min-width:200px; padding:10px;background-color:#379774"><table><tr><td style="border-bottom:1px solid #fff;padding-bottom:10px;color:white">' + pais + '</td></tr><tr><td style="color:white">' + nombre + '</td></tr><tr><td><img width="80" src="' + base_url + 'fotos/' + foto + '.png" alt="Logo"></td></tr></table></div>';
 
       mapPolygon.dummyData = polygon;
       polygon.events.on("over", function () {
@@ -199,13 +199,13 @@ polygonSeries.events.on("inited", function () {
 })
 
 var data = {
-  "BR": "<strong>BRASIL</strong>*<strong>Bruno Maringoni  </strong><br>Sócio, São Paulo  <br><strong>bruno.maringoni@prismapar.com</strong>*logo",
-  "CR": "<strong>COSTA RICA</strong>*<strong>Renato Souza</strong><br>Sócio Diretor, San José  <br><strong>renato.souza@prismapar.com.br</strong>*logo-pop",
-  "MX": "<strong>MÉXICO</strong>*<strong>Alejandra Solis</strong><br>Sócia, Cidade do México  <br><strong>alejandra.solis@prismapar.com</strong>*logo",
-  "CO": "<strong>COLÔMBIA</strong>*<strong>Marcelo Burbano</strong><br>Sócio Diretor, Bogotá  <br><strong>marcelo.burbano@prismapar.com</strong>*logo-pop",
-  "EC": "<strong>EQUADOR</strong>*<strong>Oliver Klopfstein</strong><br>Sócio, Guaiaquil  <br><strong>oliver.klopfstein@prismapar.com</strong>*logo",
-  "ES": "<strong>ESPANHA</strong>*<strong>Andrés Cardó</strong><br>Consultor Sênior, Madrid  <br><strong>spain@prismapar.com</strong>*logo-pop",
-  "US": "<strong>EUA</strong>*<strong>Hilario Nuño</strong><br>Consultor Sênior, New York  <br><strong>usa@prismapar.com</strong>*us"
+  "BR": "<strong>BRASIL</strong>*<strong>Bruno Maringoni  </strong><br>Sócio, São Paulo  <br><strong>bruno.maringoni@prismapar.com</strong>*Brazil",
+  "CR": "<strong>COSTA RICA</strong>*<strong>Renato Souza</strong><br>Sócio Diretor, San José  <br><strong>renato.souza@prismapar.com.br</strong>*costarica",
+  "MX": "<strong>MÉXICO</strong>*<strong>Alejandra Solis</strong><br>Sócia, Cidade do México  <br><strong>alejandra.solis@prismapar.com</strong>*Mexico",
+  "CO": "<strong>COLÔMBIA</strong>*<strong>Marcelo Burbano</strong><br>Sócio Diretor, Bogotá  <br><strong>marcelo.burbano@prismapar.com</strong>*Colombia",
+  "EC": "<strong>EQUADOR</strong>*<strong>Oliver Klopfstein</strong><br>Sócio, Guaiaquil  <br><strong>oliver.klopfstein@prismapar.com</strong>*Ecuator",
+  "ES": "<strong>ESPANHA</strong>*<strong>Andrés Cardó</strong><br>Consultor Sênior, Madrid  <br><strong>spain@prismapar.com</strong>*Spain",
+  "US": "<strong>EUA</strong>*<strong>Hilario Nuño</strong><br>Consultor Sênior, New York  <br><strong>usa@prismapar.com</strong>*usa"
 }
 
 

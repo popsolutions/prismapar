@@ -57,11 +57,17 @@
 <!-- Header with Flags and Navbar -->
 <header class="header bg-white">
   <div class="col-lg-8 mx-auto">
-    <div class="cntry-logo col-lg-2 col-md-4 col-5 pr-0 ml-auto mt-0 pt-3">
-      <ul class="align-items-right row ml-auto mb-0">
-        <li class="mr-0"> <img src="./assets/images/02.jpg" alt=""> </li>
+    
+	  <div class="row"><div class="col">
+      <ul class="lang_selector">
+        <li><a href="#"> <img src="./assets/imgs/lang_pt.png" alt=""> </a></li>
+        <li><a href="#"> <img src="./assets/imgs/lang_es.png" alt=""> </a></li>
+        <li><a href="#"> <img src="./assets/imgs/lang_en.png" alt=""> </a></li>
       </ul>
-    </div>
+    </div></div>
+	  
+	  
+	  
     <nav class="navbar navbar-expand-lg navbar-light p-0 mb-4 pb-3"> <a class="navbar-brand col-lg-3 col-md-4 col-6 px-0" href="#"> <img src="./assets/imgs/logo.png" alt="" class="col-lg"> </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse"
                     data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -98,7 +104,7 @@
             style="background-image: url(./assets/images/timeline.png); background-position: center; background-size: cover; background-repeat: no-repeat;">
 	  <div class=""> 
     <div class="col-lg-8 mx-auto pt-4 ">
-        <h1 style="color:#0e3b6e;"> <span style="font-weight: bolder;" class="text-o-color-4 timline-heading">Prismapar,<br>
+        <h1 style="color:#0e3b6e;" class="mb-4"> <span style="font-weight: bolder;" class="text-o-color-4 timline-heading">Prismapar,<br>
           </span> <span style="" class="text-o-color-4 timline-heading">20 anos conectando<br>
           </span> <span style="" class="text-o-color-4 timline-heading"> a América Latina<br>
           </span> 
@@ -215,7 +221,7 @@
             </div>
           </div>
         </div>
-        <div class="row"> <img class="linhadiagonal" src="./assets/images/1180-283-max.png"> </div>
+        <div class="row"> <img class="linhadiagonal" src="./assets/imgs/line.svg"> </div>
       </div>
     </div>
 	  
@@ -238,7 +244,7 @@
         <div class="col-lg-4 col-md-12 mx-auto">
           <div class="texto">
             <h1 class="text-o-color-3 text-white" style="font-weight: bolder;"> Presença Latam  </h1>
-            <p class="text-o-color-4 text-white" style="font-weight: bolder; max-width: 200px">  Com sócios em 7 países, conectamos clientes nos principais mercados da América Latina. </p>
+            <p class="text-o-color-4 text-white" style="font-weight: bolder">  Com sócios em 7 países, conectamos clientes nos principais mercados da América Latina. </p>
              <img class="img_data" src="./assets/images/420-159-max.png" loading="lazy"> <br>            
           </div>
         </div>
@@ -4086,7 +4092,7 @@
   <!-- O Que Fazemos -->
   <section id="o-que-fazemos" class="que-section">
     <div class="col-lg-8 mx-auto text-center py-4">
-      <h1 class="txt-blu">O que fazemos</h1>
+      <h1 class="txt-blu" style="font-weight: 700">O que fazemos</h1>
       <div class="mx-auto my-5">
         <div class="row mx-auto">
           <div class="col-lg mx-auto">
@@ -4198,11 +4204,9 @@ Atuamos em todas as etapas do processo</p>
           <p class="num-label">Número de transações</p>
         </div>
         <div class="col-lg col-md">
-          <div class="d-flex">
-            <p class="num-tag">USD</p>
-            <p class="display-counter">2</p>
-            <p class="dsply-cntr">bi</p>
-          </div>
+           <p style="line-height: 1; display: flex;    align-items: center;    justify-content: center;"> <span class="num-tag">USD</span>
+            <span class="display-counter">2</span>
+            <span class="dsply-cntr">bi</span></p>
           <p class="num-label">Valor Estimado</p>
         </div>
         <div class="col-lg col-md">
@@ -4214,130 +4218,57 @@ Atuamos em todas as etapas do processo</p>
   </section>
   
   <!-- Praca Location Bannar -->
-  <section class="location-banner"
-            style="background-image: url(./assets/images/banner_6.jpg); background-position: center; background-size: cover; background-repeat: no-repeat;">
+  <section class="location-banner" style="background-image: url(./assets/images/banner_6.jpg); background-position: center; background-size: cover; background-repeat: no-repeat;">
     <div class="col-lg-8 mx-auto">
       <div class="bottom-left1 text-white"> Praça Lagos – Guayaquil, Equador </div>
     </div>
   </section>
   
   <!-- Clients Carousel -->
-  <section class="py-5 text-center clients-carousel" style="background-color: #7bafde;">
-    <h1 class="text-white">Nossos clientes</h1>
+  <section class="py-5 text-center clients-carousel" style="background-color: #7bafde;">  
+	  <h1 class="text-white">Nossos clientes</h1>
     <div class="brands">
       <div class="container">
         <div class="row">
           <div class="col">
             <div class="brands_slider_container">
               <div class="owl-carousel owl-theme brands_slider">
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/1.jpg" alt=""> <img src="./assets/images/11.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/2.jpg" alt=""> <img src="./assets/images/12.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/3.jpg" alt=""> <img src="./assets/images/13.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/4.jpg" alt=""> <img src="./assets/images/14.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/5.jpg" alt=""> <img src="./assets/images/15.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/6.jpg" alt=""> <img src="./assets/images/16.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/7.jpg" alt=""> <img src="./assets/images/17.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/8.jpg" alt=""> <img src="./assets/images/18.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/9.jpg" alt=""> <img src="./assets/images/19.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/10.jpg" alt=""> <img src="./assets/images/20.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/11.jpg" alt=""> <img src="./assets/images/21.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/12.jpg" alt=""> <img src="./assets/images/22.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/13.jpg" alt=""> <img src="./assets/images/23.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/14.jpg" alt=""> <img src="./assets/images/24.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/15.jpg" alt=""> <img src="./assets/images/25.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/16.jpg" alt=""> <img src="./assets/images/26.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/17.jpg" alt=""> <img src="./assets/images/27.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/18.jpg" alt=""> <img src="./assets/images/28.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/19.jpg" alt=""> <img src="./assets/images/29.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/30.jpg" alt=""> <img src="./assets/images/40.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/31.jpg" alt=""> <img src="./assets/images/41.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/32.jpg" alt=""> <img src="./assets/images/42.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/33.jpg" alt=""> <img src="./assets/images/43.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/34.jpg" alt=""> <img src="./assets/images/44.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/35.jpg" alt=""> <img src="./assets/images/45.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/36.jpg" alt=""> <img src="./assets/images/46.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/37.jpg" alt=""> <img src="./assets/images/47.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/38.jpg" alt=""> <img src="./assets/images/48.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/39.jpg" alt=""> <img src="./assets/images/49.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/50.jpg" alt=""> <img src="./assets/images/60.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/51.jpg" alt=""> <img src="./assets/images/61.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/52.jpg" alt=""> <img src="./assets/images/62.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/53.jpg" alt=""> <img src="./assets/images/63.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/54.jpg" alt=""> <img src="./assets/images/64.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/55.jpg" alt=""> <img src="./assets/images/65.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
-                <div class="owl-item">
-                  <div class="brands_item d-flex flex-column justify-content-center"> <img src="./assets/images/56.jpg" alt=""> <img src="./assets/images/66.jpg" alt="" class="mt-4 d-md-block d-block"> </div>
-                </div>
+                  <div class="brands_item "> <img src="./assets/images/1.jpg" alt=""> <img src="./assets/images/11.jpg"  > </div>
+                  <div class="brands_item "> <img src="./assets/images/2.jpg" alt=""> <img src="./assets/images/12.jpg"  > </div>
+                  <div class="brands_item"> <img src="./assets/images/3.jpg" alt=""> <img src="./assets/images/13.jpg"  > </div>
+                  <div class="brands_item "> <img src="./assets/images/4.jpg" alt=""> <img src="./assets/images/14.jpg"  > </div>
+                  <div class="brands_item "> <img src="./assets/images/5.jpg" alt=""> <img src="./assets/images/15.jpg"  > </div>
+                  <div class="brands_item "> <img src="./assets/images/6.jpg" alt=""> <img src="./assets/images/16.jpg"  > </div>
+                  <div class="brands_item "> <img src="./assets/images/7.jpg" alt=""> <img src="./assets/images/17.jpg"  > </div>
+                  <div class="brands_item "> <img src="./assets/images/8.jpg" alt=""> <img src="./assets/images/18.jpg"  > </div>
+                  <div class="brands_item"> <img src="./assets/images/9.jpg" alt=""> <img src="./assets/images/19.jpg"  > </div>
+                  <div class="brands_item"> <img src="./assets/images/10.jpg" alt=""> <img src="./assets/images/20.jpg"  > </div>
+                  <div class="brands_item"> <img src="./assets/images/11.jpg" alt=""> <img src="./assets/images/21.jpg"  > </div>
+                  <div class="brands_item"> <img src="./assets/images/12.jpg" alt=""> <img src="./assets/images/22.jpg"  > </div>
+                  <div class="brands_item"> <img src="./assets/images/13.jpg" alt=""> <img src="./assets/images/23.jpg"  > </div>
+                  <div class="brands_item"> <img src="./assets/images/14.jpg" alt=""> <img src="./assets/images/24.jpg"  > </div>
+                  <div class="brands_item"> <img src="./assets/images/15.jpg" alt=""> <img src="./assets/images/25.jpg"  > </div>
+                  <div class="brands_item"> <img src="./assets/images/16.jpg" alt=""> <img src="./assets/images/26.jpg"  > </div>
+                  <div class="brands_item"> <img src="./assets/images/17.jpg" alt=""> <img src="./assets/images/27.jpg"  > </div>
+                  <div class="brands_item"> <img src="./assets/images/18.jpg" alt=""> <img src="./assets/images/28.jpg"  > </div>
+                  <div class="brands_item"> <img src="./assets/images/19.jpg" alt=""> <img src="./assets/images/29.jpg"  > </div>
+                  <div class="brands_item"> <img src="./assets/images/30.jpg" alt=""> <img src="./assets/images/40.jpg"  > </div>
+                  <div class="brands_item"> <img src="./assets/images/31.jpg" alt=""> <img src="./assets/images/41.jpg"  > </div>
+                  <div class="brands_item"> <img src="./assets/images/32.jpg" alt=""> <img src="./assets/images/42.jpg"  > </div>
+                  <div class="brands_item"> <img src="./assets/images/33.jpg" alt=""> <img src="./assets/images/43.jpg"  > </div>
+                  <div class="brands_item"> <img src="./assets/images/34.jpg" alt=""> <img src="./assets/images/44.jpg"  > </div>
+                  <div class="brands_item"> <img src="./assets/images/35.jpg" alt=""> <img src="./assets/images/45.jpg"  > </div>
+                  <div class="brands_item "> <img src="./assets/images/36.jpg" alt=""> <img src="./assets/images/46.jpg"  > </div>
+                  <div class="brands_item "> <img src="./assets/images/37.jpg" alt=""> <img src="./assets/images/47.jpg"  > </div>
+                  <div class="brands_item "> <img src="./assets/images/38.jpg" alt=""> <img src="./assets/images/48.jpg"  > </div>
+                  <div class="brands_item "> <img src="./assets/images/39.jpg" alt=""> <img src="./assets/images/49.jpg"  > </div>
+                  <div class="brands_item "> <img src="./assets/images/50.jpg" alt=""> <img src="./assets/images/60.jpg"  > </div>
+                  <div class="brands_item "> <img src="./assets/images/51.jpg" alt=""> <img src="./assets/images/61.jpg"  > </div>
+                  <div class="brands_item "> <img src="./assets/images/52.jpg" alt=""> <img src="./assets/images/62.jpg"  > </div>
+                  <div class="brands_item "> <img src="./assets/images/53.jpg" alt=""> <img src="./assets/images/63.jpg"  > </div>
+                  <div class="brands_item "> <img src="./assets/images/54.jpg" alt=""> <img src="./assets/images/64.jpg"  > </div>
+                  <div class="brands_item"> <img src="./assets/images/55.jpg" alt=""> <img src="./assets/images/65.jpg"  > </div>
+                  <div class="brands_item"> <img src="./assets/images/56.jpg" alt=""> <img src="./assets/images/66.jpg"  > </div>
               </div>
               <!-- Brands Slider Navigation -->
               <div class="brands_nav brands_prev"><i class="fas fa-chevron-left"></i></div>

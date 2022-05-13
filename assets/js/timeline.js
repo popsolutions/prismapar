@@ -7,7 +7,7 @@
       center: true,
       margin: 0,
       responsiveClass: true,
-	  dots:false,
+	  dots: false,
       nav: false,
 		navText: [
         '<i class="fa fa-angle-left" aria-hidden="true"></i>',

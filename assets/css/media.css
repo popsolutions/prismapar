@@ -41,24 +41,22 @@
 }
 @media (min-width: 1360px) {
     .eqipe-sec div h1 {
-        font-size: 2.5rem;
+        font-size: 3rem;
         font-weight: 700;
     }
     .eqipe-sec div div p {
-        font-size: 18px;
         font-weight: 400;
     }
     .que-section div h1 {
-        font-size: 2.5rem;
+        font-size: 3rem;
         font-weight: 700;
     }
     .que-section div div p {
-        font-size: 18px;
         font-weight: 400;
         color: #5e5b5b;
     }
     .Cases-sec h1 {
-        font-size: 2.5rem;
+        font-size: 3rem;
         font-weight: 700;
     }
     .gtco-testimonials .owl-carousel .owl-stage-outer .owl-stage .owl-item .cases-car-img {
@@ -72,7 +70,7 @@
         color: #0f4889cc;
     }
     .num-sec div h1 {
-        font-size: 3.2rem;
+      font-size: 3rem;
         font-weight: 700;
     }
     .display-counter {
@@ -89,10 +87,9 @@
         font-size: 23px;
         font-weight: 700;
         color: #838181;
-        margin-top: -15%;
     }
     .clients-carousel h1 {
-        font-size: 4rem;
+        font-size: 3rem;
         font-weight: 700;
     }
 }
@@ -112,16 +109,15 @@
         font-weight: 400;
     }*/
     .que-section div h1 {
-        font-size: 3.5rem;
+font-size: 3rem;
         font-weight: 700;
     }
     .que-section div div p {
-        font-size: 17px;
         font-weight: 400;
         color: #5e5b5b;
     }
     .Cases-sec h1 {
-        font-size: 3.5rem;
+		font-size: 3rem;
         font-weight: 700;
     }
     .gtco-testimonials .owl-carousel .owl-stage-outer .owl-stage .owl-item .cases-car-img {
@@ -135,7 +131,7 @@
         color: #0f4889cc;
     }
     .num-sec div h1 {
-        font-size: 3.2rem;
+        font-size: 3rem;
         font-weight: 700;
     }
     .display-counter {
@@ -152,10 +148,9 @@
         font-size: 21px;
         font-weight: 700;
         color: #838181;
-        margin-top: -15%;
     }
     .clients-carousel h1 {
-        font-size: 4rem;
+        font-size: 3rem;
         font-weight: 700;
     }
     .equipe_img_nme {
@@ -218,7 +213,7 @@
         width: 10.6vw !important;
     }*/
     .clients-carousel h1 {
-        font-size: 3.5rem;
+        font-size: 3rem;
         font-weight: 700;
     }
     .display-counter {
@@ -232,14 +227,13 @@
         color: #0e3b6e;
     }
     .num-sec div h1 {
-        font-size: 2.5rem;
+        font-size: 3rem;
         font-weight: 700;
     }
     p.num-label {
         font-size: 16px;
         font-weight: 700;
         color: #838181;
-        margin-top: -15%;
     }
     .gtco-testimonials .owl-carousel .owl-stage-outer .owl-stage .owl-item img {
         width: 34vw !important;
@@ -348,11 +342,10 @@
         margin-top: 0 !important;
         /* text-align: right !important; */
     }
-    p.num-tag {
+    .num-tag {
         font-size: 26px;
         font-weight: 700;
         color: #838181;
-        margin-top: 23%;
     }
  /*   .owl-carousel .owl-item img {
         display: block;
@@ -430,10 +423,7 @@
         display: block;
         width: 18vw !important;
     }*/
-    .brands_prev {
-        left: -22px;
-        z-index: 99999;
-    }
+    
 }
 @media (max-width: 540px) {
     .logo_time {
@@ -461,32 +451,26 @@
         width: 26vw !important;
     }*/
     .brands_prev {
-        left: -3px;
+        left: 0px;
         z-index: 99999;
     }
    /* .owl-carousel .owl-item img {
         display: block;
         width: 40vw !important;
     }*/
-    .brands_slider_container {
-        margin-left: 4%;
-    }
     .brands_next {
         right: 0px;
         z-index: 99999;
     }
-    p.num-label {
+    .num-label {
         font-size: 21px;
         font-weight: 700;
         color: #838181;
-        margin-top: -7%;
     }
-    p.num-tag {
+    .num-tag {
         font-size: 26px;
         font-weight: 700;
         color: #838181;
-        margin-top: 10%;
-        margin-left: 32%;
     }
     .gtco-testimonials .owl-carousel .owl-stage-outer {
         height: 149vh;
@@ -546,12 +530,10 @@
         margin-top: 14%;
         margin-left: 15%;
     }
-    p.num-tag {
+    .num-tag {
         font-size: 26px;
         font-weight: 700;
         color: #838181;
-        margin-top: 13%;
-        margin-left: 26%;
     }
     /*  #chartdiv {
     width: 111vw !important;
@@ -621,12 +603,10 @@
         margin-top: 3%;
         margin-left: 7%;
     }
-    p.num-tag {
+    .num-tag {
         font-size: 26px;
         font-weight: 700;
         color: #838181;
-        margin-top: 13%;
-        margin-left: 22%;
     }
     .clients-carousel h1 {
         font-size: 3rem;
@@ -796,7 +776,7 @@
     }
 }
 
-@media (max-width: 480px) {
+/*@media (max-width: 480px) {
     .Globe-section {
         height: 500px;
         overflow: hidden
@@ -807,11 +787,11 @@
         margin-top: -40px;
     }
 	
-}
+}*/
 @media (max-width: 480px) {
     .Globe-section {
-        height: 383px;
-        overflow: hidden
+        height: 419px;
+        overflow: visible
     }
     #chartdiv {
         width: 100%;

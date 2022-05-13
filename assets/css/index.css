@@ -60,7 +60,7 @@ body {
     width: 7vw;
 }
 .timline-heading {
-    font-size: 2.5rem;
+    font-size: 3rem;
 }
 .tim-cntnt-h {
     font-size: 0.98rem;
@@ -492,11 +492,10 @@ body {
     background-color: #002f67;
 }
 .eqipe-sec div h1 {
-    font-size: 2.5rem;
+    font-size: 3rem;
     font-weight: 700;
 }
 .eqipe-sec div div p {
-    font-size: 18px;
     font-weight: 400;
 }
 .clear {
@@ -689,11 +688,11 @@ body {
 /* Equipe End */
 /* O Que Fazems Starts */
 .que-section div h1 {
-    font-size: 4rem;
+    
     font-weight: 700;
 }
 .que-section div div p {
-    font-size: 21px;
+    
     font-weight: 400;
     color: #5e5b5b;
 }
@@ -703,7 +702,6 @@ body {
 /* O Que Fazems Ends */
 /* Cases Start */
 .Cases-sec h1 {
-    font-size: 4rem;
     font-weight: 700;
 }
 .Cases-sec h2 {
@@ -826,33 +824,34 @@ body {
 /* Cases End */
 /* Numbers Starts */
 .num-sec div h1 {
-    font-size: 4rem;
-    font-weight: 700;
+   font-size: 3rem;
+   font-weight: 700;
 }
 .txt-blu {
     color: #0e3b6e;
 }
 .display-counter {
-    font-size: 8rem;
+    font-size: 7rem;
     font-weight: 700;
     color: #0e3b6e;
+	line-height: 1
 }
 .dsply-cntr {
-    font-size: 8rem;
+    font-size: 7rem;
     font-weight: 700;
     color: #0e3b6e;
 }
-p.num-tag {
+.num-tag {
     font-size: 26px;
     font-weight: 700;
     color: #838181;
-    margin-top: 28%;
+    margin-top: 10px;
 }
-p.num-label {
+.num-label {
     font-size: 26px;
     font-weight: 700;
     color: #838181;
-    margin-top: -15%;
+	margin-top: -15px
 }
 /* Numbers Ends */
 /* Clients Carousel Start */
@@ -861,13 +860,14 @@ p.num-label {
     padding-top: 90px;
     padding-bottom: 90px;
 }
-.brands_slider_container {}
+.brands_slider_container {width:95%; margin: 0 auto}
 .brands_slider {
     /* height: 100%; */
 }
-.brands_item {}
+.brands_item {margin: 20px}
 .brands_item img {
     max-width: 100%;
+	margin-bottom: 30px
 }
 .brands_nav {
     position: absolute;
@@ -893,11 +893,11 @@ p.num-label {
     color: #676767;
 }
 .brands_prev {
-    left: -37px;
+    left: -10px;
     z-index: 99999;
 }
 .brands_next {
-    right: -16px;
+    right: -10px;
     z-index: 99999;
 }
 /*.owl-carousel .owl-item img {
@@ -905,7 +905,7 @@ p.num-label {
     width: 9vw !important;
 }*/
 .clients-carousel h1 {
-    font-size: 5rem;
+    font-size: 3rem;
     font-weight: 700;
 }
 /* Clients Carousel End */
@@ -1002,8 +1002,16 @@ p.num-label {
     position: absolute;
     width: 103%;
     z-index: 0;
-    bottom: 140px
+    bottom: 27%
 }
+@media only screen and (max-width: 1440px) {
+.linhadiagonal {
+    bottom: 30%	
+}
+}
+
+
+
 .hidden-xs {
     opacity: 0; /* Esconde no desktop. */
     height: 0;
@@ -1035,6 +1043,11 @@ p.num-label {
         margin-top: -50px;
     }
 }
+
+
+
+
+
 /*TIMELINE NEW STYLES*/
 .timeline_flags {
     width: 100%;
@@ -1047,7 +1060,7 @@ p.num-label {
     margin-bottom: 0
 }
 .timeline_txt {
-    margin-bottom: 200px;
+    margin-bottom: 32%;
 	color: #0e3b6e
 }
 .m-2012 {
@@ -1237,3 +1250,8 @@ button.close:hover {
         height: 400px
     }
 }
+
+
+.lang_selector {margin-bottom: 20px; text-align: right; margin-top: 10px}
+.lang_selector li {display:inline-block}
+.lang_selector li img {width:30px}

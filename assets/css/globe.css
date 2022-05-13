@@ -1,10 +1,16 @@
-
-
-
 .img_data {
   width: 240px;
 }
-
 .align-center {
   text-align: center;
+}
+.item-glovo{position: relative; background-color: blueviolet;}
+
+@media screen and (min-width: 601px) {
+  .item-glovo-mobile{display:none}
+  .item-glovo-desktop{display:block}
+}
+@media screen and (max-width: 600px) {
+  .item-glovo-mobile{display:block}
+  .item-glovo-desktop{display:none}
 }
