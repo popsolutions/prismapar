@@ -676,7 +676,8 @@ font-size: 3rem;
 
 /*NEW MEDIA STYLES*/
 .Globe-section {
-    height: 580px;
+    /*height: 580px;*/
+    height: auto;
     overflow: hidden
 }
 #chartdiv {
@@ -749,7 +750,8 @@ font-size: 3rem;
 
 @media (max-width: 991px) {
     .Globe-section {
-        height: 500px;
+        /*height: 500px;*/
+        height: auto;
         overflow: hidden
     }
     #chartdiv {
@@ -771,9 +773,11 @@ font-size: 3rem;
         font-size: .8rem;
 	   max-width: none
     }
+    /*
 	.img_data {
        margin-bottom: 50px
     }
+    */
 }
 
 /*@media (max-width: 480px) {
@@ -790,7 +794,8 @@ font-size: 3rem;
 }*/
 @media (max-width: 480px) {
     .Globe-section {
-        height: 419px;
+        /*height: 419px;*/
+        height: auto;
         overflow: visible
     }
     #chartdiv {

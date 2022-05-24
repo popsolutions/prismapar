@@ -1,0 +1,37 @@
+(function () {
+  "use strict";
+
+  var carousels = function () {
+    $(".owl-carousel2").owlCarousel({
+      loop: false,
+      center: true,
+      margin: 0,
+      responsiveClass: true,
+	  dots: false,
+      nav: false,
+		navText: [
+        '<i class="fa fa-angle-left" aria-hidden="true"></i>',
+        '<i class="fa fa-angle-right" aria-hidden="true"></i>'
+    ],
+      responsive: {
+        0: {
+          items: 1,
+          nav: false,
+        },
+        680: {
+          items: 1,
+          nav: false,
+          loop: false,
+        },
+        1024: {
+          items: 1,
+          nav: false,
+        },
+      },
+    });
+  };
+
+  (function ($) {
+    carousels();
+  })(jQuery);
+})();

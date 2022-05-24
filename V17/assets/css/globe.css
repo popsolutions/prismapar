@@ -1,0 +1,29 @@
+.img_data {
+  width: 240px;
+}
+.align-center {
+  text-align: center;
+}
+.item-glovo{position: relative; background-color: blueviolet;}
+.item-glovo-mobile-js{display: none;}
+@media screen and (min-width: 992px) {
+  /*
+  .item-glovo-mobile{display:none}
+  .item-glovo-desktop{display:block}
+  */
+  #chartdiv{display:block}
+  .globo_mobile{display: none;}
+}
+@media screen and (max-width: 991px) {
+  /*
+  .item-glovo-mobile{display:block}
+  .item-glovo-desktop{display:none}
+  */
+  #chartdiv{display:none}
+  .globo_mobile{display: block;}
+  .img_data {
+    margin-bottom: 0;
+}
+}
+.item-glovo-mobile{width:90%; margin:auto; padding:10px;background-color:#002f67; text-align: center; color: white;width: 60%; border-radius: 10px;}
+.globo-item .gimage img{width: 100%;}
