@@ -5,8 +5,8 @@ $(document).ready(function () {
     viewedSlider.owlCarousel({
       loop: true,
       margin: 0,
-      autoplay: true,
-      autoplayTimeout: 6000,
+      autoplay: false,
+      //autoplayTimeout: 6000,
       nav: false,
       dots: false,
       responsive: {
