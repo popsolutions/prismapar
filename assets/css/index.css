@@ -857,8 +857,8 @@ body {
 /* Clients Carousel Start */
 .brands {
     width: 100%;
-    padding-top: 45px;
-    padding-bottom: 45px;
+    padding-top: 90px;
+    padding-bottom: 90px;
 }
 .brands_slider_container {width:95%; margin: 0 auto}
 .brands_slider {
@@ -1093,7 +1093,7 @@ body {
     margin-top: 50px
 }
 .timeline_mobile .flags img {
-    max-width: 50px !important;
+    max-width: 40px !important;
 }
 .timeline_mobile .flags img:first-of-type {
     margin-left: 15px
@@ -1184,6 +1184,7 @@ button.close:hover {
 .f_equipe-6 {background-image: url('../imgs/6.Ana@3x.png')}
 .f_equipe-7 {background-image: url('../imgs/8.Andres@3x.png')}
 .f_equipe-8 {background-image: url('../imgs/10.Hilario@3x.png')}
+.f_equipe-9 {background-image: url('../imgs/10.Hilario@3x.png')}
 
 
 @media only screen and (max-width: 576px) {
@@ -1195,6 +1196,7 @@ button.close:hover {
 .f_equipe-6 {background-image: url('../imgs/6_m_Ana.png')}
 .f_equipe-7 {background-image: url('../imgs/8_m_Andres.png')}
 .f_equipe-8 {background-image: url('../imgs/10_m_Hilario.png')}
+.f_equipe-9 {background-image: url('../imgs/10_m_Hilario.png')}
 	
     .foto-modal {
         height: 386px;
@@ -1222,7 +1224,7 @@ button.close:hover {
     margin-bottom: 0px;
     padding: 0;
 }
-.contato-modal {}
+
 .logo-linkedin {
     width: 63px;
 }
@@ -1237,7 +1239,6 @@ button.close:hover {
     background-size: cover
 }
 
-
 .carousel .bbb_viewed_nav {}
 .carousel .bbb_viewed_next, .carousel .bbb_viewed_prev {position: relative; top: auto; left: auto; right: auto}
 
@@ -1251,9 +1252,8 @@ button.close:hover {
     }
 }
 
-
 .lang_selector {margin-bottom: 20px; text-align: right; margin-top: 10px}
 .lang_selector li {display:inline-block}
 .lang_selector li img {width:30px}
 
-.tm-text{height: 25px;}
+.contato-modal a{font-size: 14px;}
