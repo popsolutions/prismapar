@@ -6,7 +6,7 @@
       loop: true,
       center: true,
       autoplay: false,
-      margin: 0,
+      margin: 20,
       responsiveClass: true,
      dots: false,
       nav: false,
