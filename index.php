@@ -1,5 +1,6 @@
 <?php
 $locale = 'pt_BR';
+$lang = 'pt';
 $domain = 'prismapar';
 if (isset($_GET['lang'])) {
   $lang = $_GET['lang'];
@@ -384,7 +385,7 @@ bind_textdomain_codeset($domain, 'UTF-8');
                 </div>
               </div>
               <div class="owl-item">
-                <div class="bbb_viewed_item d-flex flex-column align-items-center justify-content-center text-center" data-toggle="modal" data-target="#Modal-10"> <img src="./assets/images/12.Daniel@3x.png">
+                <div class="bbb_viewed_item d-flex flex-column align-items-center justify-content-center text-center" data-toggle="modal" data-target="#Modal-10"> <img src="./assets/images/12.Nicolas@3x.png">
                   <h2 class="equipe_img_nme8 text-white">Nicolas Novoa </h2>
                   <p class="equipe_img_tag1 text-white mb-0"> <?php echo _('Sócio');?> &nbsp; &nbsp; &nbsp; </p>
                   <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Analista');?> </p>
@@ -704,7 +705,7 @@ bind_textdomain_codeset($domain, 'UTF-8');
                           </div>
                         </div>
                       </div>
-                      <div class="col-sm-4 foto-modal f_equipe-9 px-0"> </div>
+                      <div class="col-sm-4 foto-modal f_equipe-10 px-0"> </div>
                     </div>
                   </div>
                 </div>
