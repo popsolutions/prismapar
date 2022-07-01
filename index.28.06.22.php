@@ -1,6 +1,5 @@
 <?php
 $locale = 'pt_BR';
-$lang = 'pt';
 $domain = 'prismapar';
 if (isset($_GET['lang'])) {
   $lang = $_GET['lang'];
@@ -236,7 +235,7 @@ bind_textdomain_codeset($domain, 'UTF-8');
     <!-- Globe -->
     <section id="presenca" class="Globe-section" style="background-color: #404040;">
       <div class="col-lg-8 mx-auto">
-        <div class="row leftinfo">
+        <div class="row">
           <div class="col-lg-4 col-md-12 mx-auto">
             <div class="texto">
               <p class="text-o-color-4 text-white" style="font-weight: bolder">
@@ -385,7 +384,7 @@ bind_textdomain_codeset($domain, 'UTF-8');
                 </div>
               </div>
               <div class="owl-item">
-                <div class="bbb_viewed_item d-flex flex-column align-items-center justify-content-center text-center" data-toggle="modal" data-target="#Modal-10"> <img src="./assets/images/12.Nicolas@3x.png">
+                <div class="bbb_viewed_item d-flex flex-column align-items-center justify-content-center text-center" data-toggle="modal" data-target="#Modal-10"> <img src="./assets/images/12.Daniel@3x.png">
                   <h2 class="equipe_img_nme8 text-white">Nicolas Novoa </h2>
                   <p class="equipe_img_tag1 text-white mb-0"> <?php echo _('Sócio');?> &nbsp; &nbsp; &nbsp; </p>
                   <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Analista');?> </p>
@@ -705,7 +704,7 @@ bind_textdomain_codeset($domain, 'UTF-8');
                           </div>
                         </div>
                       </div>
-                      <div class="col-sm-4 foto-modal f_equipe-10 px-0"> </div>
+                      <div class="col-sm-4 foto-modal f_equipe-9 px-0"> </div>
                     </div>
                   </div>
                 </div>
@@ -975,7 +974,7 @@ bind_textdomain_codeset($domain, 'UTF-8');
   <!-- Company Copyright -->
   <section class="cmpny-cpyrght py-4" style="background-color: #dcdddf;">
     <div class="col-lg-8 mx-auto">
-      <p class="mb-0"> &copy; 2021 Prismapar. <?php echo _("Todos os");?> <?php echo _("direitos reservados");?>. <?php echo _("Desenvolvido por");?> <a href="https://popsolutions.com.br" class="text-decoration-none"> Popsolutions. </a> </p>
+      <p class="mb-0"> &copy; 2021 Prismapar.Todos os direitos reservados. Desenvolvido por <a href="https://popsolutions.com.br" class="text-decoration-none"> Popsolutions. </a> </p>
     </div>
   </section>
   <!-- JS Files link -->
@@ -988,7 +987,7 @@ bind_textdomain_codeset($domain, 'UTF-8');
   <script src="./assets/js/maps.js"></script>
   <script src="./assets/js/worldLow.js"></script>
   <script src="./assets/js/continentsLow.js"></script>
-  <script src="./assets/js/script_<?php echo $lang;?>.js"></script>
+  <script src="./assets/js/script.js"></script>
   <script src="//cdn.amcharts.com/lib/5/themes/Responsive.js"></script>
 
   <!-- For Clients Carousel -->
