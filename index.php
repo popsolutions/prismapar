@@ -19,6 +19,7 @@ if (defined('LC_MESSAGES')) {
   putenv("LC_ALL={$locale}"); // windows
   bindtextdomain($domain, ".\locale");
 }
+
 textdomain($domain);
 bind_textdomain_codeset($domain, 'UTF-8');
 ?>
@@ -239,6 +240,7 @@ bind_textdomain_codeset($domain, 'UTF-8');
         <div class="row leftinfo">
           <div class="col-lg-4 col-md-12 mx-auto">
             <div class="texto">
+            <h1 class="text-o-color-3 text-white" style="font-weight: bolder;"> <?php echo _("PRESENÇA LATAM");?> </h1>
               <p class="text-o-color-4 text-white" style="font-weight: bolder">
                 <?php echo _('Com sócios em 7 países, conectamos clientes nos principais mercados da América Latina.');?> </p>
               <img class="img_data" src="./assets/images/paises_<?php echo $lang; ?>.png" loading="lazy"> <br>
@@ -323,15 +325,15 @@ bind_textdomain_codeset($domain, 'UTF-8');
               <div class="owl-item">
                 <div class="bbb_viewed_item discount d-flex flex-column align-items-center justify-content-center text-center" data-toggle="modal" data-target="#Modal-1"> <img src="./assets/images/1.Renato@3x.png">
                   <h2 class="equipe_img_nme1 text-white">Renato Souza</h2>
-                  <p class="equipe_img_tag1 text-white mb-0"> <?php echo _('Sócio-');?> </p>
-                  <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('diretor-');?> </p>
+                  <!--<p class="equipe_img_tag1 text-white mb-0"> <?php //echo _('Sócio');?>- </p>-->
+                  <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Sócio Diretor');?> </p>
                 </div>
               </div>
               <div class="owl-item">
                 <div class="bbb_viewed_item d-flex flex-column align-items-center justify-content-center text-center" data-toggle="modal" data-target="#Modal-2"> <img src="./assets/images/2.Marcelo@3x.png">
                   <h2 class="equipe_img_nme2 text-white">Marcelo Burbano</h2>
-                  <p class="equipe_img_tag1 text-white mb-0"> <?php echo _('Sócio-');?> </p>
-                  <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('diretor');?> </p>
+                  <!--<p class="equipe_img_tag1 text-white mb-0"> <?php //echo _('Sócio');?>- </p>-->
+                  <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Sócio Diretor');?> </p>
                 </div>
               </div>
               <div class="owl-item">
@@ -365,29 +367,31 @@ bind_textdomain_codeset($domain, 'UTF-8');
               <div class="owl-item">
                 <div class="bbb_viewed_item d-flex flex-column align-items-center justify-content-center text-center" data-toggle="modal" data-target="#Modal-7"> <img src="./assets/images/8.Andres@3x.png">
                   <h2 class="equipe_img_nme7 text-white">Andrés Cardó</h2>
-                  <p class="equipe_img_tag1 text-white text-left mb-0"> <?php echo _('Sócio');?> &nbsp; &nbsp;
-                    &nbsp;</p>
-                  <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Consultor');?> </p>
+                  <!--<p class="equipe_img_tag1 text-white text-left mb-0"> <?php //echo _('Sócio');?> &nbsp; &nbsp;
+                    &nbsp;</p>-->
+                  <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Sócio Consultor');?> </p>
                 </div>
               </div>
               <div class="owl-item">
                 <div class="bbb_viewed_item d-flex flex-column align-items-center justify-content-center text-center" data-toggle="modal" data-target="#Modal-8"> <img src="./assets/images/10.Hilario@3x.png">
                   <h2 class="equipe_img_nme8 text-white">Hilario Nuño</h2>
-                  <p class="equipe_img_tag1 text-white mb-0"> <?php echo _('Sócio');?> &nbsp; &nbsp; &nbsp; </p>
-                  <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Consultor');?> </p>
+                  <!--<p class="equipe_img_tag1 text-white text-left mb-0"> <?php //echo _('Sócio');?> &nbsp; &nbsp;
+                    &nbsp;</p>-->
+                  <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Sócio Consultor');?> </p>
                 </div>
               </div>
               <div class="owl-item">
                 <div class="bbb_viewed_item d-flex flex-column align-items-center justify-content-center text-center" data-toggle="modal" data-target="#Modal-9"> <img src="./assets/images/11.Daniel@3x.png">
                   <h2 class="equipe_img_nme8 text-white">Daniel Villela </h2>
-                  <p class="equipe_img_tag1 text-white mb-0"> <?php echo _('Sócio');?> &nbsp; &nbsp; &nbsp; </p>
-                  <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Consultor');?> </p>
+                  <!--<p class="equipe_img_tag1 text-white text-left mb-0"> <?php //echo _('Sócio');?> &nbsp; &nbsp;
+                    &nbsp;</p>-->
+                  <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Sócio Consultor');?> </p>
                 </div>
               </div>
               <div class="owl-item">
                 <div class="bbb_viewed_item d-flex flex-column align-items-center justify-content-center text-center" data-toggle="modal" data-target="#Modal-10"> <img src="./assets/images/12.Nicolas@3x.png">
                   <h2 class="equipe_img_nme8 text-white">Nicolas Novoa </h2>
-                  <p class="equipe_img_tag1 text-white mb-0"> <?php echo _('Sócio');?> &nbsp; &nbsp; &nbsp; </p>
+                  <p class="equipe_img_tag1 text-white mb-0">  &nbsp; &nbsp; &nbsp; </p>
                   <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Analista');?> </p>
                 </div>
               </div>
