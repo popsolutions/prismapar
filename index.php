@@ -155,6 +155,7 @@ bind_textdomain_codeset($domain, 'UTF-8');
                   <img src="./assets/images/bandeira-espanha.jpg" class="ml-2">
                   <img src="./assets/images/bandeira-mexico.jpg" class="ml-2">
                   <img src="./assets/images/bandeira-eua.jpg" class="ml-2">
+                  <img src="./assets/images/bandeira-peru.jpg" class="ml-2">
                 </div>
               </div>
             </div>
@@ -209,13 +210,13 @@ bind_textdomain_codeset($domain, 'UTF-8');
                   </div>
                 </div>
                 <div class="row timeline_flags">
-                  <div class="col px-0 text-center"> <img src="./assets/imgs/bandeira-2019.png" class="m-2019">
+                  <div class="col px-0 text-center"> <img src="./assets/imgs/bandeira-2020.png" class="m-2019">
                     <hr class="line-bandeira">
-                    <p class="m-2019">2019</p>
+                    <p class="m-2019">2020</p>
                   </div>
-                  <div class="col pl-0 text-right"> <img src="./assets/imgs/bandeira-2020.png">
+                  <div class="col pl-0 text-right"> <img src="./assets/imgs/bandeira-2022.png">
                     <hr class="line-bandeira">
-                    <p>2020</p>
+                    <p>2022</p>
                   </div>
                 </div>
               </div>
