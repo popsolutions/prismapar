@@ -200,12 +200,13 @@ polygonSeries.events.on("inited", function () {
 
 var data = {
   "BR": "<strong>BRASIL</strong>*<strong>Bruno Maringoni</strong><br>Partner, São Paulo*brasil",
-  "CR": "<strong>COSTA RICA</strong>*<strong>Renato Souza Neto</strong><br>Partner Director, San José*costa_rica",
-  "MX": "<strong>MÉXICO</strong>*<strong>Alejandra Solis</strong><br>Partner, Mexico City*mexico",
-  "CO": "<strong>COLÔMBIA</strong>*<strong>Marcelo Burbano</strong><br>Partner Diretor, Bogotá*colombia",
+  "CR": "<strong>COSTA RICA</strong>*<strong>Renato Souza Neto</strong><br>Managing Partner, San José*costa_rica",
+  "MX": "<strong>MÉXICO</strong>*<strong>Alejandra Solis</strong><br>Associate Principal, Mexico City*mexico",
+  "CO": "<strong>COLÔMBIA</strong>*<strong>Marcelo Burbano</strong><br>Managing Partner, Bogotá*colombia",
   "EC": "<strong>EQUADOR</strong>*<strong>Oliver Klopfstein</strong><br>Partner, Guayaquil*equator",
-  "ES": "<strong>ESPANHA</strong>*<strong>Andrés Cardó</strong><br>Senior Consultor, Madrid*espanha",
-  "US": "<strong>EUA</strong>*<strong>Hilario Nuño</strong><br>Senior Consultor, New York*eua"
+  "ES": "<strong>ESPANHA</strong>*<strong>Andrés Cardó</strong><br>Associate Partner, Madrid*espanha",
+  "US": "<strong>EUA</strong>*<strong>Hilario Nuño</strong><br>Associate Partner, New York*eua",
+  "PE": "<strong>PERU</strong>*<strong>Moises Gutierrez</strong><br>Associate, Lima*peru"
 }
 
 

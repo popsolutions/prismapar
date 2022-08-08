@@ -199,13 +199,14 @@ polygonSeries.events.on("inited", function () {
 })
 
 var data = {
-  "BR": "<strong>BRASIL</strong>*<strong>Bruno Maringoni</strong><br>Sócio, São Paulo*brasil",
-  "CR": "<strong>COSTA RICA</strong>*<strong>Renato Souza Neto</strong><br>Sócio Diretor, San José*costa_rica",
-  "MX": "<strong>MÉXICO</strong>*<strong>Alejandra Solis</strong><br>Sócia, Cidade do México*mexico",
-  "CO": "<strong>COLÔMBIA</strong>*<strong>Marcelo Burbano</strong><br>Sócio Diretor, Bogotá*colombia",
-  "EC": "<strong>EQUADOR</strong>*<strong>Oliver Klopfstein</strong><br>Sócio, Guaiaquil*equator",
-  "ES": "<strong>ESPANHA</strong>*<strong>Andrés Cardó</strong><br>Consultor Sênior, Madrid*espanha",
-  "US": "<strong>EUA</strong>*<strong>Hilario Nuño</strong><br>Consultor Sênior, New York*eua"
+  "BR": "<strong>BRASIL</strong>*<strong>Bruno Maringoni</strong><br>Partner, São Paulo*brasil",
+  "CR": "<strong>COSTA RICA</strong>*<strong>Renato Souza Neto</strong><br>Managing Partner, San José*costa_rica",
+  "MX": "<strong>MÉXICO</strong>*<strong>Alejandra Solis</strong><br>Associate Principal, Cidade do México*mexico",
+  "CO": "<strong>COLÔMBIA</strong>*<strong>Marcelo Burbano</strong><br>Managing Partner, Bogotá*colombia",
+  "EC": "<strong>EQUADOR</strong>*<strong>Oliver Klopfstein</strong><br>Partner, Guaiaquil*equator",
+  "ES": "<strong>ESPANHA</strong>*<strong>Andrés Cardó</strong><br>Associate Partner, Madrid*espanha",
+  "US": "<strong>EUA</strong>*<strong>Hilario Nuño</strong><br>Associate Partner, New York*eua",
+  "PE": "<strong>PERU</strong>*<strong>Moises Gutierrez</strong><br>Associate, Lima*peru"
 }
 
 
