@@ -43,7 +43,7 @@
             <div class="bbb_viewed_item discount d-flex flex-column align-items-center justify-content-center text-center" data-toggle="modal" data-target="#Modal-5"> <img src="./assets/images/5.Francisco@3x.png">
               <h2 class="equipe_img_nme5 text-white">Francisco Gomez</h2>
               <p class="equipe_img_tag1 text-white mb-0"></p>
-              <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Sócia'); ?> </p>
+              <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Principal'); ?> </p>
             </div>
           </div>
           <div class="owl-item">
@@ -81,10 +81,10 @@
             </div>
           </div>
           <div class="owl-item">
-            <div class="bbb_viewed_item d-flex flex-column align-items-center justify-content-center text-center" data-toggle="modal" data-target="#Modal-10"> <img src="./assets/images/12.Nicolas@3x.png">
-              <h2 class="equipe_img_nme8 text-white">Nicolas Novoa </h2>
+            <div class="bbb_viewed_item d-flex flex-column align-items-center justify-content-center text-center" data-toggle="modal" data-target="#Modal-10"> <img src="./assets/images/12.Moises@3x.png">
+              <h2 class="equipe_img_nme8 text-white">Moises Gutierrez </h2>
               <p class="equipe_img_tag1 text-white mb-0"> &nbsp; &nbsp; &nbsp; </p>
-              <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Analista'); ?> </p>
+              <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Associate'); ?> </p>
             </div>
           </div>
         </div>
