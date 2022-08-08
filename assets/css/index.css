@@ -1180,12 +1180,12 @@ button.close:hover {
 .f_equipe-2 {background-image: url('../imgs/2.Marcelo@3x.png')}
 .f_equipe-3 {background-image: url('../imgs/3.Oliver@3x.png')}
 .f_equipe-4 {background-image: url('../imgs/4.Bruno@3x.png')}
-.f_equipe-5 {background-image: url('../imgs/5.Alejandra@3x.png')}
+.f_equipe-5 {background-image: url('../imgs/5.Francisco@3x.png')}
 .f_equipe-6 {background-image: url('../imgs/6.Ana@3x.png')}
 .f_equipe-7 {background-image: url('../imgs/8.Andres@3x.png')}
 .f_equipe-8 {background-image: url('../imgs/10.Hilario@3x.png')}
 .f_equipe-9 {background-image: url('../imgs/11.Daniel@3x.png')}
-.f_equipe-10 {background-image: url('../imgs/12.Nicolas@3x.png')}
+.f_equipe-10 {background-image: url('../imgs/12.Moises@3x.png')}
 
 
 @media only screen and (max-width: 576px) {
@@ -1193,12 +1193,12 @@ button.close:hover {
 .f_equipe-2 {background-image: url('../imgs/2_m_Marcelo.png')}
 .f_equipe-3 {background-image: url('../imgs/3_m_Oliver.png')}
 .f_equipe-4 {background-image: url('../imgs/4_m_Bruno.png')}
-.f_equipe-5 {background-image: url('../imgs/5_m_Alejandra.png')}
+.f_equipe-5 {background-image: url('../imgs/5_m_Francisco.png')}
 .f_equipe-6 {background-image: url('../imgs/6_m_Ana.png')}
 .f_equipe-7 {background-image: url('../imgs/8_m_Andres.png')}
 .f_equipe-8 {background-image: url('../imgs/10_m_Hilario.png')}
 .f_equipe-9 {background-image: url('../imgs/11_m_Daniel.png')}
-.f_equipe-10 {background-image: url('../imgs/12_m_Nicolas.png')}
+.f_equipe-10 {background-image: url('../imgs/12_m_Moises.png')}
 	
     .foto-modal {
         height: 386px;
