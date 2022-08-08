@@ -226,18 +226,18 @@
                 <div class="row">
                   <div class="col-sm-8">
                     <div class="modal-nome">
-                      <h3>Alejandra Solis Amodio</h3>
+                      <h3>Francisco Gómez</h3>
                       <hr>
                     </div>
                     <div class="modal-cargo ">
-                      <h5> <?php echo _('Sócia'); ?> </h5>
+                      <h5> <?php echo _('Principal'); ?> </h5>
                     </div>
-                    <div class="modal-detalle "> <?php echo _('Alejandra é sócia da Prismapar com formação em Engenheira Industrial e de Sistemas pelo Instituto Tecnológico de Monterrey, além de ter obtido uma titulação conjunta de Master of Engineering Management (MEM) pela McCormick School of Engineering e Master in Business Adminisration (MBA) na Kellogg School of Management, ambas ligadas à Universidade de Northwestern. Sua experiência profissional contempla uma passagem pela Nacional Monte Piedad, renomada instituição financeira mexicana, onde liderou projetos de Desenvolvimento de Negócios, Inovação e Due Diligence em transações de Fusões e Aquisições de empresas. Também foi gerente de Fusões e Aquisições para América Latina na Laureate Education, um dos maiores grupos de ensino superior do mundo. Atualmente, Alejandra comanda o escritório da Prismapar na Cidade do México.'); ?> </div>
+                    <div class="modal-detalle "> <?php echo _('Francisco lidera os projetos da Prismapar no México. Anteriormente, trabalhou na Domínguez, Gómez y Rocabert nas divisões de Investment Banking e Financial Advisory, posteriormente na Finankia como Head da divisão de M&A – Investment Banking. Ele também trabalhou como consultor para fundos de VC e private equity como consultor externo em Comitês de Investimento. Francisco também desenvolveu projetos empresariais que lhe permitiram ganhar experiência operacional e compreender as complexidades do dia-a-dia das operações. Sr. Gómez se formou com honras em Contabilidade e Finanças pela Universidad La Salle na Cidade do México, MX e obteve um mestrado em Finanças pelo Tecnológico de Monterrey, Campus Cidade do México. Ele fala espanhol, inglês e italiano.'); ?> </div>
                     <div class="row modal-redes">
                       <div class="col-8 contato-modal">
-                        <a href="mailto:alejandra.solis@prismapar.com" class="text-white"><i class="bi-envelope-fill" style="font-size: 18px;"></i> alejandra.solis@prismapar.com</a>
+                        <a href="mailto:francisco.gomez@prismapar.com" class="text-white"><i class="bi-envelope-fill" style="font-size: 18px;"></i> francisco.gomez@prismapar.com</a>
                       </div>
-                      <div class="col-4 contato-modal"> <a href="https://www.linkedin.com/in/alejandra-solis-amodio/" target="_blank" class="text-white"> <img class="logo-linkedin" src="./assets/imgs/logo_linkedin.png" target="_blank"></a> </div>
+                      <div class="col-4 contato-modal"> <a href="https://www.linkedin.com/in/franciscogomezdiaz/" target="_blank" class="text-white"> <img class="logo-linkedin" src="./assets/imgs/logo_linkedin.png" target="_blank"></a> </div>
                     </div>
                   </div>
                   <div class="col-sm-4 foto-modal f_equipe-5 px-0"> </div>
@@ -384,20 +384,20 @@
                 <div class="row">
                   <div class="col-sm-8">
                     <div class="modal-nome">
-                      <h3>Nicolas Novoa </h3>
+                      <h3>Moises Gutierrez</h3>
                       <hr>
                     </div>
                     <div class="modal-cargo ">
-                      <h5> <?php echo _('Analista'); ?> </h5>
+                      <h5> <?php echo _('Associate'); ?> </h5>
                     </div>
-                    <div class="modal-detalle "> <?php echo _('Nicolas se formou com honras em Engenharia Industrial e Administração de Empresas pela Universidad de los Andes. Antes de se juntar à Prismapar, trabalhou na Universidad de los Andes no desenvolvimento de um livro sobre a criação de unicórnios em mercados emergentes. Além disso, participou de um projeto de consultoria, da mesma universidade, para auxiliar o JEP, na Colômbia, no processamento de informações para a criação de Macrocases. Atualmente, faz parte da equipe Prismapar na Região Andina.'); ?> </div>
+                    <div class="modal-detalle "> <?php echo _('Antes de ingressar na Prismapar, Moises trabalhou no Credicorp Capital, um dos principais bancos de investimento da América Latina com operações no Peru, Chile e Colômbia, onde se focava no apoio financeiro a empreendedores. Além disso, Moisés foi membro de organizações americanas sem fins lucrativos relacionadas à educação financeira. Além disso, foi consultor do “Perú Sin Brechas”, onde apoiou a educação virtual de alunos de Catacaos, Piura. Moisés é formado em Engenharia Industrial pela Universidad de Lima. Atualmente, Moisés faz parte da Equipe Prismapar na Região Andina.'); ?> </div>
                     <div class="row modal-redes">
                       <div class="col-8 contato-modal">
-                        <a href="mailto:nicolas.novoa@prismapar.com.br" class="text-white"><i class="bi-envelope-fill" style="font-size: 18px;"></i>
-                          nicolas.novoa@prismapar.com</a>
+                        <a href="mailto:moises.gutierrez@prismapar.com.br" class="text-white"><i class="bi-envelope-fill" style="font-size: 18px;"></i>
+                          moises.gutierrez@prismapar.com</a>
                       </div>
                       <div class="col-4 contato-modal">
-                        <a href="linkedin.com/in/nicolas-novoa-50a829219" target="_blank" class="text-white"> <img class="logo-linkedin" src="./assets/imgs/logo_linkedin.png" target="_blank"></a>
+                        <a href="https://www.linkedin.com/in/moisesdanielgutierreztorres/" target="_blank" class="text-white"> <img class="logo-linkedin" src="./assets/imgs/logo_linkedin.png" target="_blank"></a>
                       </div>
                     </div>
                   </div>
