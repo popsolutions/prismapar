@@ -40,8 +40,8 @@
             </div>
           </div>
           <div class="owl-item">
-            <div class="bbb_viewed_item discount d-flex flex-column align-items-center justify-content-center text-center" data-toggle="modal" data-target="#Modal-5"> <img src="./assets/images/5.Alejandra@3x.png">
-              <h2 class="equipe_img_nme5 text-white">Alejandra Solis</h2>
+            <div class="bbb_viewed_item discount d-flex flex-column align-items-center justify-content-center text-center" data-toggle="modal" data-target="#Modal-5"> <img src="./assets/images/5.Francisco@3x.png">
+              <h2 class="equipe_img_nme5 text-white">Francisco Gomez</h2>
               <p class="equipe_img_tag1 text-white mb-0"></p>
               <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Sócia'); ?> </p>
             </div>
