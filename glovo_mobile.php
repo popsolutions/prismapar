@@ -17,6 +17,8 @@
         array('pais' => 'espanha', 'nom' => 'Andrés Cardó', 'cargo' => 'Consultor Sênior, Madrid', 'mail' => 'spain@prismapar.com');
       $slides[7] =
         array('pais' => 'eua', 'nom' => 'Hilario Nuño', 'cargo' => 'Consultor Sênior, New York', 'mail' => 'usa@prismapar.com');
+      $slides[8] =
+        array('pais' => 'peru', 'nom' => 'Moises Gutierrez', 'cargo' => 'Consultor Sênior, Lima', 'mail' => 'usa@prismapar.com');
       foreach ($slides as $data) {
         $pais = $data['pais'];
         $paisn = ucwords($pais);
