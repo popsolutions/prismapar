@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2022-08-10 14:53-0300\n"
-"PO-Revision-Date: 2022-08-10 14:54-0300\n"
+"POT-Creation-Date: 2022-08-10 17:17-0300\n"
+"PO-Revision-Date: 2022-08-10 17:17-0300\n"
 "Last-Translator: Sergio Dobke <sergio@dobke.com.ar>\n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -17,10 +17,8 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-1: assets/js\n"
 
 #: cases.php:3
-#, fuzzy
-#| msgid "Cases Selecionados"
 msgid "Casos Selecionados"
-msgstr "Case Results"
+msgstr "Selected Cases"
 
 #: cases.php:12
 msgid "Grupo Dajahu"
@@ -160,28 +158,35 @@ msgstr ""
 "markets and connections in key countries within the region, resulting in the "
 "delivery of personalized and assertive solutions to our clients."
 
-#: equipe.php:17 equipe.php:25 equipe.php:107 equipe.php:138
-msgid "Sócio Diretor"
-msgstr "Managing Partner"
+#: equipe.php:17 equipe.php:25
+msgid "Managing Partner"
+msgstr ""
 
-#: equipe.php:32 equipe.php:39 equipe.php:169 equipe.php:201
-msgid "Sócio"
-msgstr "Partner"
+#: equipe.php:32 equipe.php:39
+msgid "Partner"
+msgstr ""
 
-#: equipe.php:46 equipe.php:233
+#: equipe.php:46 equipe.php:240
 msgid "Principal"
 msgstr ""
 
-#: equipe.php:53 equipe.php:87 equipe.php:391
+#: equipe.php:53 equipe.php:87 equipe.php:398
 msgid "Associate"
 msgstr "Associate"
 
-#: equipe.php:62 equipe.php:71 equipe.php:80 equipe.php:295 equipe.php:326
-#: equipe.php:357
-msgid "Sócio Consultor"
-msgstr "Associate Partner"
+#: equipe.php:62 equipe.php:71 equipe.php:80
+msgid "Associate Partner"
+msgstr ""
 
-#: equipe.php:109
+#: equipe.php:94
+msgid "Associate Principal"
+msgstr ""
+
+#: equipe.php:114 equipe.php:145
+msgid "Sócio Diretor"
+msgstr "Managing Partner"
+
+#: equipe.php:116
 msgid ""
 "Renato é o idealizador e sócio-fundador da Prismapar. Graduado em Economia "
 "pela Universidade George Washington, dos EUA, e com MBA pela INSEAD, da "
@@ -201,7 +206,7 @@ msgstr ""
 "Caribbean and Central America and supervises the group’s corporate "
 "initiatives."
 
-#: equipe.php:140
+#: equipe.php:147
 msgid ""
 "Marcelo é sócio-fundador da Prismapar. Possui graduação em Engenharia pela "
 "Universidade de Los Andes e em Administração pela Wharton School (UPENN), da "
@@ -224,7 +229,11 @@ msgstr ""
 "School (UPENN) and an MBA from Harvard Business School. Marcelo is based in "
 "Bogotá and leads Prismapar’s transactions in the Andean Region."
 
-#: equipe.php:171
+#: equipe.php:176 equipe.php:208
+msgid "Sócio"
+msgstr "Partner"
+
+#: equipe.php:178
 msgid ""
 "Oliver é sócio da Prismapar. Formado em Engenharia de Gestão pela Worcester "
 "Polytechnic Institute e com MBA pela Babson College, de Massachusetts, "
@@ -247,7 +256,7 @@ msgstr ""
 "Institute and an MBA from Babson College in the US and leads Prismapar’s "
 "office in Ecuador."
 
-#: equipe.php:203
+#: equipe.php:210
 msgid ""
 "Bruno é sócio da Prismapar. Graduou-se em Administração pela Faculdade de "
 "Economia, Administração e Contabilidade (FEA) da Universidade de São Paulo "
@@ -270,7 +279,7 @@ msgstr ""
 "from the University of São Paulo (FEA-USP) and leads Prismapar’s office in "
 "Brazil."
 
-#: equipe.php:235
+#: equipe.php:242
 msgid ""
 "Francisco lidera os projetos da Prismapar no México. Anteriormente, "
 "trabalhou na Domínguez, Gómez y Rocabert nas divisões de Investment Banking "
@@ -296,11 +305,11 @@ msgstr ""
 "in Finance from Tecnológico de Monterrey Campus Mexico City. He speaks "
 "Spanish, English and Italian."
 
-#: equipe.php:264
+#: equipe.php:271
 msgid "Associada"
 msgstr "Associate"
 
-#: equipe.php:266
+#: equipe.php:273
 msgid ""
 "Ana é associada na Prismapar. Graduada em Ciências Econômicas pela "
 "Universidade Federal de Ouro Preto e em Ciências Contábeis pela PUC-Minas "
@@ -320,7 +329,11 @@ msgstr ""
 "Sciences from PUC-MG, and a postgraduate degree in Applied Finance from PUC-"
 "MG. Ana is part of the Prismapar team in Brazil."
 
-#: equipe.php:297
+#: equipe.php:302 equipe.php:333 equipe.php:364
+msgid "Sócio Consultor"
+msgstr "Associate Partner"
+
+#: equipe.php:304
 msgid ""
 "Andrés é sócio-consultor da Prismapar. Formado em Economia e Ciências "
 "Humanas pela Pontifícia Universidade Católica do Peru, estudou finanças na "
@@ -342,7 +355,7 @@ msgstr ""
 "addition to serving on the board of several companies in Europe and Latin "
 "America, Andrés leads Prismapars Madrid office."
 
-#: equipe.php:328
+#: equipe.php:335
 msgid ""
 "Hilario é sócio-consultor da Prismapar. Formado em Direito pela Universidade "
 "Complutense de Madri, ele obteve seu MBA pela EU Business School, da Suíça. "
@@ -366,7 +379,7 @@ msgstr ""
 "EU Business School in Switzerland. Hilario is based in the US and leads "
 "Prismapar’s New York office."
 
-#: equipe.php:359
+#: equipe.php:366
 msgid ""
 "Daniel é sócio-consultor da Prismapar, onde iniciou sua carreira como "
 "analista. Ele é formado em Administração de Empresas pelo Instituto de "
@@ -384,7 +397,7 @@ msgstr ""
 "Business Administration from INSPER in Brazil and currently collaborates on "
 "selected projects in Brazil."
 
-#: equipe.php:393
+#: equipe.php:400
 msgid ""
 "Antes de ingressar na Prismapar, Moises trabalhou no Credicorp Capital, um "
 "dos principais bancos de investimento da América Latina com operações no "
@@ -404,19 +417,48 @@ msgstr ""
 "Industrial Engineering degree from Universidad de Lima. Currently, Moises is "
 "part of the Prismapar Team in the Andean Region."
 
-#: footer.php:6 index.php:55
+#: equipe.php:432
+msgid "Sócia"
+msgstr "Partner"
+
+#: equipe.php:434
+msgid ""
+"Alejandra é sócia da Prismapar com formação em Engenheira Industrial e de "
+"Sistemas pelo Instituto Tecnológico de Monterrey, além de ter obtido uma "
+"titulação conjunta de Master of Engineering Management (MEM) pela McCormick "
+"School of Engineering e Master in Business Adminisration (MBA) na Kellogg "
+"School of Management, ambas ligadas à Universidade de Northwestern. Sua "
+"experiência profissional contempla uma passagem pela Nacional Monte Piedad, "
+"renomada instituição financeira mexicana, onde liderou projetos de "
+"Desenvolvimento de Negócios, Inovação e Due Diligence em transações de "
+"Fusões e Aquisições de empresas. Também foi gerente de Fusões e Aquisições "
+"para América Latina na Laureate Education, um dos maiores grupos de ensino "
+"superior do mundo. Atualmente, Alejandra comanda o escritório da Prismapar "
+"na Cidade do México."
+msgstr ""
+"Prior to joining Prismapar, Alejandra’s played leadership roles in business "
+"development related projects, innovation and M&A due diligence at Nacional "
+"Monte de Piedad, a well-known financial institution based in México. "
+"Alejandra was also an M&A Manager for Latin America at Laureate Education, "
+"one of the world’s largest higher-education group. Alejandra graduated with "
+"a major in Industrial and Systems Engineering from ITESM and obtained a "
+"joint degree from Northwestern University and MEM from McCormick School of "
+"Engineering. She also holds a MBA from Kellogg School of Management. "
+"Alejandra leads Prismapar’s México City office."
+
+#: footer.php:6 index.php:58
 msgid "HISTÓRICO"
 msgstr "OUR STORY"
 
-#: footer.php:7 index.php:56 index.php:108
+#: footer.php:7 index.php:59 index.php:111
 msgid "PRESENÇA LATAM"
 msgstr "LATAM COVERAGE"
 
-#: footer.php:8 index.php:57
+#: footer.php:8 index.php:60
 msgid "EQUIPE"
 msgstr "TEAM"
 
-#: footer.php:9 index.php:58
+#: footer.php:9 index.php:61
 msgid "O QUE FAZEMOS"
 msgstr "SERVICES"
 
@@ -444,82 +486,82 @@ msgstr "rights reserved"
 msgid "Desenvolvido por"
 msgstr "Developed by"
 
-#: index.php:59
+#: index.php:62
 msgid "Casos"
 msgstr "Cases"
 
-#: index.php:60
+#: index.php:63
 msgid "Contato"
 msgstr "CONTACT"
 
-#: index.php:71
+#: index.php:74
 msgid "Assessoria Financeira"
 msgstr "Financial Advisory"
 
-#: index.php:72
+#: index.php:75
 msgid "América Latina"
 msgstr "Latin America"
 
-#: index.php:74
+#: index.php:77
 msgid "Av. Paulista - São Paulo"
 msgstr "Paulista Avenue – São Paulo"
 
-#: index.php:82
+#: index.php:85
 msgid "20 anos de Experiência"
 msgstr "20 years of M&A"
 
-#: index.php:82
+#: index.php:85
 msgid "em M&A"
 msgstr "experience"
 
-#: index.php:82
+#: index.php:85
 msgid "na América Latina"
 msgstr "in Latin America"
 
-#: index.php:99
+#: index.php:102
 msgid "Estádio Nacional - Costa Rica"
 msgstr "National Stadium – Costa Rica"
 
-#: index.php:110
+#: index.php:113
 msgid ""
 "Com sócios em 8 países, conectamos clientes nos principais mercados da "
 "América Latina."
 msgstr ""
 "Partners in 8 countries, connecting clients in main Latin American markets."
 
-#: index.php:130
+#: index.php:133
 msgid "Palácio de Bellas Artes - México"
 msgstr "Palace of Fine Arts - México"
 
-#: index.php:140
+#: index.php:143
 msgid "Astoria Rooftop - Bogotá"
 msgstr "Astoria Rooftop – Bogotá"
 
-#: index.php:150
+#: index.php:153
 msgid "Nova York - World Trade Center Transportation Hub"
 msgstr "World Trade Center Transportation Hub – New York"
 
-#: index.php:161
+#: index.php:164
 msgid "Experiência"
 msgstr "Experience"
 
-#: index.php:165
+#: index.php:168
 msgid "Transações"
 msgstr "Completed transactions"
 
-#: index.php:172
+#: index.php:175
 msgid "Valor Transacionado"
 msgstr "Transaction value"
 
-#: index.php:176
+#: index.php:179
 msgid "Setores de Atuação"
 msgstr "Industries of expertise"
 
-#: index.php:185
+#: index.php:188
 msgid "Praça Lagos - Guayaquil, Equador"
 msgstr "Lagos Square - Guayaquil"
 
-#: index.php:195
+#: index.php:198
 msgid "Madrid - Templo de Debod"
 msgstr "Debod Temple – Madrid"
 
@@ -681,35 +723,8 @@ msgstr ""
 "Affiliation of new partners, employees, and industry diversification, "
 "executing relevant transactions and processes in different sectors."
 
-#~ msgid "Sócia"
-#~ msgstr "Partner"
-
 #~ msgid "Analista"
 #~ msgstr "Analyst"
-
-#~ msgid ""
-#~ "Alejandra é sócia da Prismapar com formação em Engenheira Industrial e de "
-#~ "Sistemas pelo Instituto Tecnológico de Monterrey, além de ter obtido uma "
-#~ "titulação conjunta de Master of Engineering Management (MEM) pela "
-#~ "McCormick School of Engineering e Master in Business Adminisration (MBA) "
-#~ "na Kellogg School of Management, ambas ligadas à Universidade de "
-#~ "Northwestern. Sua experiência profissional contempla uma passagem pela "
-#~ "Nacional Monte Piedad, renomada instituição financeira mexicana, onde "
-#~ "liderou projetos de Desenvolvimento de Negócios, Inovação e Due Diligence "
-#~ "em transações de Fusões e Aquisições de empresas. Também foi gerente de "
-#~ "Fusões e Aquisições para América Latina na Laureate Education, um dos "
-#~ "maiores grupos de ensino superior do mundo. Atualmente, Alejandra comanda "
-#~ "o escritório da Prismapar na Cidade do México."
-#~ msgstr ""
-#~ "Prior to joining Prismapar, Alejandra’s played leadership roles in "
-#~ "business development related projects, innovation and M&A due diligence "
-#~ "at Nacional Monte de Piedad, a well-known financial institution based in "
-#~ "México. Alejandra was also an M&A Manager for Latin America at Laureate "
-#~ "Education, one of the world’s largest higher-education group. Alejandra "
-#~ "graduated with a major in Industrial and Systems Engineering from ITESM "
-#~ "and obtained a joint degree from Northwestern University and MEM from "
-#~ "McCormick School of Engineering. She also holds a MBA from Kellogg School "
-#~ "of Management. Alejandra leads Prismapar’s México City office."
 
 #~ msgid ""
 #~ "Nicolas se formou com honras em Engenharia Industrial e Administração de "

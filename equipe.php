@@ -87,6 +87,13 @@
               <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Associate'); ?> </p>
             </div>
           </div>
+          <div class="owl-item">
+            <div class="bbb_viewed_item discount d-flex flex-column align-items-center justify-content-center text-center" data-toggle="modal" data-target="#Modal-11"> <img src="./assets/images/5.Alejandra@3x.png">
+              <h2 class="equipe_img_nme5 text-white">Alejandra Solis</h2>
+              <p class="equipe_img_tag1 text-white mb-0"></p>
+              <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Associate Principal'); ?> </p>
+            </div>
+          </div>
         </div>
       </div>
 
@@ -402,6 +409,37 @@
                     </div>
                   </div>
                   <div class="col-sm-4 foto-modal f_equipe-10 px-0"> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="modal fade" id="Modal-11" tabindex="-1" role="dialog" aria-labelledby="Modal-11" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">x</span> </button>
+            <div class="modal-body text-white">
+              <div class="container-fluid ">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <div class="modal-nome">
+                      <h3>Alejandra Solis Amodio</h3>
+                      <hr>
+                    </div>
+                    <div class="modal-cargo ">
+                      <h5> <?php echo _('Sócia'); ?> </h5>
+                    </div>
+                    <div class="modal-detalle "> <?php echo _('Alejandra é sócia da Prismapar com formação em Engenheira Industrial e de Sistemas pelo Instituto Tecnológico de Monterrey, além de ter obtido uma titulação conjunta de Master of Engineering Management (MEM) pela McCormick School of Engineering e Master in Business Adminisration (MBA) na Kellogg School of Management, ambas ligadas à Universidade de Northwestern. Sua experiência profissional contempla uma passagem pela Nacional Monte Piedad, renomada instituição financeira mexicana, onde liderou projetos de Desenvolvimento de Negócios, Inovação e Due Diligence em transações de Fusões e Aquisições de empresas. Também foi gerente de Fusões e Aquisições para América Latina na Laureate Education, um dos maiores grupos de ensino superior do mundo. Atualmente, Alejandra comanda o escritório da Prismapar na Cidade do México.'); ?> </div>
+                    <div class="row modal-redes">
+                      <div class="col-8 contato-modal">
+                        <a href="mailto:alejandra.solis@prismapar.com" class="text-white"><i class="bi-envelope-fill" style="font-size: 18px;"></i> alejandra.solis@prismapar.com</a>
+                      </div>
+                      <div class="col-4 contato-modal"> <a href="https://www.linkedin.com/in/alejandra-solis-amodio/" target="_blank" class="text-white"> <img class="logo-linkedin" src="./assets/imgs/logo_linkedin.png" target="_blank"></a> </div>
+                    </div>
+                  </div>
+                  <div class="col-sm-4 foto-modal f_equipe-11 px-0"> </div>
                 </div>
               </div>
             </div>
