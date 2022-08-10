@@ -66,7 +66,7 @@ bind_textdomain_codeset($domain, 'UTF-8');
       </nav>
     </div>
   </header>
-  <main class="main content">
+  <main class="main contenido">
     <!-- Main Location Bannar -->
     <section class="location-banner" style="background-image: url(./assets/images/banner_1.jpg); background-position: center; background-size: cover; background-repeat: no-repeat;">
       <div class="col-lg-8 mx-auto pt-5">

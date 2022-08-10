@@ -1593,10 +1593,12 @@ button.close:hover {
 }
 
 /* Sticky Header */
-
+#myHeader{
+    background-color: #fff;
+}
 
 /* Page content */
-.content {
+.contenidos {
     padding: 16px;
 }
 
@@ -1608,6 +1610,6 @@ button.close:hover {
 }
 
 /* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
-.sticky+.content {
+.sticky+.contenidos {
     padding-top: 102px;
 }
