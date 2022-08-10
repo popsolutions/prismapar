@@ -44,3 +44,4 @@
       });
   });
 </script>
+<script src="./assets/js/sticky.js"></script>
