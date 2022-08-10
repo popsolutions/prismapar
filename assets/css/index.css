@@ -1594,7 +1594,7 @@ button.close:hover {
 
 /* Sticky Header */
 #myHeader{
-    background-color: #fff;
+    background-color: #fff; z-index: 9999;
 }
 
 /* Page content */
