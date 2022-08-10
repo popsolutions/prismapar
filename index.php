@@ -44,10 +44,13 @@ bind_textdomain_codeset($domain, 'UTF-8');
           </ul>
         </div>
       </div>
+    </div>
+  </header>
+  <header id="myHeader">
+    <div class="col-lg-8 mx-auto">
 
 
-
-      <nav class="navbar navbar-expand-lg navbar-light p-0 mb-4 pb-3"> <a class="navbar-brand col-lg-3 col-md-4 col-6 px-0" href="#"> <img src="./assets/imgs/logo.png" class="col-lg" id="myHeader">
+      <nav class="navbar navbar-expand-lg navbar-light p-0 pb-3"> <a class="navbar-brand col-lg-3 col-md-4 col-6 px-0" href="#"> <img src="./assets/imgs/logo.png" class="col-lg" id="myHeader">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
         <div class="collapse navbar-collapse col-lg ml-auto px-0 mt-3" id="navbarSupportedContent">
@@ -63,7 +66,7 @@ bind_textdomain_codeset($domain, 'UTF-8');
       </nav>
     </div>
   </header>
-  <main class="main">
+  <main class="main contenido">
     <!-- Main Location Bannar -->
     <section class="location-banner" style="background-image: url(./assets/images/banner_1.jpg); background-position: center; background-size: cover; background-repeat: no-repeat;">
       <div class="col-lg-8 mx-auto pt-5">
