@@ -58,7 +58,7 @@
             </p>
             <p> <?php echo _('A FS Security é um dos maiores players de tecnologia voltados a aplicações mobile no país, com expertise no desenvolvimento de aplicativos de segurança.'); ?>
             </p>
-            <p> <img style="width: 50% !important;" aria-describedby="tooltip139855" title="" data-original-title="" data-mimetype="image/png" data-original-src="./assets/imgs/logo_verisoft.png" data-original-id="710" src="./assets/imgs/logo_verisoft.png" class="img-fluid o_we_custom_image" loading="lazy"> <br>
+            <p> <img style="width: 50% !important;" aria-describedby="tooltip139856" title="" data-original-title="" data-mimetype="image/png" data-original-src="./assets/imgs/logo_verisoft.png" src="./assets/imgs/logo_verisoft.png" class="img-fluid o_we_custom_image" loading="lazy"> <br>
             </p>
           </div>
           <div class="col-lg-6 case_img" style=" background-image: url('assets/imgs/Foto_Case_3.jpg')"> </div>
