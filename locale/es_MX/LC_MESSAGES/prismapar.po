@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2022-08-10 14:55-0300\n"
-"PO-Revision-Date: 2022-08-10 14:55-0300\n"
+"PO-Revision-Date: 2022-08-10 16:25-0300\n"
 "Last-Translator: Sergio Dobke <sergio@dobke.com.ar>\n"
 "Language-Team: \n"
 "Language: es_MX\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.1\n"
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -179,7 +179,7 @@ msgstr ""
 
 #: equipe.php:53 equipe.php:87 equipe.php:391
 msgid "Associate"
-msgstr "Asociado"
+msgstr "Associate"
 
 #: equipe.php:62 equipe.php:71 equipe.php:80 equipe.php:295 equipe.php:326
 #: equipe.php:357
