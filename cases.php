@@ -17,7 +17,7 @@
             <p> <?php echo _('O Grupo Dajahu é uma das maiores organizações do Equador e atua nos ramos imobiliário, logístico e de alimentos, sendo líder no mercado de arroz do país. A venda dos ativos estava alinhada à estratégia do Grupo e permitiu novos investimentos nos setores imobiliário e logístico.'); ?> </p>
             <p><img style="width: 50% !important;" aria-describedby="tooltip485283" title="" data-original-title="" src="./assets/imgs/LOGOSCASECAMIL@3x.png" class="img-fluid o_we_custom_image" loading="lazy"></p>
           </div>
-          <div class="col-lg-6 case_img" style=" background-image: url('assets/imgs/Foto_Case_1.png')"> </div>
+          <div class="col-lg-6 case_img" style=" background-image: url('assets/imgs/Foto_Case_1.jpg')"> </div>
         </div>
 
         <div class="row content">
@@ -38,7 +38,7 @@
             <p> <img style="width: 50% !important;" aria-describedby="tooltip139855" title="" data-original-title="" data-mimetype="image/png" data-original-src="./assets/imgs/LOGOSCASEKROTON%403x_edit.png" data-original-id="710" src="./assets/imgs/LOGOSCASEKROTON@3x_edit.png" class="img-fluid o_we_custom_image" loading="lazy"> <br>
             </p>
           </div>
-          <div class="col-lg-6 case_img" style=" background-image: url('assets/imgs/Foto_Case_2.png')"> </div>
+          <div class="col-lg-6 case_img" style=" background-image: url('assets/imgs/Foto_Case_2.jpg')"> </div>
         </div>
 
         <div class="row content">
