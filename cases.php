@@ -61,7 +61,7 @@
             <p> <img style="width: 50% !important;" aria-describedby="tooltip139856" title="" data-original-title="" data-mimetype="image/png" data-original-src="./assets/imgs/logo_verisoft.png" src="./assets/imgs/logo_verisoft.png" class="img-fluid o_we_custom_image" loading="lazy"> <br>
             </p>
           </div>
-          <div class="col-lg-6 case_img" style=" background-image: url('assets/imgs/Foto_Case_3.jpg')"> </div>
+          <div class="col-lg-6 case_img" style=" background-image: url('assets/imgs/Foto_Case_3.png')"> </div>
         </div>
       </div>
     </section>
