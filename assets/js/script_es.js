@@ -201,7 +201,7 @@ polygonSeries.events.on("inited", function () {
 var data = {
   "BR": "<strong>BRASIL</strong>*<strong>Bruno Maringoni</strong><br>Partner, São Paulo*brasil",
   "CR": "<strong>COSTA RICA</strong>*<strong>Renato Souza Neto</strong><br>Managing Partner, San José*costa_rica",
-  "MX": "<strong>MÉXICO</strong>*<strong>Alejandra Solis</strong><br>Associate Principal, Ciudad de México*mexico",
+  "MX": "<strong>MÉXICO</strong>*<strong>Francisco Gómez</strong><br>Principal, Ciudad de México*mexico",
   "CO": "<strong>COLÔMBIA</strong>*<strong>Marcelo Burbano</strong><br>Managing Partner, Bogotá*colombia",
   "EC": "<strong>EQUADOR</strong>*<strong>Oliver Klopfstein</strong><br>Partner, Guayaquil*equator",
   "ES": "<strong>ESPANHA</strong>*<strong>Andrés Cardó</strong><br>Associate Partner, Madrid*espanha",
