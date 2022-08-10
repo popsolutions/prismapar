@@ -107,7 +107,7 @@ bind_textdomain_codeset($domain, 'UTF-8');
             <div class="texto">
               <h1 class="text-o-color-3 text-white" style="font-weight: bolder;"> <?php echo _("PRESENÇA LATAM"); ?> </h1>
               <p class="text-o-color-4 text-white" style="font-weight: bolder">
-                <?php echo _('Com sócios em 7 países, conectamos clientes nos principais mercados da América Latina.'); ?> </p>
+                <?php echo _('Com sócios em 8 países, conectamos clientes nos principais mercados da América Latina.'); ?> </p>
               <img class="img_data" src="./assets/images/paises_<?php echo $lang; ?>.png" loading="lazy"> <br>
             </div>
           </div>
