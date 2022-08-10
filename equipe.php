@@ -429,7 +429,7 @@
                       <hr>
                     </div>
                     <div class="modal-cargo ">
-                      <h5> <?php echo _('Sócia'); ?> </h5>
+                      <h5> <?php echo _('Associate Principal'); ?> </h5>
                     </div>
                     <div class="modal-detalle "> <?php echo _('Alejandra é sócia da Prismapar com formação em Engenheira Industrial e de Sistemas pelo Instituto Tecnológico de Monterrey, além de ter obtido uma titulação conjunta de Master of Engineering Management (MEM) pela McCormick School of Engineering e Master in Business Adminisration (MBA) na Kellogg School of Management, ambas ligadas à Universidade de Northwestern. Sua experiência profissional contempla uma passagem pela Nacional Monte Piedad, renomada instituição financeira mexicana, onde liderou projetos de Desenvolvimento de Negócios, Inovação e Due Diligence em transações de Fusões e Aquisições de empresas. Também foi gerente de Fusões e Aquisições para América Latina na Laureate Education, um dos maiores grupos de ensino superior do mundo. Atualmente, Alejandra comanda o escritório da Prismapar na Cidade do México.'); ?> </div>
                     <div class="row modal-redes">
