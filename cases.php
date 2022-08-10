@@ -43,11 +43,11 @@
 
         <div class="row content">
           <div class="col-lg-6 case_content">
-            <h3>Advent International</h3>
+            <h3>FS Security</h3>
             <div class="s_hr text-left pt0 pb0" data-snippet="s_hr" data-name="Separator">
               <hr class="w-100 mx-auto" style="border-top-style: solid; border-top-width: 2px !important;">
             </div>
-            <h3 style="margin-bottom: 20px">FS Security à Verisoft</h3>
+            <h3 style="margin-bottom: 20px">Verisoft</h3>
             <p class="lead"> </p>
             <p> </p>
             <p><?php echo _('Assessoramos com exclusividade os acionistas vendedores na alienação de 100% do capital da Verisoft para o Grupo FS Security.'); ?> </p>
