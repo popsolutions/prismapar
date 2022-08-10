@@ -596,8 +596,8 @@ body {
 
 .eqipe-sec div div p {
     font-weight: 400;
-    text-align: left;
 }
+.eqipe-sec .modal-cargo{text-align: left;}
 
 .clear {
     clear: both;
@@ -1459,6 +1459,9 @@ button.close:hover {
 .f_equipe-10 {
     background-image: url('../imgs/12.Moises@3x.png')
 }
+.f_equipe-11 {
+    background-image: url('../imgs/5.Alejandra@3x.png')
+}
 
 
 @media only screen and (max-width: 576px) {
@@ -1500,6 +1503,9 @@ button.close:hover {
 
     .f_equipe-10 {
         background-image: url('../imgs/12_m_Moises.png')
+    }
+    .f_equipe-11 {
+        background-image: url('../imgs/5_m_alejandra.png')
     }
 
     .foto-modal {
