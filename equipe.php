@@ -14,7 +14,7 @@
               <h2 class="equipe_img_nme1 text-white">Renato Souza</h2>
               <!--<p class="equipe_img_tag1 text-white mb-0"> <?php //echo _('Sócio');
                                                               ?>- </p>-->
-              <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Sócio Diretor'); ?> </p>
+              <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Managing Partner'); ?> </p>
             </div>
           </div>
           <div class="owl-item">
@@ -22,21 +22,21 @@
               <h2 class="equipe_img_nme2 text-white">Marcelo Burbano</h2>
               <!--<p class="equipe_img_tag1 text-white mb-0"> <?php //echo _('Sócio');
                                                               ?>- </p>-->
-              <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Sócio Diretor'); ?> </p>
+              <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Managing Partner'); ?> </p>
             </div>
           </div>
           <div class="owl-item">
             <div class="bbb_viewed_item d-flex flex-column align-items-center justify-content-center text-center" data-toggle="modal" data-target="#Modal-3"> <img src="./assets/images/3.Oliver@3x.png">
               <h2 class="equipe_img_nme3 text-white">Oliver Klopfstein</h2>
               <p class="equipe_img_tag1 text-white mb-0"></p>
-              <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Sócio'); ?> </p>
+              <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Partner'); ?> </p>
             </div>
           </div>
           <div class="owl-item">
             <div class="bbb_viewed_item is_new d-flex flex-column align-items-center justify-content-center text-center" data-toggle="modal" data-target="#Modal-4"> <img src="./assets/images/4.Bruno@3x.png">
               <h2 class="equipe_img_nme4 text-white">Bruno Maringoni</h2>
               <p class="equipe_img_tag1 text-white mb-0"></p>
-              <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Sócio'); ?> </p>
+              <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Partner'); ?> </p>
             </div>
           </div>
           <div class="owl-item">
@@ -59,7 +59,7 @@
               <!--<p class="equipe_img_tag1 text-white text-left mb-0"> <?php //echo _('Sócio');
                                                                         ?> &nbsp; &nbsp;
                     &nbsp;</p>-->
-              <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Sócio Consultor'); ?> </p>
+              <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Associate Partner'); ?> </p>
             </div>
           </div>
           <div class="owl-item">
@@ -68,7 +68,7 @@
               <!--<p class="equipe_img_tag1 text-white text-left mb-0"> <?php //echo _('Sócio');
                                                                         ?> &nbsp; &nbsp;
                     &nbsp;</p>-->
-              <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Sócio Consultor'); ?> </p>
+              <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Associate Partner'); ?> </p>
             </div>
           </div>
           <div class="owl-item">
@@ -77,7 +77,7 @@
               <!--<p class="equipe_img_tag1 text-white text-left mb-0"> <?php //echo _('Sócio');
                                                                         ?> &nbsp; &nbsp;
                     &nbsp;</p>-->
-              <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Sócio Consultor'); ?> </p>
+              <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Associate Partner'); ?> </p>
             </div>
           </div>
           <div class="owl-item">
