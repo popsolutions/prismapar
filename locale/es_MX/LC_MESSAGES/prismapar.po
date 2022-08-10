@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2022-07-05 12:41-0300\n"
-"PO-Revision-Date: 2022-07-05 12:48-0300\n"
+"POT-Creation-Date: 2022-08-10 14:55-0300\n"
+"PO-Revision-Date: 2022-08-10 16:25-0300\n"
 "Last-Translator: Sergio Dobke <sergio@dobke.com.ar>\n"
 "Language-Team: \n"
 "Language: es_MX\n"
@@ -17,154 +17,139 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-0: assets/js\n"
 "X-Poedit-SearchPathExcluded-1: V17\n"
 
-#: index.php:93 index.php:961
-msgid "HISTÓRICO"
-msgstr "NUESTRA HISTÓRIA"
+#: cases.php:3
+#, fuzzy
+#| msgid "Cases Selecionados"
+msgid "Casos Selecionados"
+msgstr "Resultados del caso"
 
-#: index.php:94 index.php:243 index.php:962
-msgid "PRESENÇA LATAM"
-msgstr "COBERTURA LATAM"
+#: cases.php:12
+msgid "Grupo Dajahu"
+msgstr "Grupo Dajahu"
 
-#: index.php:95 index.php:963
-msgid "EQUIPE"
-msgstr "EQUIPO"
-
-#: index.php:96 index.php:964
-msgid "O QUE FAZEMOS"
-msgstr "SERVICIOS"
-
-#: index.php:97 index.php:827
-msgid "Experiência Prismapar"
-msgstr "CASOS"
-
-#: index.php:98
-msgid "Contato"
-msgstr "CONTÁCTANOS"
-
-#: index.php:109
-msgid "Assessoria Financeira"
-msgstr "Asesoría Financiera"
-
-#: index.php:110
-msgid "América Latina"
-msgstr "América Latina"
-
-#: index.php:112
-msgid "Av. Paulista - São Paulo"
-msgstr "Avenida Paulista - São Paulo"
-
-#: index.php:120
-msgid "20 anos de Experiência"
-msgstr "20 años de Experiencia"
-
-#: index.php:120
-msgid "em M&A"
-msgstr "en M&A"
-
-#: index.php:120
-msgid "na América Latina"
-msgstr "en América Latina"
-
-#: index.php:130
-msgid "Início"
-msgstr "Fundación"
-
-#: index.php:131
+#: cases.php:13
 msgid ""
-"Renato Souza Neto e Paulo Renato Souza, ex-ministro da Educação do Brasil, "
-"fundam a Prismapar em 2002 com foco em M&A no setor de Educação."
+"Fomos os assessores exclusivos na venda dos ativos de arroz e logística do "
+"Grupo Dajahu S.A., do Equador, para a brasileira Camil Alimentos S.A., uma "
+"das maiores empresas do setor de alimentos da América Latina."
 msgstr ""
-"Renato Souza Neto y Paulo Renato Souza, ex Ministro de Educación en Brasil, "
-"fundaron Prismapar en 2002 como una empresa boutique de asesoría de M&A "
-"enfocada en el sector educativo en Brasil."
-
-#: index.php:138
-msgid "Expansão Regional"
-msgstr "Expansión Regional"
-
-#: index.php:139
-msgid ""
-"Início do processo de internacionalização na América Latina com a abertura "
-"dos escritórios na Costa Rica (2012), Colômbia (2015) e Equador (2018)."
-msgstr ""
-"Proceso de internacionalización para mercados relevantes de Latinoamérica, "
-"comenzando con oficinas en Costa Rica (2012), Colombia (2015) y Ecuador "
-"(2018)."
-
-#: index.php:149
-msgid "Expansão Setorial"
-msgstr "Diversificación de la industria"
-
-#: index.php:150
-msgid ""
-"Com a incorporação de novos sócios e colaboradores, iniciamos nossa "
-"diversificação setorial, com processos e transações em setores diversos."
-msgstr ""
-"Afiliación de nuevos socios, asesores y diversificación de la industria, "
-"liderando transacciones y procesos relevantes en diferentes sectores."
-
-#: index.php:170
-msgid ""
-"Renato Souza Neto e Paulo Renato Souza, ex-ministro da Educação do Brasil, "
-"fundam a Prismapar em 2002 com o objetivo de oferecer consultoria "
-"especializada em M&A no setor de Educação no Brasil."
-msgstr ""
-"Renato Souza Neto y Paulo Renato Souza, ex Ministro de Educación en Brasil, "
-"fundaron Prismapar en 2002 con el objetivo de ofrecer asesoramiento "
-"especializado en M&A para el sector educativo en Brasil."
-
-#: index.php:187
-msgid "Expansão regional"
-msgstr "Expansión Regional"
-
-#: index.php:189
-msgid ""
-"Abertura do escritório na Costa Rica em 2012 e ampliação para Colômbia em "
-"2015, com a integração de Marcelo Burbano como sócio-diretor baseado em "
-"Bogotá. Esse movimento é reforçado em 2018 com a abertura do escritório de "
-"Guayaquil, no Equador."
-msgstr ""
-"Prismapar abrió su oficina en Costa Rica en 2012 y se expandió a Colombia en "
-"2015, con la integración de Marcelo Burbano como Managing Partner ubicado en "
-"Bogotá. En 2018, la firma continuó creciendo, abriendo la oficina en "
-"Guayaquil, Ecuador."
-
-#: index.php:206
-msgid "Expansão setorial"
-msgstr "Diversificación de la industria"
-
-#: index.php:208
-msgid ""
-"A partir de 2019, com a incorporação de novos sócios e colaboradores, "
-"continuamos nossa expansão regional e iniciamos nosso processo de "
-"diversificação setorial, com importantes processos e transações em setores "
-"diversos."
-msgstr ""
-"A partir del 2019, con la afiliación de nuevos socios y asesores, Prismapar "
-"continuó su expansión regional. Además, pasó a un enfoque multiindustria, "
-"asesorando importantes transacciones de M&A en diferentes sectores."
-
-#: index.php:234
-msgid "Estádio Nacional - Costa Rica"
-msgstr "Estadio Nacional - Costa Rica"
-
-#: index.php:245
-msgid ""
-"Com sócios em 7 países, conectamos clientes nos principais mercados da "
+"Prismapar actuó como asesor exclusivo en la venta de los activos de arroz y "
+"logística del Grupo Dajahu S.A. en Ecuador a la compañía brasileña Camil "
+"Alimentos S.A., una de las mayores empresas del sector alimenticio en "
 "América Latina."
+
+#: cases.php:15
+msgid ""
+"Atuamos em todas as etapas dessa transação, desde a preparação do processo e "
+"a aproximação das partes, passando pela negociação dos termos e estrutura e "
+"pela coordenação da diligência, até a concretização do negócio, que "
+"movimentou cerca de US$ 36,5 milhões."
 msgstr ""
-"Socios en 7 países, conectando clientes en los principales mercados "
-"latinoamericanos."
+"Prismapar participó en todas las etapas de la transacción de US$36 millones, "
+"desde la planeación de procesos, acercamiento a potenciales compradores, "
+"negociación de términos, la estructura de transacción, coordinación del "
+"proceso de debida diligencia e incluyendo la firma y cierre de acuerdos."
 
-#: index.php:309
-msgid "Palácio de Bellas Artes - México"
-msgstr "Palacio de Bellas Artes - México"
+#: cases.php:17
+msgid ""
+"O Grupo Dajahu é uma das maiores organizações do Equador e atua nos ramos "
+"imobiliário, logístico e de alimentos, sendo líder no mercado de arroz do "
+"país. A venda dos ativos estava alinhada à estratégia do Grupo e permitiu "
+"novos investimentos nos setores imobiliário e logístico."
+msgstr ""
+"Grupo Dajahu es una de las 500 organizaciones más grandes de Ecuador, "
+"operando en los sectores de Real Estate, Logística y Alimentos. Además, la "
+"compañía lidera el mercado del arroz en Ecuador. Los activos vendidos a "
+"Camil como parte de esta transacción estaban alineados con la estrategia de "
+"Dajahu al enfocarse en los recursos en su división de Real Estate y "
+"Logística."
 
-#: index.php:316
+#: cases.php:32
+msgid ""
+"Atuamos na assessoria estratégica, financeira e operacional do Fundo de "
+"Investimentos Advent International na aquisição de ativos das redes de "
+"ensino brasileiras Kroton Educacional e IUNI Educacional."
+msgstr ""
+"Prismapar asesoró a Advent International Investment Fund en la adquisición "
+"de activos de las redes educativas brasileñas Kroton Educacional e IUNI "
+"Educacional. El alcance del rol de Prismapar incluyó responsabilidades "
+"estratégicas, financieras y operacionales."
+
+#: cases.php:34
+msgid ""
+"Nossa equipe participou da concepção estratégica junto ao cliente, que tinha "
+"como objetivo ingressar no mercado de Ensino Superior do Brasil por meio de "
+"uma plataforma de forte crescimento. Atuamos também na busca e abordagem dos "
+"ativos promissores e em todas as etapas das aquisições, desde a preparação "
+"até o fechamento das transações que movimentaram cerca de US$ 247 milhões."
+msgstr ""
+"Junto con Advent, Prismapar desarrolló una estrategia para ingresar "
+"inorgánicamente al mercado de educación superior brasileño al construir una "
+"plataforma con grande capacidad de crecimiento. Nuestra firma mapeó y evaluó "
+"los potenciales targets, y apoyó en el proceso completo de las "
+"adquisiciones, desde la planeación hasta el cierre. Estas transacciones "
+"llegaron a un valor alrededor de US$250 millones."
+
+#: cases.php:36
+msgid ""
+"O sucesso das operações deu origem a maior organização educacional do Brasil "
+"e uma das maiores do mundo, a Cogna Educacional, com cerca de 2,4 milhões de "
+"estudantes."
+msgstr ""
+"El éxito de estos acuerdos dio lugar al mayor grupo de educación superior en "
+"Brasil y a uno de los más grandes del mundo, Cogna Educacional, con cerca de "
+"2.4 millones de estudiantes."
+
+#: cases.php:53
+#, php-format
+msgid ""
+"Assessoramos com exclusividade os acionistas vendedores na alienação de "
+"100% do capital da Verisoft para o Grupo FS Security."
+msgstr ""
+"Asesoramos, con exclusividad, a los accionistas de Verisoft en la venta del "
+"100% del capital a FS Security Group."
+
+#: cases.php:55
+msgid ""
+"Nosso trabalho envolveu a negociação das bases financeiras, a contratação de "
+"assessores jurídicos especializados, a coordenação dos trabalhos e fluxos de "
+"informação da Due Diligence e a negociação dos contratos finais, até a "
+"assinatura e fechamento do negócio."
+msgstr ""
+"Nuestro trabajo implicó negociar las bases financieras, contratar asesores "
+"legales especializados, coordinar los flujos de trabajo e información de Due "
+"Diligence y negociar los contratos finales, hasta la firma y el cierre del "
+"negocio."
+
+#: cases.php:57
+msgid ""
+"A Verisoft é uma as líderes na criação e desenvolvimento de produtos e "
+"conteúdos digitais como revistas, audiolivros, livros, cursos e revistas "
+"distribuídos por operadoras de telefonia via VAS (Value Added Services)."
+msgstr ""
+"Verisoft es uno de los líderes en la creación y desarrollo de productos y "
+"contenidos digitales como revistas, audiolibros, libros y cursos que "
+"distribuyen las operadoras telefónicas a través de VAS (Value Added "
+"Services)."
+
+#: cases.php:59
+msgid ""
+"A FS Security é um dos maiores players de tecnologia voltados a aplicações "
+"mobile no país, com expertise no desenvolvimento de aplicativos de segurança."
+msgstr ""
+"FS Security es uno de los mayores jugadores de tecnologia enfocados en "
+"aplicaciones móviles y los lideres en el desarrollo de aplicaciones de "
+"seguridad en el país."
+
+#: clients.php:2
+msgid "Nossos clientes"
+msgstr "Nuestros clientes"
+
+#: equipe.php:3
 msgid "Equipe"
 msgstr "Equipo"
 
-#: index.php:318
+#: equipe.php:5
 msgid ""
 "Somos profissionais com ampla experiência em planejamento estratégico e "
 "financeiro, com passagem pelos maiores bancos e organizações de consultoria "
@@ -180,32 +165,28 @@ msgstr ""
 "países clave dentro de la región, resultando en la entrega de soluciones "
 "personalizadas y asertivas para nuestros clientes."
 
-#: index.php:329 index.php:336 index.php:415 index.php:446
+#: equipe.php:17 equipe.php:25 equipe.php:107 equipe.php:138
 msgid "Sócio Diretor"
 msgstr "Socio Director"
 
-#: index.php:343 index.php:350 index.php:477 index.php:509
+#: equipe.php:32 equipe.php:39 equipe.php:169 equipe.php:201
 msgid "Sócio"
 msgstr "Socio"
 
-#: index.php:357 index.php:541
-msgid "Sócia"
-msgstr "Socia"
+#: equipe.php:46 equipe.php:233
+msgid "Principal"
+msgstr ""
 
-#: index.php:364
+#: equipe.php:53 equipe.php:87 equipe.php:391
 msgid "Associate"
-msgstr "Asociado"
+msgstr "Associate"
 
-#: index.php:372 index.php:380 index.php:388 index.php:603 index.php:634
-#: index.php:665
+#: equipe.php:62 equipe.php:71 equipe.php:80 equipe.php:295 equipe.php:326
+#: equipe.php:357
 msgid "Sócio Consultor"
 msgstr "Socio Asociado"
 
-#: index.php:395 index.php:699
-msgid "Analista"
-msgstr "Analista"
-
-#: index.php:417
+#: equipe.php:109
 msgid ""
 "Renato é o idealizador e sócio-fundador da Prismapar. Graduado em Economia "
 "pela Universidade George Washington, dos EUA, e com MBA pela INSEAD, da "
@@ -225,7 +206,7 @@ msgstr ""
 "el Caribe y Centroamérica. Además, supervisa las iniciativas corporativas de "
 "la empresa."
 
-#: index.php:448
+#: equipe.php:140
 msgid ""
 "Marcelo é sócio-fundador da Prismapar. Possui graduação em Engenharia pela "
 "Universidade de Los Andes e em Administração pela Wharton School (UPENN), da "
@@ -249,7 +230,7 @@ msgstr ""
 "Harvard Business School. Actualmente, Marcelo está ubicado en la sede en "
 "Bogotá y lidera las transacciones de Prismapar en la Región Andina."
 
-#: index.php:479
+#: equipe.php:171
 msgid ""
 "Oliver é sócio da Prismapar. Formado em Engenharia de Gestão pela Worcester "
 "Polytechnic Institute e com MBA pela Babson College, de Massachusetts, "
@@ -273,7 +254,7 @@ msgstr ""
 "del Babson College en EE. UU. Actualmente, Oliver lidera la sede de "
 "Prismapar en Ecuador."
 
-#: index.php:511
+#: equipe.php:203
 msgid ""
 "Bruno é sócio da Prismapar. Graduou-se em Administração pela Faculdade de "
 "Economia, Administração e Contabilidade (FEA) da Universidade de São Paulo "
@@ -296,37 +277,37 @@ msgstr ""
 "Administración de Empresas en la Universidad de São Paulo (FEA-USP). "
 "Actualmente, Bruno lidera la oficina de Prismapar en Brasil."
 
-#: index.php:543
+#: equipe.php:235
 msgid ""
-"Alejandra é sócia da Prismapar com formação em Engenheira Industrial e de "
-"Sistemas pelo Instituto Tecnológico de Monterrey, além de ter obtido uma "
-"titulação conjunta de Master of Engineering Management (MEM) pela McCormick "
-"School of Engineering e Master in Business Adminisration (MBA) na Kellogg "
-"School of Management, ambas ligadas à Universidade de Northwestern. Sua "
-"experiência profissional contempla uma passagem pela Nacional Monte Piedad, "
-"renomada instituição financeira mexicana, onde liderou projetos de "
-"Desenvolvimento de Negócios, Inovação e Due Diligence em transações de "
-"Fusões e Aquisições de empresas. Também foi gerente de Fusões e Aquisições "
-"para América Latina na Laureate Education, um dos maiores grupos de ensino "
-"superior do mundo. Atualmente, Alejandra comanda o escritório da Prismapar "
-"na Cidade do México."
+"Francisco lidera os projetos da Prismapar no México. Anteriormente, "
+"trabalhou na Domínguez, Gómez y Rocabert nas divisões de Investment Banking "
+"e Financial Advisory, posteriormente na Finankia como Head da divisão de M&A "
+"– Investment Banking. Ele também trabalhou como consultor para fundos de VC "
+"e private equity como consultor externo em Comitês de Investimento. "
+"Francisco também desenvolveu projetos empresariais que lhe permitiram ganhar "
+"experiência operacional e compreender as complexidades do dia-a-dia das "
+"operações. Sr. Gómez se formou com honras em Contabilidade e Finanças pela "
+"Universidad La Salle na Cidade do México, MX e obteve um mestrado em "
+"Finanças pelo Tecnológico de Monterrey, Campus Cidade do México. Ele fala "
+"espanhol, inglês e italiano."
 msgstr ""
-"Antes de llegar a Prismapar, Alejandra adquirió experiencia profesional al "
-"tener cargos de liderazgo relacionados a proyectos de desarrollo de "
-"negocios, innovación y debida diligencia de M&A en Nacional Monte de Piedad, "
-"una reconocida institución financiera ubicada en México. También, fue "
-"Gerente de M&A para América Latina en Laureate Education, uno de los grupos "
-"de educación superior más grandes del mundo. Alejandra se graduó de "
-"Ingeniería Industrial y de Sistemas del Tecnológico de Monterrey (ITESM) y "
-"obtuvo una licenciatura conjunta de la Universidad Northwestern, un MEM de "
-"McCormick School of Engineering y un MBA de Kellogg School of Management. "
-"Alejandra lidera la sede en Ciudad de México de Prismapar."
+"Francisco lidera los proyectos de Prismapar en México. Anteriormente laboró "
+"en Domínguez, Gómez y Rocabert en las áreas de Banca de Inversión y Asesoría "
+"Financiera y en Finankia en el área de M&A – Banca de Inversión; además de "
+"haber asesorado a fondos de capital de riesgo y capital privado como "
+"consejero externo de su Comité de Inversión. Francisco ha emprendido además "
+"proyectos propios que le han permitido adquirir experiencia operativa y "
+"entender las complejidades del día a día desde la concepción del modelo de "
+"negocio hasta eventos de liquidez y venta. El Sr. Gómez se graduó con "
+"Mención Honorífica de Contabilidad y Finanzas de la Universidad La Salle en "
+"Ciudad de México, MX y obtuvo una maestría en Finanzas del Tecnológico de "
+"Monterrey Campus Ciudad de México. Habla español, inglés e italiano."
 
-#: index.php:572
+#: equipe.php:264
 msgid "Associada"
 msgstr "Asociada"
 
-#: index.php:574
+#: equipe.php:266
 msgid ""
 "Ana é associada na Prismapar. Graduada em Ciências Econômicas pela "
 "Universidade Federal de Ouro Preto e em Ciências Contábeis pela PUC-Minas "
@@ -346,7 +327,7 @@ msgstr ""
 "así como una licenciatura en Ciencias Contables y otra en Finanzas Aplicadas "
 "de PUC-MG. Ana es parte del equipo de Prismapar en Brasil."
 
-#: index.php:605
+#: equipe.php:297
 msgid ""
 "Andrés é sócio-consultor da Prismapar. Formado em Economia e Ciências "
 "Humanas pela Pontifícia Universidade Católica do Peru, estudou finanças na "
@@ -368,7 +349,7 @@ msgstr ""
 "además de formar parte de varias juntas directivas de diversas empresas de "
 "Europa y América Latina, Andrés lidera la oficina de Prismapar Madrid."
 
-#: index.php:636
+#: equipe.php:328
 msgid ""
 "Hilario é sócio-consultor da Prismapar. Formado em Direito pela Universidade "
 "Complutense de Madri, ele obteve seu MBA pela EU Business School, da Suíça. "
@@ -393,7 +374,7 @@ msgstr ""
 "la Escuela de Negocios de la UE en Suiza. Actualmente, lidera la oficina de "
 "Prismapar en Nueva York."
 
-#: index.php:667
+#: equipe.php:359
 msgid ""
 "Daniel é sócio-consultor da Prismapar, onde iniciou sua carreira como "
 "analista. Ele é formado em Administração de Empresas pelo Instituto de "
@@ -412,34 +393,151 @@ msgstr ""
 "Empresas de INSPER en Brasil. Actualmente, colabora en proyectos específicos "
 "en Brasil."
 
-#: index.php:701
+#: equipe.php:393
 msgid ""
-"Nicolas se formou com honras em Engenharia Industrial e Administração de "
-"Empresas pela Universidad de los Andes. Antes de se juntar à Prismapar, "
-"trabalhou na Universidad de los Andes no desenvolvimento de um livro sobre a "
-"criação de unicórnios em mercados emergentes. Além disso, participou de um "
-"projeto de consultoria, da mesma universidade, para auxiliar o JEP, na "
-"Colômbia, no processamento de informações para a criação de Macrocases. "
-"Atualmente, faz parte da equipe Prismapar na Região Andina."
+"Antes de ingressar na Prismapar, Moises trabalhou no Credicorp Capital, um "
+"dos principais bancos de investimento da América Latina com operações no "
+"Peru, Chile e Colômbia, onde se focava no apoio financeiro a empreendedores. "
+"Além disso, Moisés foi membro de organizações americanas sem fins lucrativos "
+"relacionadas à educação financeira. Além disso, foi consultor do “Perú Sin "
+"Brechas”, onde apoiou a educação virtual de alunos de Catacaos, Piura. "
+"Moisés é formado em Engenharia Industrial pela Universidad de Lima. "
+"Atualmente, Moisés faz parte da Equipe Prismapar na Região Andina."
 msgstr ""
-"Nicolás se graduó con honores de Ingeniería Industrial y Administración de "
-"Empresas de la Universidad de los Andes. Antes de llegar a Prismapar, "
-"trabajó en la Universidad de los Andes en el desarrollo de un libro sobre la "
-"creación de unicornios en mercados emergentes. Adicionalmente, participó en "
-"un proyecto de consultoría, de la misma universidad, para ayudar a la JEP, "
-"en Colombia, con el procesamiento de información para la creación de "
-"Macrocasos. Actualmente, hace parte del equipo de Prismapar en la región "
-"andina."
+"Antes de unirse a Prismapar, Moisés trabajó en Credicorp Capital, una banca "
+"de inversión líder en América Latina con operaciones en Perú, Chile y "
+"Colombia, donde también apoyó financieramente a emprendedores. Además, "
+"Moisés fue miembro de organizaciones sin fines de lucro estadounidenses "
+"relacionadas a educación financiera. Adicionalmente, fue consultor en “Perú "
+"Sin Brechas” donde apoyó la educación virtual de estudiantes de Catacaos, "
+"Piura. Moisés se graduó en Ingeniería Industrial en la Universidad de Lima. "
+"Actualmente, hace parte del equipo de Prismapar en la región andina."
 
-#: index.php:727
+#: footer.php:6 index.php:55
+msgid "HISTÓRICO"
+msgstr "NUESTRA HISTÓRIA"
+
+#: footer.php:7 index.php:56 index.php:108
+msgid "PRESENÇA LATAM"
+msgstr "COBERTURA LATAM"
+
+#: footer.php:8 index.php:57
+msgid "EQUIPE"
+msgstr "EQUIPO"
+
+#: footer.php:9 index.php:58
+msgid "O QUE FAZEMOS"
+msgstr "SERVICIOS"
+
+#: footer.php:10
+msgid "EXPERIÊNCIA PRISMAPAR"
+msgstr "NUESTRA HISTORIA"
+
+#: footer.php:11
+msgid "PRISMAPAR EM NÚMEROS"
+msgstr "CASOS"
+
+#: footer.php:15
+msgid "CONTATO:"
+msgstr "CONTÁCTANOS:"
+
+#: footer.php:27
+msgid "Todos os"
+msgstr "Todos los"
+
+#: footer.php:27
+msgid "direitos reservados"
+msgstr "derechos reservados"
+
+#: footer.php:27
+msgid "Desenvolvido por"
+msgstr "Desarrollado por"
+
+#: index.php:59
+msgid "Casos"
+msgstr ""
+
+#: index.php:60
+msgid "Contato"
+msgstr "CONTÁCTANOS"
+
+#: index.php:71
+msgid "Assessoria Financeira"
+msgstr "Asesoría Financiera"
+
+#: index.php:72
+msgid "América Latina"
+msgstr "América Latina"
+
+#: index.php:74
+msgid "Av. Paulista - São Paulo"
+msgstr "Avenida Paulista - São Paulo"
+
+#: index.php:82
+msgid "20 anos de Experiência"
+msgstr "20 años de Experiencia"
+
+#: index.php:82
+msgid "em M&A"
+msgstr "en M&A"
+
+#: index.php:82
+msgid "na América Latina"
+msgstr "en América Latina"
+
+#: index.php:99
+msgid "Estádio Nacional - Costa Rica"
+msgstr "Estadio Nacional - Costa Rica"
+
+#: index.php:110
+msgid ""
+"Com sócios em 8 países, conectamos clientes nos principais mercados da "
+"América Latina."
+msgstr ""
+"Socios en 8 países, conectando clientes en los principales mercados "
+"latinoamericanos."
+
+#: index.php:130
+msgid "Palácio de Bellas Artes - México"
+msgstr "Palacio de Bellas Artes - México"
+
+#: index.php:140
 msgid "Astoria Rooftop - Bogotá"
 msgstr "Astoria Rooftop - Bogotá"
 
-#: index.php:734
+#: index.php:150
+msgid "Nova York - World Trade Center Transportation Hub"
+msgstr "World Trade Center Transportation Hub - Nueva York"
+
+#: index.php:161
+msgid "Experiência"
+msgstr "Experiencia"
+
+#: index.php:165
+msgid "Transações"
+msgstr "Transacciones completadas"
+
+#: index.php:172
+msgid "Valor Transacionado"
+msgstr "Valor total de las transacciones"
+
+#: index.php:176
+msgid "Setores de Atuação"
+msgstr "Expertos en industrias"
+
+#: index.php:185
+msgid "Praça Lagos - Guayaquil, Equador"
+msgstr "Plaza Lagos - Guayaquil"
+
+#: index.php:195
+msgid "Madrid - Templo de Debod"
+msgstr "Templo Debod - Madrid"
+
+#: o_que_fazemos.php:3
 msgid "O que fazemos"
 msgstr "Qué hacemos"
 
-#: index.php:739
+#: o_que_fazemos.php:8
 msgid ""
 "Somos especializados em Fusões e Aquisições (M&A), Levantamento de Recursos "
 "e Venture Investing e focados em transações cross-border nos principais "
@@ -449,7 +547,7 @@ msgstr ""
 "sus siglas en inglés) transfronterizas, recaudación de fondos y inversión en "
 "los principales mercados de América Latina."
 
-#: index.php:741
+#: o_que_fazemos.php:10
 msgid ""
 "Auxiliamos nossos clientes a planejar e executar seus movimentos mais "
 "estratégicos de compra, venda, diversificação e readequação de portfólio de "
@@ -459,13 +557,13 @@ msgstr ""
 "estratégicas de compras, ventas, diversificación y reequilibrio de los "
 "portafolios de productos, tecnologías y mercados."
 
-#: index.php:743
+#: o_que_fazemos.php:12
 msgid "Atuamos em todas as etapas do processo"
 msgstr ""
 "Los servicios de asesoramiento de Prismapar aplican en todas las etapas de "
 "una transacción"
 
-#: index.php:744
+#: o_que_fazemos.php:13
 msgid ""
 "1) Diagnóstico da situação inicial da empresa, dos acionistas e do mercado, "
 "identificando riscos e oportunidades envolvidos na transação"
@@ -474,7 +572,7 @@ msgstr ""
 "identificando los riesgos y oportunidades involucradas en la potencial "
 "transacción"
 
-#: index.php:745
+#: o_que_fazemos.php:14
 msgid ""
 "2) Planejamento e preparação do processo mais indicado, incluindo a "
 "preparação de materiais e o mapeamento de potenciais contrapartes, "
@@ -483,7 +581,7 @@ msgstr ""
 "2) Planificación y preparación del proceso deseado, incluyendo el desarrollo "
 "de materiales y mapeo de contrapartes potenciales, compradores o vendedores"
 
-#: index.php:751
+#: o_que_fazemos.php:20
 msgid ""
 "3) Apresentação da oportunidade às contrapartes, recebimento ou elaboração "
 "de ofertas, negociação de termos e estrutura da transação"
@@ -493,7 +591,7 @@ msgstr ""
 "vinculantes, incluyendo la negociación de los términos principales y "
 "estructura de transacción"
 
-#: index.php:752
+#: o_que_fazemos.php:21
 msgid ""
 "4) Suporte ao processo de diligência e negociação de termos e contratos "
 "finais, até o fechamento e anúncio da transação"
@@ -502,154 +600,151 @@ msgstr ""
 "contratos vinculantes definitivos, incluyendo el apoyo para la firma, cierre "
 "y anuncio de la transacción"
 
-#: index.php:753
+#: o_que_fazemos.php:22
 msgid "Para nós da Prismapar, os conceitos que permeiam todo o processo são:"
 msgstr "Los principios básicos de Prismapar son:"
 
-#: index.php:755
+#: o_que_fazemos.php:24
 msgid "- Valor para o cliente;"
 msgstr "- Valor para el cliente;"
 
-#: index.php:756
+#: o_que_fazemos.php:25
 msgid "- Dedicação e disponibilidade sênior;"
 msgstr "- Dedicación y disponibilidad;"
 
-#: index.php:757
+#: o_que_fazemos.php:26
 msgid "- Confidencialidade."
 msgstr "- Lealtad y confidencialidad."
 
-#: index.php:770
-msgid "Nova York - World Trade Center Transportation Hub"
-msgstr "World Trade Center Transportation Hub - Nueva York"
-
-#: index.php:777
-msgid "Cases Selecionados"
-msgstr "Resultados del caso"
-
-#: index.php:786
-msgid "Grupo Dajahu"
-msgstr "Grupo Dajahu"
-
-#: index.php:787
+#: timeline_desktop.php:8
 msgid ""
-"Fomos os assessores exclusivos na venda dos ativos de arroz e logística do "
-"Grupo Dajahu S.A., do Equador, para a brasileira Camil Alimentos S.A., uma "
-"das maiores empresas do setor de alimentos da América Latina."
+"Renato Souza Neto e Paulo Renato Souza, ex-ministro da Educação do Brasil, "
+"fundam a Prismapar em 2002 com o objetivo de oferecer consultoria "
+"especializada em M&A no setor de Educação no Brasil."
 msgstr ""
-"Prismapar actuó como asesor exclusivo en la venta de los activos de arroz y "
-"logística del Grupo Dajahu S.A. en Ecuador a la compañía brasileña Camil "
-"Alimentos S.A., una de las mayores empresas del sector alimenticio en "
-"América Latina."
+"Renato Souza Neto y Paulo Renato Souza, ex Ministro de Educación en Brasil, "
+"fundaron Prismapar en 2002 con el objetivo de ofrecer asesoramiento "
+"especializado en M&A para el sector educativo en Brasil."
 
-#: index.php:789
+#: timeline_desktop.php:25
+msgid "Expansão regional"
+msgstr "Expansión Regional"
+
+#: timeline_desktop.php:27
 msgid ""
-"Atuamos em todas as etapas dessa transação, desde a preparação do processo e "
-"a aproximação das partes, passando pela negociação dos termos e estrutura e "
-"pela coordenação da diligência, até a concretização do negócio, que "
-"movimentou cerca de US$ 36,5 milhões."
+"Abertura do escritório na Costa Rica em 2012 e ampliação para Colômbia em "
+"2015, com a integração de Marcelo Burbano como sócio-diretor baseado em "
+"Bogotá. Esse movimento é reforçado em 2018 com a abertura do escritório de "
+"Guayaquil, no Equador."
 msgstr ""
-"Prismapar participó en todas las etapas de la transacción de US$36 millones, "
-"desde la planeación de procesos, acercamiento a potenciales compradores, "
-"negociación de términos, la estructura de transacción, coordinación del "
-"proceso de debida diligencia e incluyendo la firma y cierre de acuerdos."
+"Prismapar abrió su oficina en Costa Rica en 2012 y se expandió a Colombia en "
+"2015, con la integración de Marcelo Burbano como Managing Partner ubicado en "
+"Bogotá. En 2018, la firma continuó creciendo, abriendo la oficina en "
+"Guayaquil, Ecuador."
 
-#: index.php:791
+#: timeline_desktop.php:44
+msgid "Expansão setorial"
+msgstr "Diversificación de la industria"
+
+#: timeline_desktop.php:46
 msgid ""
-"O Grupo Dajahu é uma das maiores organizações do Equador e atua nos ramos "
-"imobiliário, logístico e de alimentos, sendo líder no mercado de arroz do "
-"país. A venda dos ativos estava alinhada à estratégia do Grupo e permitiu "
-"novos investimentos nos setores imobiliário e logístico."
+"A partir de 2019, com a incorporação de novos sócios e colaboradores, "
+"continuamos nossa expansão regional e iniciamos nosso processo de "
+"diversificação setorial, com importantes processos e transações em setores "
+"diversos."
 msgstr ""
-"Grupo Dajahu es una de las 500 organizaciones más grandes de Ecuador, "
-"operando en los sectores de Real Estate, Logística y Alimentos. Además, la "
-"compañía lidera el mercado del arroz en Ecuador. Los activos vendidos a "
-"Camil como parte de esta transacción estaban alineados con la estrategia de "
-"Dajahu al enfocarse en los recursos en su división de Real Estate y "
-"Logística."
+"A partir del 2019, con la afiliación de nuevos socios y asesores, Prismapar "
+"continuó su expansión regional. Además, pasó a un enfoque multiindustria, "
+"asesorando importantes transacciones de M&A en diferentes sectores."
 
-#: index.php:806
+#: timeline_mobile.php:6
+msgid "Início"
+msgstr "Fundación"
+
+#: timeline_mobile.php:7
 msgid ""
-"Atuamos na assessoria estratégica, financeira e operacional do Fundo de "
-"Investimentos Advent International na aquisição de ativos das redes de "
-"ensino brasileiras Kroton Educacional e IUNI Educacional."
+"Renato Souza Neto e Paulo Renato Souza, ex-ministro da Educação do Brasil, "
+"fundam a Prismapar em 2002 com foco em M&A no setor de Educação."
 msgstr ""
-"Prismapar asesoró a Advent International Investment Fund en la adquisición "
-"de activos de las redes educativas brasileñas Kroton Educacional e IUNI "
-"Educacional. El alcance del rol de Prismapar incluyó responsabilidades "
-"estratégicas, financieras y operacionales."
+"Renato Souza Neto y Paulo Renato Souza, ex Ministro de Educación en Brasil, "
+"fundaron Prismapar en 2002 como una empresa boutique de asesoría de M&A "
+"enfocada en el sector educativo en Brasil."
 
-#: index.php:808
+#: timeline_mobile.php:14
+msgid "Expansão Regional"
+msgstr "Expansión Regional"
+
+#: timeline_mobile.php:15
 msgid ""
-"Nossa equipe participou da concepção estratégica junto ao cliente, que tinha "
-"como objetivo ingressar no mercado de Ensino Superior do Brasil por meio de "
-"uma plataforma de forte crescimento. Atuamos também na busca e abordagem dos "
-"ativos promissores e em todas as etapas das aquisições, desde a preparação "
-"até o fechamento das transações que movimentaram cerca de US$ 247 milhões."
+"Início do processo de internacionalização na América Latina com a abertura "
+"dos escritórios na Costa Rica (2012), Colômbia (2015) e Equador (2018)."
 msgstr ""
-"Junto con Advent, Prismapar desarrolló una estrategia para ingresar "
-"inorgánicamente al mercado de educación superior brasileño al construir una "
-"plataforma con grande capacidad de crecimiento. Nuestra firma mapeó y evaluó "
-"los potenciales targets, y apoyó en el proceso completo de las "
-"adquisiciones, desde la planeación hasta el cierre. Estas transacciones "
-"llegaron a un valor alrededor de US$250 millones."
+"Proceso de internacionalización para mercados relevantes de Latinoamérica, "
+"comenzando con oficinas en Costa Rica (2012), Colombia (2015) y Ecuador "
+"(2018)."
 
-#: index.php:810
+#: timeline_mobile.php:25
+msgid "Expansão Setorial"
+msgstr "Diversificación de la industria"
+
+#: timeline_mobile.php:26
 msgid ""
-"O sucesso das operações deu origem a maior organização educacional do Brasil "
-"e uma das maiores do mundo, a Cogna Educacional, com cerca de 2,4 milhões de "
-"estudantes."
+"Com a incorporação de novos sócios e colaboradores, iniciamos nossa "
+"diversificação setorial, com processos e transações em setores diversos."
 msgstr ""
-"El éxito de estos acuerdos dio lugar al mayor grupo de educación superior en "
-"Brasil y a uno de los más grandes del mundo, Cogna Educacional, con cerca de "
-"2.4 millones de estudiantes."
+"Afiliación de nuevos socios, asesores y diversificación de la industria, "
+"liderando transacciones y procesos relevantes en diferentes sectores."
 
-#: index.php:831
-msgid "Transações"
-msgstr "Transacciones completadas"
+#~ msgid "Sócia"
+#~ msgstr "Socia"
 
-#: index.php:838
-msgid "Valor Transacionado"
-msgstr "Valor total de las transacciones"
+#~ msgid "Analista"
+#~ msgstr "Analista"
 
-#: index.php:842
-msgid "Setores de Atuação"
-msgstr "Expertos en industrias"
+#~ msgid ""
+#~ "Alejandra é sócia da Prismapar com formação em Engenheira Industrial e de "
+#~ "Sistemas pelo Instituto Tecnológico de Monterrey, além de ter obtido uma "
+#~ "titulação conjunta de Master of Engineering Management (MEM) pela "
+#~ "McCormick School of Engineering e Master in Business Adminisration (MBA) "
+#~ "na Kellogg School of Management, ambas ligadas à Universidade de "
+#~ "Northwestern. Sua experiência profissional contempla uma passagem pela "
+#~ "Nacional Monte Piedad, renomada instituição financeira mexicana, onde "
+#~ "liderou projetos de Desenvolvimento de Negócios, Inovação e Due Diligence "
+#~ "em transações de Fusões e Aquisições de empresas. Também foi gerente de "
+#~ "Fusões e Aquisições para América Latina na Laureate Education, um dos "
+#~ "maiores grupos de ensino superior do mundo. Atualmente, Alejandra comanda "
+#~ "o escritório da Prismapar na Cidade do México."
+#~ msgstr ""
+#~ "Antes de llegar a Prismapar, Alejandra adquirió experiencia profesional "
+#~ "al tener cargos de liderazgo relacionados a proyectos de desarrollo de "
+#~ "negocios, innovación y debida diligencia de M&A en Nacional Monte de "
+#~ "Piedad, una reconocida institución financiera ubicada en México. También, "
+#~ "fue Gerente de M&A para América Latina en Laureate Education, uno de los "
+#~ "grupos de educación superior más grandes del mundo. Alejandra se graduó "
+#~ "de Ingeniería Industrial y de Sistemas del Tecnológico de Monterrey "
+#~ "(ITESM) y obtuvo una licenciatura conjunta de la Universidad "
+#~ "Northwestern, un MEM de McCormick School of Engineering y un MBA de "
+#~ "Kellogg School of Management. Alejandra lidera la sede en Ciudad de "
+#~ "México de Prismapar."
 
-#: index.php:851
-msgid "Praça Lagos - Guayaquil, Equador"
-msgstr "Plaza Lagos - Guayaquil"
-
-#: index.php:857
-msgid "Nossos clientes"
-msgstr "Nuestros clientes"
-
-#: index.php:950
-msgid "Madrid - Templo de Debod"
-msgstr "Templo Debod - Madrid"
-
-#: index.php:965
-msgid "EXPERIÊNCIA PRISMAPAR"
-msgstr "NUESTRA HISTORIA"
-
-#: index.php:966
-msgid "PRISMAPAR EM NÚMEROS"
-msgstr "CASOS"
-
-#: index.php:970
-msgid "CONTATO:"
-msgstr "CONTÁCTANOS:"
-
-#: index.php:982
-msgid "Todos os"
-msgstr "Todos los"
-
-#: index.php:982
-msgid "direitos reservados"
-msgstr "derechos reservados"
-
-#: index.php:982
-msgid "Desenvolvido por"
-msgstr "Desarrollado por"
+#~ msgid ""
+#~ "Nicolas se formou com honras em Engenharia Industrial e Administração de "
+#~ "Empresas pela Universidad de los Andes. Antes de se juntar à Prismapar, "
+#~ "trabalhou na Universidad de los Andes no desenvolvimento de um livro "
+#~ "sobre a criação de unicórnios em mercados emergentes. Além disso, "
+#~ "participou de um projeto de consultoria, da mesma universidade, para "
+#~ "auxiliar o JEP, na Colômbia, no processamento de informações para a "
+#~ "criação de Macrocases. Atualmente, faz parte da equipe Prismapar na "
+#~ "Região Andina."
+#~ msgstr ""
+#~ "Nicolás se graduó con honores de Ingeniería Industrial y Administración "
+#~ "de Empresas de la Universidad de los Andes. Antes de llegar a Prismapar, "
+#~ "trabajó en la Universidad de los Andes en el desarrollo de un libro sobre "
+#~ "la creación de unicornios en mercados emergentes. Adicionalmente, "
+#~ "participó en un proyecto de consultoría, de la misma universidad, para "
+#~ "ayudar a la JEP, en Colombia, con el procesamiento de información para la "
+#~ "creación de Macrocasos. Actualmente, hace parte del equipo de Prismapar "
+#~ "en la región andina."
 
 #~ msgid "Consultor"
 #~ msgstr "Socio Asociado"
