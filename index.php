@@ -56,7 +56,7 @@ bind_textdomain_codeset($domain, 'UTF-8');
             <li class="nav-item ml-3"> <a class="nav-link p-0" href="#presenca"> <?php echo _('PRESENÇA LATAM'); ?> </a> </li>
             <li class="nav-item ml-3"> <a class="nav-link p-0" href="#equipe"> <?php echo _('EQUIPE'); ?> </a> </li>
             <li class="nav-item ml-3"> <a class="nav-link p-0" href="#o-que-fazemos"> <?php echo _('O QUE FAZEMOS'); ?> </a> </li>
-            <li class="nav-item ml-3"> <a class="nav-link p-0" href="#cases"> <?php echo _('Experiência Prismapar'); ?> </a> </li>
+            <li class="nav-item ml-3"> <a class="nav-link p-0" href="#cases"> <?php echo _('Casos'); ?> </a> </li>
             <li class="nav-item ml-3"> <a class="nav-link p-0" href="#contato"> <?php echo _('Contato'); ?> </a> </li>
           </ul>
         </div>
@@ -158,7 +158,7 @@ bind_textdomain_codeset($domain, 'UTF-8');
     <!-- Numbers -->
     <section id="numeros" class="num-sec py-3" style="background-image: url(./assets/images/bg_numbers.jpg); background-position: center; background-size: cover; background-repeat: no-repeat;">
       <div class="col-lg-8 mx-auto text-center py-5">
-        <h1 class="txt-blu"> <?php echo _('Experiência Prismapar'); ?> </h1>
+        <h1 class="txt-blu"> <?php echo _('Experiência'); ?> </h1>
         <div class="row mx-auto">
           <div class="col-lg col-md">
             <p class="display-counter">+120</p>

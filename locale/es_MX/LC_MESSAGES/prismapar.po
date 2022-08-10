@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2022-08-08 15:22-0300\n"
-"PO-Revision-Date: 2022-08-08 15:23-0300\n"
+"POT-Creation-Date: 2022-08-10 14:55-0300\n"
+"PO-Revision-Date: 2022-08-10 14:55-0300\n"
 "Last-Translator: Sergio Dobke <sergio@dobke.com.ar>\n"
 "Language-Team: \n"
 "Language: es_MX\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.1\n"
+"X-Generator: Poedit 3.1.1\n"
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -18,7 +18,9 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-1: V17\n"
 
 #: cases.php:3
-msgid "Cases Selecionados"
+#, fuzzy
+#| msgid "Cases Selecionados"
+msgid "Casos Selecionados"
 msgstr "Resultados del caso"
 
 #: cases.php:12
@@ -97,6 +99,47 @@ msgstr ""
 "El éxito de estos acuerdos dio lugar al mayor grupo de educación superior en "
 "Brasil y a uno de los más grandes del mundo, Cogna Educacional, con cerca de "
 "2.4 millones de estudiantes."
+
+#: cases.php:53
+#, php-format
+msgid ""
+"Assessoramos com exclusividade os acionistas vendedores na alienação de "
+"100% do capital da Verisoft para o Grupo FS Security."
+msgstr ""
+"Asesoramos, con exclusividad, a los accionistas de Verisoft en la venta del "
+"100% del capital a FS Security Group."
+
+#: cases.php:55
+msgid ""
+"Nosso trabalho envolveu a negociação das bases financeiras, a contratação de "
+"assessores jurídicos especializados, a coordenação dos trabalhos e fluxos de "
+"informação da Due Diligence e a negociação dos contratos finais, até a "
+"assinatura e fechamento do negócio."
+msgstr ""
+"Nuestro trabajo implicó negociar las bases financieras, contratar asesores "
+"legales especializados, coordinar los flujos de trabajo e información de Due "
+"Diligence y negociar los contratos finales, hasta la firma y el cierre del "
+"negocio."
+
+#: cases.php:57
+msgid ""
+"A Verisoft é uma as líderes na criação e desenvolvimento de produtos e "
+"conteúdos digitais como revistas, audiolivros, livros, cursos e revistas "
+"distribuídos por operadoras de telefonia via VAS (Value Added Services)."
+msgstr ""
+"Verisoft es uno de los líderes en la creación y desarrollo de productos y "
+"contenidos digitales como revistas, audiolibros, libros y cursos que "
+"distribuyen las operadoras telefónicas a través de VAS (Value Added "
+"Services)."
+
+#: cases.php:59
+msgid ""
+"A FS Security é um dos maiores players de tecnologia voltados a aplicações "
+"mobile no país, com expertise no desenvolvimento de aplicativos de segurança."
+msgstr ""
+"FS Security es uno de los mayores jugadores de tecnologia enfocados en "
+"aplicaciones móviles y los lideres en el desarrollo de aplicaciones de "
+"seguridad en el país."
 
 #: clients.php:2
 msgid "Nossos clientes"
@@ -410,9 +453,9 @@ msgstr "derechos reservados"
 msgid "Desenvolvido por"
 msgstr "Desarrollado por"
 
-#: index.php:59 index.php:161
-msgid "Experiência Prismapar"
-msgstr "CASOS"
+#: index.php:59
+msgid "Casos"
+msgstr ""
 
 #: index.php:60
 msgid "Contato"
@@ -448,10 +491,10 @@ msgstr "Estadio Nacional - Costa Rica"
 
 #: index.php:110
 msgid ""
-"Com sócios em 7 países, conectamos clientes nos principais mercados da "
+"Com sócios em 8 países, conectamos clientes nos principais mercados da "
 "América Latina."
 msgstr ""
-"Socios en 7 países, conectando clientes en los principales mercados "
+"Socios en 8 países, conectando clientes en los principales mercados "
 "latinoamericanos."
 
 #: index.php:130
@@ -465,6 +508,10 @@ msgstr "Astoria Rooftop - Bogotá"
 #: index.php:150
 msgid "Nova York - World Trade Center Transportation Hub"
 msgstr "World Trade Center Transportation Hub - Nueva York"
+
+#: index.php:161
+msgid "Experiência"
+msgstr "Experiencia"
 
 #: index.php:165
 msgid "Transações"

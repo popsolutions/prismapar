@@ -1,6 +1,6 @@
 <section id="cases" style="background-image: url(./assets/images/timeline.png); background-position: center; background-size: cover; background-repeat: no-repeat;" class="py-5">
   <div class="col-lg-8 mx-auto text-center Cases-sec">
-    <h1 class="txt-blu"> <?php echo _('Cases Selecionados'); ?> </h1>
+    <h1 class="txt-blu"> <?php echo _('Casos Selecionados'); ?> </h1>
     <section class="pt-5">
       <div class="owl-carousel owl-carousel1 owl-theme owl-loaded owl-drag">
         <div class="row content">
@@ -39,6 +39,29 @@
             </p>
           </div>
           <div class="col-lg-6 case_img" style=" background-image: url('assets/imgs/Foto_Case_2.png')"> </div>
+        </div>
+
+        <div class="row content">
+          <div class="col-lg-6 case_content">
+            <h3>Advent International</h3>
+            <div class="s_hr text-left pt0 pb0" data-snippet="s_hr" data-name="Separator">
+              <hr class="w-100 mx-auto" style="border-top-style: solid; border-top-width: 2px !important;">
+            </div>
+            <h3 style="margin-bottom: 20px">FS Security à Verisoft</h3>
+            <p class="lead"> </p>
+            <p> </p>
+            <p><?php echo _('Assessoramos com exclusividade os acionistas vendedores na alienação de 100% do capital da Verisoft para o Grupo FS Security.'); ?> </p>
+
+            <p> <?php echo _('Nosso trabalho envolveu a negociação das bases financeiras, a contratação de assessores jurídicos especializados, a coordenação dos trabalhos e fluxos de informação da Due Diligence e a negociação dos contratos finais, até a assinatura e fechamento do negócio.'); ?> </p>
+
+            <p> <?php echo _('A Verisoft é uma as líderes na criação e desenvolvimento de produtos e conteúdos digitais como revistas, audiolivros, livros, cursos e revistas distribuídos por operadoras de telefonia via VAS (Value Added Services).'); ?>
+            </p>
+            <p> <?php echo _('A FS Security é um dos maiores players de tecnologia voltados a aplicações mobile no país, com expertise no desenvolvimento de aplicativos de segurança.'); ?>
+            </p>
+            <p> <img style="width: 50% !important;" aria-describedby="tooltip139855" title="" data-original-title="" data-mimetype="image/png" data-original-src="./assets/imgs/logo_verisoft.png" data-original-id="710" src="./assets/imgs/logo_verisoft.png" class="img-fluid o_we_custom_image" loading="lazy"> <br>
+            </p>
+          </div>
+          <div class="col-lg-6 case_img" style=" background-image: url('assets/imgs/Foto_Case_3.png')"> </div>
         </div>
       </div>
     </section>

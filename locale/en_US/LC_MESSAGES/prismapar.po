@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2022-08-08 14:47-0300\n"
-"PO-Revision-Date: 2022-08-08 14:52-0300\n"
+"POT-Creation-Date: 2022-08-10 14:53-0300\n"
+"PO-Revision-Date: 2022-08-10 14:54-0300\n"
 "Last-Translator: Sergio Dobke <sergio@dobke.com.ar>\n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -10,14 +10,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.1\n"
+"X-Generator: Poedit 3.1.1\n"
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: V17\n"
 "X-Poedit-SearchPathExcluded-1: assets/js\n"
 
 #: cases.php:3
-msgid "Cases Selecionados"
+#, fuzzy
+#| msgid "Cases Selecionados"
+msgid "Casos Selecionados"
 msgstr "Case Results"
 
 #: cases.php:12
@@ -95,6 +97,46 @@ msgstr ""
 "in Brazil and one of the world’s largest, Cogna Educacional, with around 2.4 "
 "million students."
 
+#: cases.php:53
+#, php-format
+msgid ""
+"Assessoramos com exclusividade os acionistas vendedores na alienação de "
+"100% do capital da Verisoft para o Grupo FS Security."
+msgstr ""
+"We advised the selling shareholders with exclusivity in the sale of 100% of "
+"Verisoft's capital to the FS Security Group."
+
+#: cases.php:55
+msgid ""
+"Nosso trabalho envolveu a negociação das bases financeiras, a contratação de "
+"assessores jurídicos especializados, a coordenação dos trabalhos e fluxos de "
+"informação da Due Diligence e a negociação dos contratos finais, até a "
+"assinatura e fechamento do negócio."
+msgstr ""
+"Our work involved negotiating the financial bases, hiring a specialized "
+"legal advisors, coordinating the work and information flows of Due Diligence "
+"and negotiating the final contracts, up to the signing and closing of the "
+"deal."
+
+#: cases.php:57
+msgid ""
+"A Verisoft é uma as líderes na criação e desenvolvimento de produtos e "
+"conteúdos digitais como revistas, audiolivros, livros, cursos e revistas "
+"distribuídos por operadoras de telefonia via VAS (Value Added Services)."
+msgstr ""
+"Verisoft is one of the leaders in the creation and development of products "
+"and digital content such as magazines, audiobooks, books, courses and "
+"magazines distributed by mobile operators via VAS (Value Added Services)."
+
+#: cases.php:59
+msgid ""
+"A FS Security é um dos maiores players de tecnologia voltados a aplicações "
+"mobile no país, com expertise no desenvolvimento de aplicativos de segurança."
+msgstr ""
+"FS Security is one of the largest technology players focused on mobile "
+"applications in the country, with expertise in the development of security "
+"applications."
+
 #: clients.php:2
 msgid "Nossos clientes"
 msgstr "Our clients"
@@ -126,11 +168,11 @@ msgstr "Managing Partner"
 msgid "Sócio"
 msgstr "Partner"
 
-#: equipe.php:46
-msgid "Sócia"
-msgstr "Partner"
+#: equipe.php:46 equipe.php:233
+msgid "Principal"
+msgstr ""
 
-#: equipe.php:53 equipe.php:391
+#: equipe.php:53 equipe.php:87 equipe.php:391
 msgid "Associate"
 msgstr "Associate"
 
@@ -138,10 +180,6 @@ msgstr "Associate"
 #: equipe.php:357
 msgid "Sócio Consultor"
 msgstr "Associate Partner"
-
-#: equipe.php:87
-msgid "Analista"
-msgstr "Analyst"
 
 #: equipe.php:109
 msgid ""
@@ -231,10 +269,6 @@ msgstr ""
 "Prova.lá, an e-marketplace. Bruno holds a degree in Business Administration "
 "from the University of São Paulo (FEA-USP) and leads Prismapar’s office in "
 "Brazil."
-
-#: equipe.php:233
-msgid "Principal"
-msgstr ""
 
 #: equipe.php:235
 msgid ""
@@ -410,9 +444,9 @@ msgstr "rights reserved"
 msgid "Desenvolvido por"
 msgstr "Developed by"
 
-#: index.php:59 index.php:161
-msgid "Experiência Prismapar"
-msgstr "CASES"
+#: index.php:59
+msgid "Casos"
+msgstr "Cases"
 
 #: index.php:60
 msgid "Contato"
@@ -448,10 +482,10 @@ msgstr "National Stadium – Costa Rica"
 
 #: index.php:110
 msgid ""
-"Com sócios em 7 países, conectamos clientes nos principais mercados da "
+"Com sócios em 8 países, conectamos clientes nos principais mercados da "
 "América Latina."
 msgstr ""
-"Partners in 7 countries, connecting clients in main Latin American markets."
+"Partners in 8 countries, connecting clients in main Latin American markets."
 
 #: index.php:130
 msgid "Palácio de Bellas Artes - México"
@@ -464,6 +498,10 @@ msgstr "Astoria Rooftop – Bogotá"
 #: index.php:150
 msgid "Nova York - World Trade Center Transportation Hub"
 msgstr "World Trade Center Transportation Hub – New York"
+
+#: index.php:161
+msgid "Experiência"
+msgstr "Experience"
 
 #: index.php:165
 msgid "Transações"
@@ -642,6 +680,12 @@ msgid ""
 msgstr ""
 "Affiliation of new partners, employees, and industry diversification, "
 "executing relevant transactions and processes in different sectors."
+
+#~ msgid "Sócia"
+#~ msgstr "Partner"
+
+#~ msgid "Analista"
+#~ msgstr "Analyst"
 
 #~ msgid ""
 #~ "Alejandra é sócia da Prismapar com formação em Engenheira Industrial e de "
