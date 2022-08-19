@@ -53,7 +53,6 @@
               <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Associate'); ?> </p>
             </div>
           </div>
-          </div>
           <div class="owl-item">
             <div class="bbb_viewed_item d-flex flex-column align-items-center justify-content-center text-center" data-toggle="modal" data-target="#Modal-10"> <img src="./assets/images/12.Moises@3x.png">
               <h2 class="equipe_img_nme8 text-white">Moises Gutierrez </h2>
