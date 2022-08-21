@@ -54,6 +54,13 @@
             </div>
           </div>
           <div class="owl-item">
+            <div class="bbb_viewed_item d-flex flex-column align-items-center justify-content-center text-center" data-toggle="modal" data-target="#Modal-10"> <img src="./assets/images/12.Moises@3x.png">
+              <h2 class="equipe_img_nme8 text-white">Moises Gutierrez </h2>
+              <p class="equipe_img_tag1 text-white mb-0"> &nbsp; &nbsp; &nbsp; </p>
+              <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Associate'); ?> </p>
+            </div>
+          </div>
+          <div class="owl-item">
             <div class="bbb_viewed_item d-flex flex-column align-items-center justify-content-center text-center" data-toggle="modal" data-target="#Modal-7"> <img src="./assets/images/8.Andres@3x.png">
               <h2 class="equipe_img_nme7 text-white">Andrés Cardó</h2>
               <!--<p class="equipe_img_tag1 text-white text-left mb-0"> <?php //echo _('Sócio');
@@ -78,13 +85,6 @@
                                                                         ?> &nbsp; &nbsp;
                     &nbsp;</p>-->
               <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Associate Partner'); ?> </p>
-            </div>
-          </div>
-          <div class="owl-item">
-            <div class="bbb_viewed_item d-flex flex-column align-items-center justify-content-center text-center" data-toggle="modal" data-target="#Modal-10"> <img src="./assets/images/12.Moises@3x.png">
-              <h2 class="equipe_img_nme8 text-white">Moises Gutierrez </h2>
-              <p class="equipe_img_tag1 text-white mb-0"> &nbsp; &nbsp; &nbsp; </p>
-              <p class="equipe_img_tag2 text-white mb-0"> <?php echo _('Associate'); ?> </p>
             </div>
           </div>
           <div class="owl-item">
@@ -286,102 +286,6 @@
         </div>
       </div>
       <!-- Modal 7 -->
-      <div class="modal fade" id="Modal-7" tabindex="-1" role="dialog" aria-labelledby="Modal-7" aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered" role="document">
-          <div class="modal-content">
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">x</span> </button>
-            <div class="modal-body text-white">
-              <div class="container-fluid ">
-                <div class="row">
-                  <div class="col-sm-8">
-                    <div class="modal-nome">
-                      <h3>Andrés Cardó </h3>
-                      <hr>
-                    </div>
-                    <div class="modal-cargo ">
-                      <h5> <?php echo _('Sócio Consultor'); ?> </h5>
-                    </div>
-                    <div class="modal-detalle "> <?php echo _('Andrés é sócio-consultor da Prismapar. Formado em Economia e Ciências Humanas pela Pontifícia Universidade Católica do Peru, estudou finanças na Universidade ESAN, em Lima, e obteve seu MBA na IESE Business School, de Madri. Executivo com ampla experiência internacional em cargos diretivos, trabalhou em diversas funções executivas dentro do Grupo Prisa, maior conglomerado de comunicação da Espanha. Também foi líder na expansão do Grupo Santillana na América Latina. Atualmente, além de participar do conselho de diversas empresas na Europa e na América Latina, Andrés é diretor do escritório da Prismapar em Madri, na Espanha.'); ?> </div>
-                    <div class="row modal-redes">
-                      <div class="col-8 contato-modal">
-                        <a href="mailto:spain@prismapar.com" class="text-white"><i class="bi-envelope-fill" style="font-size: 18px;"></i> spain@prismapar.com</a>
-                      </div>
-                      <div class="col-4 contato-modal"> <a href="https://www.linkedin.com/in/andr%C3%A9s-card%C3%B3/" target="_blank" class="text-white"> <img class="logo-linkedin" src="./assets/imgs/logo_linkedin.png" target="_blank"></a> </div>
-                    </div>
-                  </div>
-                  <div class="col-sm-4 foto-modal f_equipe-7 px-0"> </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- Modal 8 -->
-      <div class="modal fade" id="Modal-8" tabindex="-1" role="dialog" aria-labelledby="Modal-8" aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered" role="document">
-          <div class="modal-content">
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">x</span> </button>
-            <div class="modal-body text-white">
-              <div class="container-fluid ">
-                <div class="row">
-                  <div class="col-sm-8">
-                    <div class="modal-nome">
-                      <h3>Hilario Nuño </h3>
-                      <hr>
-                    </div>
-                    <div class="modal-cargo ">
-                      <h5><?php echo _('Sócio Consultor'); ?> </h5>
-                    </div>
-                    <div class="modal-detalle "> <?php echo _('Hilario é sócio-consultor da Prismapar. Formado em Direito pela Universidade Complutense de Madri, ele obteve seu MBA pela EU Business School, da Suíça. Ao longo de sua carreira, Hilario atuou como consultor independente e associado para bancos de investimento prestando assessoria para acionistas e empresas da América Latina nos setores financeiro, agroindustrial, energia, educação e farmacêutico, entre outros. Também foi co-diretor de Fusões e Aquisições do UBS, em Nova York, aconselhando também grupos familiares na América Latina. Além disso, Hilario atuou como diretor e membro do Conselho da SISCO na América Central, onde teve a oportunidade de executar diversos projetos. Hoje, Hilario é diretor do escritório da Prismapar em Nova York.'); ?> </div>
-                    <div class="row modal-redes">
-                      <div class="col-8 contato-modal">
-                        <a href="mailto:usa@prismapar.com" class="text-white"><i class="bi-envelope-fill" style="font-size: 18px;"></i> usa@prismapar.com</a>
-                      </div>
-                      <div class="col-4 contato-modal"> <a href="https://www.linkedin.com/in/hilarionuno" target="_blank" class="text-white"> <img class="logo-linkedin" src="./assets/imgs/logo_linkedin.png" target="_blank"></a> </div>
-                    </div>
-                  </div>
-                  <div class="col-sm-4 foto-modal f_equipe-8 px-0"> </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="modal fade" id="Modal-9" tabindex="-1" role="dialog" aria-labelledby="Modal-9" aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered" role="document">
-          <div class="modal-content">
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">x</span> </button>
-            <div class="modal-body text-white">
-              <div class="container-fluid ">
-                <div class="row">
-                  <div class="col-sm-8">
-                    <div class="modal-nome">
-                      <h3>Daniel Stiebler Villela </h3>
-                      <hr>
-                    </div>
-                    <div class="modal-cargo ">
-                      <h5> <?php echo _('Sócio Consultor'); ?> </h5>
-                    </div>
-                    <div class="modal-detalle "> <?php echo _('Daniel é sócio-consultor da Prismapar, onde iniciou sua carreira como analista. Ele é formado em Administração de Empresas pelo Instituto de Ensino e Pesquisa (INSPER), do Brasil. Em sua trajetória profissional, Daniel trabalhou na divisão de Investimentos do Unibanco, atuando na área de Mercado de Capitais e Fusões e Aquisições. Também foi colaborador na GP Investimentos/BRZ Investimentos, atuando na análise de novos projetos, monitoramento de portfólio e relação com investidores de fundos. Atualmente, ele colabora em projetos específicos da Prismapar no Brasil.'); ?> </div>
-                    <div class="row modal-redes">
-                      <div class="col-8 contato-modal">
-                        <a href="mailto:daniel.villela@prismapar.com.br" class="text-white"><i class="bi-envelope-fill" style="font-size: 18px;"></i>
-                          daniel.villela@prismapar.com.br</a>
-                      </div>
-                      <div class="col-4 contato-modal">
-                        <a href="https://www.linkedin.com/in/daniel-villela-826b4b35/" target="_blank" class="text-white"> <img class="logo-linkedin" src="./assets/imgs/logo_linkedin.png" target="_blank"></a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-sm-4 foto-modal f_equipe-9 px-0"> </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
       <div class="modal fade" id="Modal-10" tabindex="-1" role="dialog" aria-labelledby="Modal-10" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
           <div class="modal-content">
@@ -415,7 +319,103 @@
           </div>
         </div>
       </div>
-
+      <!-- Modal 8 -->
+      <div class="modal fade" id="Modal-7" tabindex="-1" role="dialog" aria-labelledby="Modal-7" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">x</span> </button>
+            <div class="modal-body text-white">
+              <div class="container-fluid ">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <div class="modal-nome">
+                      <h3>Andrés Cardó </h3>
+                      <hr>
+                    </div>
+                    <div class="modal-cargo ">
+                      <h5> <?php echo _('Sócio Consultor'); ?> </h5>
+                    </div>
+                    <div class="modal-detalle "> <?php echo _('Andrés é sócio-consultor da Prismapar. Formado em Economia e Ciências Humanas pela Pontifícia Universidade Católica do Peru, estudou finanças na Universidade ESAN, em Lima, e obteve seu MBA na IESE Business School, de Madri. Executivo com ampla experiência internacional em cargos diretivos, trabalhou em diversas funções executivas dentro do Grupo Prisa, maior conglomerado de comunicação da Espanha. Também foi líder na expansão do Grupo Santillana na América Latina. Atualmente, além de participar do conselho de diversas empresas na Europa e na América Latina, Andrés é diretor do escritório da Prismapar em Madri, na Espanha.'); ?> </div>
+                    <div class="row modal-redes">
+                      <div class="col-8 contato-modal">
+                        <a href="mailto:spain@prismapar.com" class="text-white"><i class="bi-envelope-fill" style="font-size: 18px;"></i> spain@prismapar.com</a>
+                      </div>
+                      <div class="col-4 contato-modal"> <a href="https://www.linkedin.com/in/andr%C3%A9s-card%C3%B3/" target="_blank" class="text-white"> <img class="logo-linkedin" src="./assets/imgs/logo_linkedin.png" target="_blank"></a> </div>
+                    </div>
+                  </div>
+                  <div class="col-sm-4 foto-modal f_equipe-7 px-0"> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Modal 9 -->
+      <div class="modal fade" id="Modal-8" tabindex="-1" role="dialog" aria-labelledby="Modal-8" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">x</span> </button>
+            <div class="modal-body text-white">
+              <div class="container-fluid ">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <div class="modal-nome">
+                      <h3>Hilario Nuño </h3>
+                      <hr>
+                    </div>
+                    <div class="modal-cargo ">
+                      <h5><?php echo _('Sócio Consultor'); ?> </h5>
+                    </div>
+                    <div class="modal-detalle "> <?php echo _('Hilario é sócio-consultor da Prismapar. Formado em Direito pela Universidade Complutense de Madri, ele obteve seu MBA pela EU Business School, da Suíça. Ao longo de sua carreira, Hilario atuou como consultor independente e associado para bancos de investimento prestando assessoria para acionistas e empresas da América Latina nos setores financeiro, agroindustrial, energia, educação e farmacêutico, entre outros. Também foi co-diretor de Fusões e Aquisições do UBS, em Nova York, aconselhando também grupos familiares na América Latina. Além disso, Hilario atuou como diretor e membro do Conselho da SISCO na América Central, onde teve a oportunidade de executar diversos projetos. Hoje, Hilario é diretor do escritório da Prismapar em Nova York.'); ?> </div>
+                    <div class="row modal-redes">
+                      <div class="col-8 contato-modal">
+                        <a href="mailto:usa@prismapar.com" class="text-white"><i class="bi-envelope-fill" style="font-size: 18px;"></i> usa@prismapar.com</a>
+                      </div>
+                      <div class="col-4 contato-modal"> <a href="https://www.linkedin.com/in/hilarionuno" target="_blank" class="text-white"> <img class="logo-linkedin" src="./assets/imgs/logo_linkedin.png" target="_blank"></a> </div>
+                    </div>
+                  </div>
+                  <div class="col-sm-4 foto-modal f_equipe-8 px-0"> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Modal 10 -->
+      <div class="modal fade" id="Modal-9" tabindex="-1" role="dialog" aria-labelledby="Modal-9" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">x</span> </button>
+            <div class="modal-body text-white">
+              <div class="container-fluid ">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <div class="modal-nome">
+                      <h3>Daniel Stiebler Villela </h3>
+                      <hr>
+                    </div>
+                    <div class="modal-cargo ">
+                      <h5> <?php echo _('Sócio Consultor'); ?> </h5>
+                    </div>
+                    <div class="modal-detalle "> <?php echo _('Daniel é sócio-consultor da Prismapar, onde iniciou sua carreira como analista. Ele é formado em Administração de Empresas pelo Instituto de Ensino e Pesquisa (INSPER), do Brasil. Em sua trajetória profissional, Daniel trabalhou na divisão de Investimentos do Unibanco, atuando na área de Mercado de Capitais e Fusões e Aquisições. Também foi colaborador na GP Investimentos/BRZ Investimentos, atuando na análise de novos projetos, monitoramento de portfólio e relação com investidores de fundos. Atualmente, ele colabora em projetos específicos da Prismapar no Brasil.'); ?> </div>
+                    <div class="row modal-redes">
+                      <div class="col-8 contato-modal">
+                        <a href="mailto:daniel.villela@prismapar.com.br" class="text-white"><i class="bi-envelope-fill" style="font-size: 18px;"></i>
+                          daniel.villela@prismapar.com.br</a>
+                      </div>
+                      <div class="col-4 contato-modal">
+                        <a href="https://www.linkedin.com/in/daniel-villela-826b4b35/" target="_blank" class="text-white"> <img class="logo-linkedin" src="./assets/imgs/logo_linkedin.png" target="_blank"></a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-sm-4 foto-modal f_equipe-9 px-0"> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Modal 11 -->
       <div class="modal fade" id="Modal-11" tabindex="-1" role="dialog" aria-labelledby="Modal-11" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
           <div class="modal-content">
