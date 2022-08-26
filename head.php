@@ -18,12 +18,12 @@
 
 <!-- Title of the page -->
 <title>Home | Prismapar</title>
-<meta property="og:url" content="https://prismapar.com" />
+<meta property="og:url" content="https://prismapar.dobke.ar" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Prismapar" />
 <meta property="og:description" content="Assessoria Financeira 
 20 anos de experiência em M&A na América Latina" />
-<meta property="og:image" content="http://static01.nyt.com/images/2015/02/19/arts/international/19iht-btnumbers19A/19iht-btnumbers19A-facebookJumbo-v2.jpg" />
+<meta property="og:image" content="https://prismapar.dobke.ar/assets/images/prismapar_og_logo.jpg" />
 <!-- Favicon -->
 <link type="image/x-icon" rel="shortcut icon" href="./assets/images/favicon.ico">
 
