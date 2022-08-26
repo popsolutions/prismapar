@@ -4,13 +4,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Home | Prismapar">
-<meta name="twitter:image" content="https://prismapar.dobke.ar/assets/images/prismapar_og_logo.jpg">
-<meta property="og:url" content="https://prismapar.dobke.ar" />
+<meta name="twitter:image" content="https://prismapar.com/assets/images/prismapar_og_logo.jpg">
+<meta property="og:url" content="https://prismapar.com" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Prismapar" />
 <meta property="og:description" content="Assessoria Financeira 
 20 anos de experiência em M&A na América Latina" />
-<meta property="og:image" content="https://prismapar.dobke.ar/assets/images/prismapar_og_logo.jpg" />
+<meta property="og:image" content="https://prismapar.com/assets/images/prismapar_og_logo.jpg" />
 
 <!-- External Files Linking -->
 <link rel="stylesheet" href="./assets/css/index.css">
