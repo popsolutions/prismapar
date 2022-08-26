@@ -2,14 +2,15 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Home | Prismapar">
-<meta property="og:site_name" content="Prismapar">
-<meta property="og:url" content="http://prismapar.popsolutions.co/">
-<meta property="og:image" content="/assets/images/logo.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Home | Prismapar">
-<meta name="twitter:image" content="/assets/images/logo.png">
+<meta name="twitter:image" content="/assets/images/prismapar_og_logo.jpg">
+<meta property="og:url" content="https://prismapar.dobke.ar" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Prismapar" />
+<meta property="og:description" content="Assessoria Financeira 
+20 anos de experiência em M&A na América Latina" />
+<meta property="og:image" content="/assets/images/prismapar_og_logo.jpg" />
 
 <!-- External Files Linking -->
 <link rel="stylesheet" href="./assets/css/index.css">
@@ -18,12 +19,7 @@
 
 <!-- Title of the page -->
 <title>Home | Prismapar</title>
-<meta property="og:url" content="https://prismapar.dobke.ar" />
-<meta property="og:type" content="website" />
-<meta property="og:title" content="Prismapar" />
-<meta property="og:description" content="Assessoria Financeira 
-20 anos de experiência em M&A na América Latina" />
-<meta property="og:image" content="https://prismapar.dobke.ar/assets/images/prismapar_og_logo.jpg" />
+
 <!-- Favicon -->
 <link type="image/x-icon" rel="shortcut icon" href="./assets/images/favicon.ico">
 
